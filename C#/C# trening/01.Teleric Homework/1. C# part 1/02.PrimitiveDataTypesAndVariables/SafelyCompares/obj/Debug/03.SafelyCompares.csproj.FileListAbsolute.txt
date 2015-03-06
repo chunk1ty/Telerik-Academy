@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\SafelyCompares\bin\Debug\SafelyCompares.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\SafelyCompares\bin\Debug\SafelyCompares.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\SafelyCompares\bin\Debug\SafelyCompares.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\SafelyCompares\obj\Debug\03.SafelyCompares.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\SafelyCompares\obj\Debug\SafelyCompares.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\SafelyCompares\obj\Debug\SafelyCompares.pdb
+Z:\C#\c# trening\Teleric\2.PrimitiveDataTypesAndVariables\SafelyCompares\bin\Debug\SafelyCompares.exe.config
+Z:\C#\c# trening\Teleric\2.PrimitiveDataTypesAndVariables\SafelyCompares\obj\Debug\SafelyCompares.exe
+Z:\C#\c# trening\Teleric\2.PrimitiveDataTypesAndVariables\SafelyCompares\obj\Debug\SafelyCompares.pdb

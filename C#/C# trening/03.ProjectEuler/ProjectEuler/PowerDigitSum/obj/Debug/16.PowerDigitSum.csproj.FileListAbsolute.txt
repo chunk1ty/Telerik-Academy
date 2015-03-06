@@ -1,0 +1,12 @@
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PowerDigitSum\bin\Debug\PowerDigitSum.exe.config
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PowerDigitSum\bin\Debug\PowerDigitSum.exe
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PowerDigitSum\bin\Debug\PowerDigitSum.pdb
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PowerDigitSum\obj\Debug\16.PowerDigitSum.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PowerDigitSum\obj\Debug\PowerDigitSum.exe
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PowerDigitSum\obj\Debug\PowerDigitSum.pdb
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PowerDigitSum\bin\Debug\PowerDigitSum.exe.config
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PowerDigitSum\obj\Debug\PowerDigitSum.exe
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PowerDigitSum\obj\Debug\PowerDigitSum.pdb
+D:\chunk1ty\C#\C# trening\03.ProjectEuler\ProjectEuler\PowerDigitSum\bin\Debug\PowerDigitSum.exe.config
+D:\chunk1ty\C#\C# trening\03.ProjectEuler\ProjectEuler\PowerDigitSum\obj\Debug\PowerDigitSum.exe
+D:\chunk1ty\C#\C# trening\03.ProjectEuler\ProjectEuler\PowerDigitSum\obj\Debug\PowerDigitSum.pdb

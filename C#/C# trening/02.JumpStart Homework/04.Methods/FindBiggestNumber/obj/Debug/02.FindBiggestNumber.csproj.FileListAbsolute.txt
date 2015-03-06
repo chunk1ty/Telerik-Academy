@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\FindBiggestNumber\bin\Debug\FindBiggestNumber.exe.config
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\FindBiggestNumber\bin\Debug\FindBiggestNumber.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\FindBiggestNumber\bin\Debug\FindBiggestNumber.pdb
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\FindBiggestNumber\obj\Debug\FindBiggestNumber.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\FindBiggestNumber\obj\Debug\FindBiggestNumber.pdb

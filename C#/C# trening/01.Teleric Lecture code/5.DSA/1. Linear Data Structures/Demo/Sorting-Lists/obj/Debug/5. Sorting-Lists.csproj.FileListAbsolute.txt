@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\5.DSA\1. Linear Data Structures\Sorting-Lists\bin\Debug\Sorting-Lists.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\5.DSA\1. Linear Data Structures\Sorting-Lists\bin\Debug\Sorting-Lists.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\5.DSA\1. Linear Data Structures\Sorting-Lists\obj\Debug\5. Sorting-Lists.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\5.DSA\1. Linear Data Structures\Sorting-Lists\obj\Debug\Sorting-Lists.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\5.DSA\1. Linear Data Structures\Sorting-Lists\obj\Debug\Sorting-Lists.pdb

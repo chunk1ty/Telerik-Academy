@@ -1,0 +1,6 @@
+C:\chunk1ty\C#\c# trening\For Transfer\Kamikadze\bin\Debug\Kamikadze.exe.config
+C:\chunk1ty\C#\c# trening\For Transfer\Kamikadze\bin\Debug\Kamikadze.exe
+C:\chunk1ty\C#\c# trening\For Transfer\Kamikadze\bin\Debug\Kamikadze.pdb
+C:\chunk1ty\C#\c# trening\For Transfer\Kamikadze\obj\Debug\Kamikadze.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\For Transfer\Kamikadze\obj\Debug\Kamikadze.exe
+C:\chunk1ty\C#\c# trening\For Transfer\Kamikadze\obj\Debug\Kamikadze.pdb

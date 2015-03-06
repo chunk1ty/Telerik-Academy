@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP12December2013\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP12December2013\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP12December2013\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP12December2013\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP12December2013\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP12December2013\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP12December2013\01.WarMachines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP12December2013\01.WarMachines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP12December2013\01.WarMachines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.pdb

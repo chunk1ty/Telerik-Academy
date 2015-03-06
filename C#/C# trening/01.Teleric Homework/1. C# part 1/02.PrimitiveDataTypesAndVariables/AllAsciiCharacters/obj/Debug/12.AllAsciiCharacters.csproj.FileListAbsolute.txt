@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\AllAsciiCharacters\bin\Debug\AllAsciiCharacters.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\AllAsciiCharacters\bin\Debug\AllAsciiCharacters.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\AllAsciiCharacters\bin\Debug\AllAsciiCharacters.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\AllAsciiCharacters\obj\Debug\AllAsciiCharacters.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\AllAsciiCharacters\obj\Debug\AllAsciiCharacters.pdb

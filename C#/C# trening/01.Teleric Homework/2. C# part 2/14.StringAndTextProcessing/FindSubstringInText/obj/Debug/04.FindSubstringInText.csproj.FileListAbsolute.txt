@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\FindSubstringInText\bin\Debug\FindSubstringInText.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\FindSubstringInText\bin\Debug\FindSubstringInText.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\FindSubstringInText\bin\Debug\FindSubstringInText.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\FindSubstringInText\obj\Debug\04.FindSubstringInText.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\FindSubstringInText\obj\Debug\FindSubstringInText.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\FindSubstringInText\obj\Debug\FindSubstringInText.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\14.StringAndTextProcessing\FindSubstringInText\bin\Debug\FindSubstringInText.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\14.StringAndTextProcessing\FindSubstringInText\obj\Debug\FindSubstringInText.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\14.StringAndTextProcessing\FindSubstringInText\obj\Debug\FindSubstringInText.pdb

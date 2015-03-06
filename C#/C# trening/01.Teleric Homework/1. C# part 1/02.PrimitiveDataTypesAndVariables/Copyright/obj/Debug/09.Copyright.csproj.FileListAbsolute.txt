@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\Copyright\bin\Debug\Copyright.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\Copyright\bin\Debug\Copyright.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\Copyright\bin\Debug\Copyright.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\Copyright\obj\Debug\Copyright.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\Copyright\obj\Debug\Copyright.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\Copyright\obj\Debug\09.Copyright.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\2.PrimitiveDataTypesAndVariables\Copyright\bin\Debug\Copyright.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\2.PrimitiveDataTypesAndVariables\Copyright\obj\Debug\Copyright.exe
+D:\chunk1ty\C#\c# trening\Teleric\2.PrimitiveDataTypesAndVariables\Copyright\obj\Debug\Copyright.pdb

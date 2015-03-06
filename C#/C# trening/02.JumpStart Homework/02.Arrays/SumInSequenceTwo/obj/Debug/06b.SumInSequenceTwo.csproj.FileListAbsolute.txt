@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\SumInSequenceTwo\bin\Debug\SumInSequenceTwo.exe.config
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\SumInSequenceTwo\bin\Debug\SumInSequenceTwo.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\SumInSequenceTwo\bin\Debug\SumInSequenceTwo.pdb
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\SumInSequenceTwo\obj\Debug\06b.SumInSequenceTwo.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\SumInSequenceTwo\obj\Debug\SumInSequenceTwo.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\SumInSequenceTwo\obj\Debug\SumInSequenceTwo.pdb

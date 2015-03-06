@@ -1,0 +1,6 @@
+D:\chunk1ty\Web Design and UI Technologies\2. Homework\1. HTML\1. Fundamentals\HTMLFundamentals\HTMLFundamentals\bin\HTMLFundamentals.dll.config
+D:\chunk1ty\Web Design and UI Technologies\2. Homework\1. HTML\1. Fundamentals\HTMLFundamentals\HTMLFundamentals\bin\HTMLFundamentals.dll
+D:\chunk1ty\Web Design and UI Technologies\2. Homework\1. HTML\1. Fundamentals\HTMLFundamentals\HTMLFundamentals\bin\HTMLFundamentals.pdb
+D:\chunk1ty\Web Design and UI Technologies\2. Homework\1. HTML\1. Fundamentals\HTMLFundamentals\HTMLFundamentals\obj\Debug\HTMLFundamentals.csprojResolveAssemblyReference.cache
+D:\chunk1ty\Web Design and UI Technologies\2. Homework\1. HTML\1. Fundamentals\HTMLFundamentals\HTMLFundamentals\obj\Debug\HTMLFundamentals.dll
+D:\chunk1ty\Web Design and UI Technologies\2. Homework\1. HTML\1. Fundamentals\HTMLFundamentals\HTMLFundamentals\obj\Debug\HTMLFundamentals.pdb

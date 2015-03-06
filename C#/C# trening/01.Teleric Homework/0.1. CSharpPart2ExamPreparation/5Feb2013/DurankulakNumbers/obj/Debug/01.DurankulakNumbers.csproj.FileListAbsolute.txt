@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\DurankulakNumbers\bin\Debug\DurankulakNumbers.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\DurankulakNumbers\obj\Debug\01.DurankulakNumbers.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\DurankulakNumbers\obj\Debug\DurankulakNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\DurankulakNumbers\obj\Debug\DurankulakNumbers.pdb

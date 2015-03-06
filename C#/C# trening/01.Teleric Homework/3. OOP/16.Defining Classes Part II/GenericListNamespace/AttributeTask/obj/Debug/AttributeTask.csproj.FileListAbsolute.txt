@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\AttributeTask\bin\Debug\AttributeTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\AttributeTask\bin\Debug\AttributeTask.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\AttributeTask\obj\Debug\AttributeTask.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\AttributeTask\obj\Debug\AttributeTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\AttributeTask\obj\Debug\AttributeTask.pdb

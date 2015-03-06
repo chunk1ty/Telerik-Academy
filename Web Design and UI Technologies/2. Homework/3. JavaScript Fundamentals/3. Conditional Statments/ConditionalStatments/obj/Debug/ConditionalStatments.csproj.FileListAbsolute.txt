@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\3. Conditional Statments\ConditionalStatments\bin\ConditionalStatments.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\3. Conditional Statments\ConditionalStatments\bin\ConditionalStatments.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\3. Conditional Statments\ConditionalStatments\bin\ConditionalStatments.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\3. Conditional Statments\ConditionalStatments\obj\Debug\ConditionalStatments.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\3. Conditional Statments\ConditionalStatments\obj\Debug\ConditionalStatments.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\3. Conditional Statments\ConditionalStatments\obj\Debug\ConditionalStatments.pdb

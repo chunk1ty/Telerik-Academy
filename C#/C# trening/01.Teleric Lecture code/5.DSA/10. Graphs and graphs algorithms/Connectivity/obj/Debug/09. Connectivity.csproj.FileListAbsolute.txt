@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\Connectivity\bin\Debug\Connectivity.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\Connectivity\bin\Debug\Connectivity.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\Connectivity\bin\Debug\Connectivity.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\Connectivity\obj\Debug\Connectivity.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\Connectivity\obj\Debug\Connectivity.pdb

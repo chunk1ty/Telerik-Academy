@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function mostFrequentNumber() {
+            var testArray = [4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3, 1, 1, 1, 7, 7, 7, 7, 7, 7, 7],
+                mostFrequentNumberCount = 0,
+                number = 0,
+                currentFrequentNumberCount = 1;
+
+            for (var i = 0; i < testArray.length - 1; i++) { 
+                for (var j = i + 1; j < testArray.length; j++) {
+                    if (testArray[i] === testArray[j]) {
+                        currentFrequentNumberCount++;
+                    }
+                }
+
+                if (currentFrequentNumberCount > mostFrequentNumberCount) {
+                    mostFrequentNumberCount = currentFrequentNumberCount;
+                    number = testArray[i];
+                }
+
+                currentFrequentNumberCount = 1;
+            }
+
+            console.log(number + ' (' + mostFrequentNumberCount + ' times)');
+        }
+
+        mostFrequentNumber();
+    </script>
+</head>
+<body>
+
+</body>
+</html>

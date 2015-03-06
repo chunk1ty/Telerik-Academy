@@ -1,0 +1,6 @@
+D:\chunk1ty\Telerik Academy\Web Design and UI Technologies\2. Homework\2. CSS\1.Overview\Overviewe\Overviewe\bin\Overviewe.dll.config
+D:\chunk1ty\Telerik Academy\Web Design and UI Technologies\2. Homework\2. CSS\1.Overview\Overviewe\Overviewe\bin\Overviewe.dll
+D:\chunk1ty\Telerik Academy\Web Design and UI Technologies\2. Homework\2. CSS\1.Overview\Overviewe\Overviewe\bin\Overviewe.pdb
+D:\chunk1ty\Telerik Academy\Web Design and UI Technologies\2. Homework\2. CSS\1.Overview\Overviewe\Overviewe\obj\Debug\01.Overviewe.csprojResolveAssemblyReference.cache
+D:\chunk1ty\Telerik Academy\Web Design and UI Technologies\2. Homework\2. CSS\1.Overview\Overviewe\Overviewe\obj\Debug\Overviewe.dll
+D:\chunk1ty\Telerik Academy\Web Design and UI Technologies\2. Homework\2. CSS\1.Overview\Overviewe\Overviewe\obj\Debug\Overviewe.pdb

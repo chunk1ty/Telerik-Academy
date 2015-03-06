@@ -1,0 +1,9 @@
+C:\Users\Andriyan\Desktop\TradeAndTravel\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+C:\Users\Andriyan\Desktop\TradeAndTravel\TradeAndTravel\bin\Debug\TradeAndTravel.exe
+C:\Users\Andriyan\Desktop\TradeAndTravel\TradeAndTravel\bin\Debug\TradeAndTravel.pdb
+C:\Users\Andriyan\Desktop\TradeAndTravel\TradeAndTravel\obj\Debug\TradeAndTravel.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan\Desktop\TradeAndTravel\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+C:\Users\Andriyan\Desktop\TradeAndTravel\TradeAndTravel\obj\Debug\TradeAndTravel.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP12December2013\TradeAndTravel\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP12December2013\TradeAndTravel\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP12December2013\TradeAndTravel\TradeAndTravel\obj\Debug\TradeAndTravel.pdb

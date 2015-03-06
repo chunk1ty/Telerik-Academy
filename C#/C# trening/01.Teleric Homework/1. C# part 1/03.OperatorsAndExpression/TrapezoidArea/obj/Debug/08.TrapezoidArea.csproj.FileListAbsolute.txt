@@ -1,0 +1,6 @@
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\TrapezoidArea\obj\Debug\08.TrapezoidArea.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

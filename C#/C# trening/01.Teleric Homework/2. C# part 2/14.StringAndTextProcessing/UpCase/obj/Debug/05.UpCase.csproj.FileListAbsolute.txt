@@ -1,0 +1,8 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\UpCase\bin\Debug\UpCase.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\UpCase\bin\Debug\UpCase.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\UpCase\bin\Debug\UpCase.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\UpCase\obj\Debug\UpCase.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\UpCase\obj\Debug\UpCase.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\14.StringAndTextProcessing\UpCase\bin\Debug\UpCase.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\14.StringAndTextProcessing\UpCase\obj\Debug\UpCase.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\14.StringAndTextProcessing\UpCase\obj\Debug\UpCase.pdb

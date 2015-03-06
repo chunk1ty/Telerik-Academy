@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <
+    <title></title>
+    <style>
+        ul {
+            list-style-type: circle;
+        }
+
+        li > ul {
+            display: none;
+            list-style-type: disc;
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li>
+            item
+            <ul>
+                <li> nested</li>
+                <li>
+                    nested
+                    <ul>
+                        <li> double nested</li>
+                        <li>
+                            double nested
+                            <ul>
+                                <li> triple nested</li>
+                                <li> triple nested</li>
+                                <li> triple nested</li>
+                            </ul>
+                        </li>
+                        <li> double nested</li>
+                    </ul>
+                </li>
+                <li> nested</li>
+            </ul>
+        </li>
+        <li>
+            item
+            <ul>
+                <li> nested </li>
+                <li> nested </li>
+                <li> nested </li>
+                <li> nested </li>
+            </ul>
+        </li>
+        <li> item</li>
+    </ul>
+
+    <script>
+    (function () {
+        var allLiElements = document.getElementsByTagName("li");
+        for (var i = 0; i < allLiElements.length; i++) {
+            allLiElements[i].addEventListener('click', changeState);
+            // Older way to register event listeners
+            // allLiElements[i].onclick = changeState;
+        }
+        function changeState(event) {
+            if (typeof document.getElementsByTagName("ul")[0] !== undefined) {
+                if (this === event.target &&
+                        this.getElementsByTagName('ul')[0].style.display === 'block') {
+                    this.getElementsByTagName('ul')[0].style.display = 'none';
+                }
+                else {
+                    this.getElementsByTagName('ul')[0].style.display = 'block';
+                }
+            }
+        }
+    })();
+    </script>
+</body>
+</html>

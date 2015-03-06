@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Months\bin\Debug\Months.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Months\bin\Debug\Months.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Months\obj\Debug\3. Months.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Months\obj\Debug\Months.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Months\obj\Debug\Months.pdb

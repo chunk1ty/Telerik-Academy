@@ -1,0 +1,3 @@
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxSumInArray\bin\Debug\MaxSumInArray.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxSumInArray\obj\Debug\MaxSumInArray.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxSumInArray\obj\Debug\MaxSumInArray.pdb

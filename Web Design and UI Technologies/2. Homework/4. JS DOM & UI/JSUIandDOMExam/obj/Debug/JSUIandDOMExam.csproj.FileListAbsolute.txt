@@ -1,0 +1,6 @@
+C:\Users\Andriyan Krastev\Desktop\JSUIandDOMExam\bin\JSUIandDOMExam.dll.config
+C:\Users\Andriyan Krastev\Desktop\JSUIandDOMExam\bin\JSUIandDOMExam.dll
+C:\Users\Andriyan Krastev\Desktop\JSUIandDOMExam\bin\JSUIandDOMExam.pdb
+C:\Users\Andriyan Krastev\Desktop\JSUIandDOMExam\obj\Debug\JSUIandDOMExam.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\JSUIandDOMExam\obj\Debug\JSUIandDOMExam.dll
+C:\Users\Andriyan Krastev\Desktop\JSUIandDOMExam\obj\Debug\JSUIandDOMExam.pdb

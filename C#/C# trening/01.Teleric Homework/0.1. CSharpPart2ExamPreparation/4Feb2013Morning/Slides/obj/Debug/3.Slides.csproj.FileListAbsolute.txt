@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\Slides\bin\Debug\Slides.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\Slides\obj\Debug\3.Slides.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\Slides\bin\Debug\Slides.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\Slides\bin\Debug\Slides.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\Slides\obj\Debug\Slides.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\Slides\obj\Debug\Slides.pdb

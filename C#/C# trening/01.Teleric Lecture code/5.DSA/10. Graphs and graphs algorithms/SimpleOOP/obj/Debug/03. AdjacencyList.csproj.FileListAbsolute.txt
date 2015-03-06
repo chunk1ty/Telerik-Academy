@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\SimpleOOP\bin\Debug\SimpleOOP.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\SimpleOOP\bin\Debug\SimpleOOP.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\SimpleOOP\bin\Debug\SimpleOOP.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\SimpleOOP\obj\Debug\SimpleOOP.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\SimpleOOP\obj\Debug\SimpleOOP.pdb

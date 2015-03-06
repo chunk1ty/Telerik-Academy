@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\CheckSignOfProduct\bin\Debug\CheckSignOfProduct.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\CheckSignOfProduct\bin\Debug\CheckSignOfProduct.exe
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\CheckSignOfProduct\bin\Debug\CheckSignOfProduct.pdb
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\CheckSignOfProduct\obj\Debug\02.CheckSignOfProduct.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\CheckSignOfProduct\obj\Debug\CheckSignOfProduct.exe
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\CheckSignOfProduct\obj\Debug\CheckSignOfProduct.pdb

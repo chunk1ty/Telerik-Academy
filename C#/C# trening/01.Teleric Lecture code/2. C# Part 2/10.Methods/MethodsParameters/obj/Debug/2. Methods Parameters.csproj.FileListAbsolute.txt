@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\MethodsParameters\bin\Debug\MethodsParameters.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\MethodsParameters\bin\Debug\MethodsParameters.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\MethodsParameters\obj\Debug\2. Methods Parameters.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\MethodsParameters\obj\Debug\MethodsParameters.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\MethodsParameters\obj\Debug\MethodsParameters.pdb

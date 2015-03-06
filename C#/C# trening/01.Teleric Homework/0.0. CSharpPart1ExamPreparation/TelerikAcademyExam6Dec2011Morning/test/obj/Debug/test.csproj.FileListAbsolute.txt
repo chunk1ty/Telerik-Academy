@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\test\bin\Debug\test.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\test\bin\Debug\test.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\test\bin\Debug\test.pdb
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\test\obj\Debug\test.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\test\obj\Debug\test.pdb

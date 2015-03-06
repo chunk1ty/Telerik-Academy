@@ -1,0 +1,14 @@
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\EqualSequence\bin\Debug\EqualSequence.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\EqualSequence\bin\Debug\EqualSequence.exe
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\EqualSequence\bin\Debug\EqualSequence.pdb
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\EqualSequence\obj\Debug\EqualSequence.exe
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\EqualSequence\obj\Debug\EqualSequence.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\EqualSequence\bin\Debug\EqualSequence.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\EqualSequence\obj\Debug\EqualSequence.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\EqualSequence\obj\Debug\EqualSequence.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\EqualSequence\bin\Debug\EqualSequence.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\EqualSequence\bin\Debug\EqualSequence.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\EqualSequence\obj\Debug\04.EqualSequence.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\EqualSequence\bin\Debug\EqualSequence.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\EqualSequence\obj\Debug\EqualSequence.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\EqualSequence\obj\Debug\EqualSequence.pdb

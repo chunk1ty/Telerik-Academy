@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaCollections", "MegaCollections\MegaCollections.csproj", "{4E5AFF83-B7A5-4D07-B7C3-88529D4936F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaCollections.Tests", "MegaCollections.Tests\MegaCollections.Tests.csproj", "{88261C8D-8181-4D0C-AC48-0566F7ECC176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E5AFF83-B7A5-4D07-B7C3-88529D4936F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5AFF83-B7A5-4D07-B7C3-88529D4936F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5AFF83-B7A5-4D07-B7C3-88529D4936F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5AFF83-B7A5-4D07-B7C3-88529D4936F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88261C8D-8181-4D0C-AC48-0566F7ECC176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88261C8D-8181-4D0C-AC48-0566F7ECC176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88261C8D-8181-4D0C-AC48-0566F7ECC176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88261C8D-8181-4D0C-AC48-0566F7ECC176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

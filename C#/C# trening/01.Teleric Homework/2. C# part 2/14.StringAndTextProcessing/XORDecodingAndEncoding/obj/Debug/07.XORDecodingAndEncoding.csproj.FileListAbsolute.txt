@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\XORDecodingAndEncoding\bin\Debug\XORDecodingAndEncoding.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\XORDecodingAndEncoding\bin\Debug\XORDecodingAndEncoding.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\XORDecodingAndEncoding\bin\Debug\XORDecodingAndEncoding.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\XORDecodingAndEncoding\obj\Debug\XORDecodingAndEncoding.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\XORDecodingAndEncoding\obj\Debug\XORDecodingAndEncoding.pdb

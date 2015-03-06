@@ -1,0 +1,8 @@
+C:\Users\Trainer\Desktop\Tasks\EveningTask\PrimerenProekt\BunnyWars\bin\Debug\BunnyWars.exe.config
+C:\Users\Trainer\Desktop\Tasks\EveningTask\PrimerenProekt\BunnyWars\bin\Debug\BunnyWars.exe
+C:\Users\Trainer\Desktop\Tasks\EveningTask\PrimerenProekt\BunnyWars\bin\Debug\BunnyWars.pdb
+C:\Users\Trainer\Desktop\Tasks\EveningTask\PrimerenProekt\BunnyWars\obj\Debug\BunnyWars.exe
+C:\Users\Trainer\Desktop\Tasks\EveningTask\PrimerenProekt\BunnyWars\obj\Debug\BunnyWars.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\3.OOP\15.Defining Classes Part I\BunnyWars\bin\Debug\BunnyWars.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\3.OOP\15.Defining Classes Part I\BunnyWars\obj\Debug\BunnyWars.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\3.OOP\15.Defining Classes Part I\BunnyWars\obj\Debug\BunnyWars.pdb

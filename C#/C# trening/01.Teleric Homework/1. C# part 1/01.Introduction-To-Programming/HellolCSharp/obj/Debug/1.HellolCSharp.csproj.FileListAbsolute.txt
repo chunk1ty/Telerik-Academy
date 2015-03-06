@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\HellolCSharp\bin\Debug\HellolCSharp.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\HellolCSharp\bin\Debug\HellolCSharp.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\HellolCSharp\bin\Debug\HellolCSharp.pdb
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\HellolCSharp\obj\Debug\1.HellolCSharp.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\HellolCSharp\obj\Debug\HellolCSharp.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\HellolCSharp\obj\Debug\HellolCSharp.pdb

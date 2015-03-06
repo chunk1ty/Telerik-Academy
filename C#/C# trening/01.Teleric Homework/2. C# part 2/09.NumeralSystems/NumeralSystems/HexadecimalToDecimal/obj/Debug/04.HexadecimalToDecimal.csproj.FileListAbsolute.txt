@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.pdb

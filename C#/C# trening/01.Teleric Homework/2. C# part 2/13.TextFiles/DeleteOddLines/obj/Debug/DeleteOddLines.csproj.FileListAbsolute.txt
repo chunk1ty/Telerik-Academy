@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\DeleteOddLines\obj\Debug\DeleteOddLines.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\DeleteOddLines\obj\Debug\DeleteOddLines.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\DeleteOddLines\obj\Debug\DeleteOddLines.pdb

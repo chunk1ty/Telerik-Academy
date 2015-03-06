@@ -1,0 +1,1 @@
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\NumbersDivisibleby7And3\bin\Debug\NumbersDivisibleby7And3.exe.config

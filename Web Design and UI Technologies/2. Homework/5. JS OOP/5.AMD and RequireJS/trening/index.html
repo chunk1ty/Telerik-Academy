@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="scripts/libs/require.js" data-main="scripts/app-config.js"></script>
+    <style>
+        .person-item {
+            width: 30%;
+            height: 100%;
+            border: 5px solid red;
+            display: none;
+        }
+
+        .person-item:hover {
+            background-color: white;
+        }
+
+        .person-item.selected {
+            display: block !important;
+        }
+    </style>
+</head>
+<body>
+    <div id="holder"></div>
+
+    <script type="text/x-handlebars-template" id="person-template">
+        <div class="person-item" id="person-item-{{id}}">
+            <strong class="person-name">{{name}}</strong>
+            <p class="person-age">{{age}}</p>
+            <img src="{{imageURL}}" height="100" width="200" />
+        </div>
+    </script>
+</body>
+</html>

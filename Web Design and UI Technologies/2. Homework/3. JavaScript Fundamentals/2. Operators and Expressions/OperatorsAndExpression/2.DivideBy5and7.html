@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Divide by 5 and 7</title>
+    <script>
+        function onDivideBy35() {
+            var number = document.getElementById('getNumber').value;
+            var result = "";
+
+            if (number % 35 === 0) {
+                result = "The number can divide by 5 and 7 in the same time";
+            }
+            else {
+                result = "The number can NOT divide by 5 and 7 in the same time";
+            }
+
+            document.getElementById('result').innerHTML = result;
+        }
+    </script>
+</head>
+    <body>
+        
+        <input type="text" placeholder="Enter a number" id="getNumber" />
+        <button onclick="onDivideBy35()"> Check</button>
+        <div id="result"></div>
+        
+    </body>
+</html>

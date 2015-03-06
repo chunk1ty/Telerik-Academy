@@ -1,0 +1,1 @@
+C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\AmicableNumbers\bin\Debug\AmicableNumbers.exe.config

@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\PathExists\bin\Debug\PathExists.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\PathExists\bin\Debug\PathExists.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\PathExists\bin\Debug\PathExists.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\PathExists\obj\Debug\08.PathExists.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\PathExists\obj\Debug\PathExists.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\PathExists\obj\Debug\PathExists.pdb

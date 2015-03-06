@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 11 April 2014 Evening\CSharpExam11April2014Evening\NewHouse\bin\Debug\NewHouse.exe.config
+D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 11 April 2014 Evening\CSharpExam11April2014Evening\NewHouse\bin\Debug\NewHouse.exe
+D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 11 April 2014 Evening\CSharpExam11April2014Evening\NewHouse\bin\Debug\NewHouse.pdb
+D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 11 April 2014 Evening\CSharpExam11April2014Evening\NewHouse\obj\Debug\03.NewHouse.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 11 April 2014 Evening\CSharpExam11April2014Evening\NewHouse\obj\Debug\NewHouse.exe
+D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 11 April 2014 Evening\CSharpExam11April2014Evening\NewHouse\obj\Debug\NewHouse.pdb

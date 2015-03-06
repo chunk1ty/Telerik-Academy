@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\GameOfPage\bin\Debug\GameOfPage.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\GameOfPage\bin\Debug\GameOfPage.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\GameOfPage\bin\Debug\GameOfPage.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\GameOfPage\obj\Debug\05.GameOfPage.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\GameOfPage\obj\Debug\GameOfPage.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\GameOfPage\obj\Debug\GameOfPage.pdb

@@ -1,0 +1,154 @@
+﻿<!doctype html>
+<html>
+    <head>
+        <title>Last Name - Mozila Firefox</title>
+    </head>
+
+    <body>
+        <form name="registration" action="https://www.youtube.com/" method="post">
+            <table cellpadding="5" cellspacing="0" border="1">
+                <colgroup>
+                    <col style="width: 170px" />
+                    <col style="width: 350px" />
+                </colgroup>
+                <tr>
+                    <td align="right">
+                        <label for="lastName">Last Name </label>
+                    </td>
+                    <td>
+                        <input type="text" name="LastName" value="Krastev" id="lastName" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <label for="firstName">First Name </label>
+                    </td>
+                    <td>
+                        <input type="text" name="FirstName" value="Andriyan" id="firstName" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <label for="address">Address </label>
+                    </td>
+                    <td>
+                        <textarea id="address" cols="30" rows="4"> 17 Hristo Botev Str. floor 3 apt.12</textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <label for="town"><b>City</b></label>
+                    </td>
+                    <td>
+                        <table cellpadding="5" cellspacing="0">
+                            <colgroup> <col style="width:70%" /> <col style="width:15%" /> <col style="width:15%" /> </colgroup>
+                            <tr>
+                                <td>
+                                    <input type="text" id="town" value="Svishtov" />
+                                </td>
+                                <td>
+                                    <label for="state"><b>State</b></label>
+                                </td>
+                                <td>
+                                    <input type="text" id="state" size="3" />
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <label for="zip"><b>Zip/Postal Code</b> </label>
+                    </td>
+                    <td>
+                        <input type="text" name="zipCode" value="5250" id="zip" size="4" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <label for="country"><b>Country</b> </label>
+                    </td>
+                    <td>
+                        <select id="country">
+                            <option value="1" selected="selected">Bulgaria</option>
+                            <option value="2">Greece</option>
+                            <option value="3">England</option>
+                            <option value="4">France</option>
+                            <option value="5">Romania</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <label for="phone"><b>Phone (country code,<br /> area code, number)</b> </label>
+                    </td>
+                    <td>
+                        (+
+                        <input type="text" id="phone" pattern="[0-9]{3}" size="3" placeholder="359" />
+                        )
+                        <input type="text" id="phone" pattern="[0-9]{2}" size="2" placeholder="88" />
+                        -
+                        <input type="text" id="phone" pattern="[0-9]{7}" size="7" placeholder="1234567" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <label for="email"><b>E-mail</b> </label>
+                    </td>
+                    <td>
+                        <input type="email" name="LastName" value="ankk@ankk.ankk" id="email" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <label for="date"><b>Birth date</b> </label>
+                    </td>
+                    <td>
+                        Month
+                        <input type="text" id="date" pattern="[0-9]{3}" size="1" placeholder="12" />
+                        Day
+                        <input type="text" id="date" pattern="[0-9]{2}" size="1" placeholder="17" />
+                        Year (4 digit)
+                        <input type="text" id="date" pattern="[0-9]{7}" size="1" placeholder="1992" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <label for="gender"><b>Gender</b> </label>
+                    </td>
+                    <td>
+                        <select id="gender">
+                            <option value="1" selected="selected">Male</option>
+                            <option value="2">Female</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <label><b>Starting date</b> </label>
+                    </td>
+                    <td>
+                        <input type="radio" name="startingDate" value="Spring" />
+                        <label for="Spring">Spring 2006</label>
+                        <input type="radio" name="startingDate" value="Summer" />
+                        <label for="Summer">Summer 2006</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <label for="address">Comments/Questions </label>
+                    </td>
+                    <td>
+                        <textarea id="address" cols="30" rows="4"> Please sent me more information about logging</textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" bgcolor="#3BB9FF" align="center">
+                        <input type="submit" value="Submit">
+                        <input type="reset" value="Clear the Form">
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>

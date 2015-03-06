@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\CatalanNumbers\bin\Debug\CatalanNumbers.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\CatalanNumbers\bin\Debug\CatalanNumbers.exe
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\CatalanNumbers\bin\Debug\CatalanNumbers.pdb
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\CatalanNumbers\obj\Debug\CatalanNumbers.exe
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\CatalanNumbers\obj\Debug\CatalanNumbers.pdb

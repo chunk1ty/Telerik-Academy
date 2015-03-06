@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\SpecialValue\bin\Debug\SpecialValue.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\SpecialValue\bin\Debug\SpecialValue.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\SpecialValue\bin\Debug\SpecialValue.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\SpecialValue\obj\Debug\02.SpecialValue.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\SpecialValue\obj\Debug\SpecialValue.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\SpecialValue\obj\Debug\SpecialValue.pdb

@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        div > div {
+            border: 1px solid #ff0000;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div>
+            first
+            <div>
+                firts inner
+            </div>
+        </div>
+        <div>
+           second
+        </div>
+        <div>
+            third
+        </div>
+    </div>
+
+    <script>  
+        var selectDivWithQuery = document.querySelectorAll('div > div');
+        for (var i = 0, len = selectDivWithQuery.length; i < len; i++) {
+            console.log(selectDivWithQuery[i].outerHTML)
+        }
+        //console.log(selectDivWithQuery);
+
+        var selectDivWithGet = document.getElementsByTagName('div');
+        var innerDivs = [];
+        for (var i = 0, len = selectDivWithGet.length;i < len; i++) {
+            if (selectDivWithGet[i].parentElement instanceof HTMLDivElement) {
+                innerDivs.push(selectDivWithGet[i]);
+            }
+        }
+        console.log(innerDivs);
+
+    </script>
+</body>
+</html>

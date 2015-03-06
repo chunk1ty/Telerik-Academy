@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SequenceOfPositiveNumbers\bin\Debug\SequenceOfPositiveNumbers.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SequenceOfPositiveNumbers\bin\Debug\SequenceOfPositiveNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SequenceOfPositiveNumbers\bin\Debug\SequenceOfPositiveNumbers.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SequenceOfPositiveNumbers\obj\Debug\01.SequenceOfPositiveNumbers.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SequenceOfPositiveNumbers\obj\Debug\SequenceOfPositiveNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SequenceOfPositiveNumbers\obj\Debug\SequenceOfPositiveNumbers.pdb

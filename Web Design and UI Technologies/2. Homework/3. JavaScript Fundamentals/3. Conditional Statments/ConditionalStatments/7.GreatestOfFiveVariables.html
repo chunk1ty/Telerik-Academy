@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function fingBiggestNumber() {
+            var firstNumber = parseInt(document.getElementById('firstNumber').value),
+                secondNumber = parseInt(document.getElementById('secondNumber').value),
+                thirdNumber = parseInt(document.getElementById('thirdNumber').value),
+                fourthNumber = parseInt(document.getElementById('fourthNumber').value),
+                fifthNumber = parseInt(document.getElementById('fifthNumber').value),
+                biggestNumber = '';
+
+            biggestNumber = firstNumber;
+            if (secondNumber >= biggestNumber) {
+                biggestNumber = secondNumber;
+            }
+            if (thirdNumber >= biggestNumber) {
+                biggestNumber = thirdNumber;
+            }
+            if (fourthNumber >= biggestNumber) {
+                biggestNumber = fourthNumber;
+            }
+            if (fifthNumber >= biggestNumber) {
+                biggestNumber = fifthNumber;
+            }
+
+            console.log(biggestNumber);
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="firstNumber" placeholder="Enter the first number" />
+    <input type="text" id="secondNumber" placeholder="Enter the second number" />
+    <input type="text" id="thirdNumber" placeholder="Enter the third number" />
+    <input type="text" id="fourthNumber" placeholder="Enter the first number" />
+    <input type="text" id="fifthNumber" placeholder="Enter the second number" />
+    <a href="#" onclick="fingBiggestNumber()">Calculate</a>
+</body>
+</html>

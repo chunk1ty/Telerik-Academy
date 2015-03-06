@@ -1,0 +1,12 @@
+D:\chunk1ty\C#\c# trening\Teleric\Teleri AcademyExam7Dec2011Morning\SandGlass\bin\Debug\SandGlass.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\Teleri AcademyExam7Dec2011Morning\SandGlass\bin\Debug\SandGlass.exe
+D:\chunk1ty\C#\c# trening\Teleric\Teleri AcademyExam7Dec2011Morning\SandGlass\bin\Debug\SandGlass.pdb
+D:\chunk1ty\C#\c# trening\Teleric\Teleri AcademyExam7Dec2011Morning\SandGlass\obj\Debug\SandGlass.exe
+D:\chunk1ty\C#\c# trening\Teleric\Teleri AcademyExam7Dec2011Morning\SandGlass\obj\Debug\SandGlass.pdb
+D:\chunk1ty\C#\c# trening\Teleric\Teleri AcademyExam7Dec2011Morning\SandGlass\obj\Debug\03.SandGlass.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\SandGlass\bin\Debug\SandGlass.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\SandGlass\obj\Debug\SandGlass.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\SandGlass\obj\Debug\SandGlass.pdb
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\SandGlass\bin\Debug\SandGlass.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\SandGlass\bin\Debug\SandGlass.pdb
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\SandGlass\obj\Debug\03.SandGlass.csprojResolveAssemblyReference.cache

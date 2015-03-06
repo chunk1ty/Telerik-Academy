@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\InvalidRangeExceptionNamespace\obj\Debug\03.InvalidRangeExceptionNamespace.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\InvalidRangeExceptionNamespace\bin\Debug\InvalidRangeExceptionNamespace.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\InvalidRangeExceptionNamespace\bin\Debug\InvalidRangeExceptionNamespace.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\InvalidRangeExceptionNamespace\bin\Debug\InvalidRangeExceptionNamespace.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\InvalidRangeExceptionNamespace\obj\Debug\InvalidRangeExceptionNamespace.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\InvalidRangeExceptionNamespace\obj\Debug\InvalidRangeExceptionNamespace.pdb

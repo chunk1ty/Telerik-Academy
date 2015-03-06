@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        var testArray = [1, 2, 3, 6, 1, 9, 1, 17, 29, 13, 2];
+
+        function biggerThanNeighbors() {            
+
+            for (var i = 1; i < testArray.length; i++) {                
+                if (testArray[i] > testArray[i + 1] && testArray[i] > testArray[i - 1]) {
+                    return i;
+                }
+                else if (i === testArray - 1) {
+                    return -1;
+                }   
+            }
+        }
+
+        console.log(biggerThanNeighbors(0));
+    </script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\ZergKenov\bin\Debug\ZergKenov.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\ZergKenov\bin\Debug\ZergKenov.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\ZergKenov\bin\Debug\ZergKenov.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\ZergKenov\obj\Debug\ZergKenov.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\ZergKenov\obj\Debug\ZergKenov.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\ZergKenov\obj\Debug\01.ZergCommunication.csprojResolveAssemblyReference.cache

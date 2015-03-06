@@ -1,0 +1,5 @@
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\CompanyAndManagerInformation\bin\Debug\CompanyAndManagerInformation.exe.config
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\CompanyAndManagerInformation\bin\Debug\CompanyAndManagerInformation.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\CompanyAndManagerInformation\bin\Debug\CompanyAndManagerInformation.pdb
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\CompanyAndManagerInformation\obj\Debug\CompanyAndManagerInformation.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\CompanyAndManagerInformation\obj\Debug\CompanyAndManagerInformation.pdb

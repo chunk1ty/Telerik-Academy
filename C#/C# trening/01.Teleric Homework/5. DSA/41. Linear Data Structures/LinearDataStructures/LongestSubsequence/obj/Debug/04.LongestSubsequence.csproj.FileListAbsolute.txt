@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\LongestSubsequence\bin\Debug\LongestSubsequence.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\LongestSubsequence\obj\Debug\LongestSubsequence.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\LongestSubsequence\obj\Debug\LongestSubsequence.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\LongestSubsequence\bin\Debug\LongestSubsequence.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\LongestSubsequence\bin\Debug\LongestSubsequence.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\LongestSubsequence\obj\Debug\04.LongestSubsequence.csprojResolveAssemblyReference.cache

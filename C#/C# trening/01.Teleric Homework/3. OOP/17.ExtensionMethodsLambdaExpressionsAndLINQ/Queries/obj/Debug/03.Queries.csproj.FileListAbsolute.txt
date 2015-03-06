@@ -1,0 +1,9 @@
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\Queries\bin\Debug\Queries.exe.config
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\Queries\bin\Debug\Queries.exe
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\Queries\bin\Debug\Queries.pdb
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\Queries\obj\Debug\03.Queries.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\Queries\obj\Debug\Queries.exe
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\Queries\obj\Debug\Queries.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\17.ExtensionMethodsLambdaExpressionsAndLINQ\Queries\bin\Debug\Queries.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\17.ExtensionMethodsLambdaExpressionsAndLINQ\Queries\obj\Debug\Queries.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\17.ExtensionMethodsLambdaExpressionsAndLINQ\Queries\obj\Debug\Queries.pdb

@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\WordInformationInString\bin\Debug\WordInformationInString.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\WordInformationInString\bin\Debug\WordInformationInString.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\WordInformationInString\bin\Debug\WordInformationInString.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\WordInformationInString\obj\Debug\22.WordInformationInString.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\WordInformationInString\obj\Debug\WordInformationInString.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\WordInformationInString\obj\Debug\WordInformationInString.pdb

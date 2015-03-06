@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        function lexProperty() {
+
+            console.log('DOCUMENT');
+            smallestProperty(document);
+            largestProperty(document);
+
+            console.log('WINDOW');
+            smallestProperty(window);
+            largestProperty(window);
+
+            console.log('NAVIGATOR');
+            smallestProperty(navigator);
+            largestProperty(navigator);
+        }
+
+        function smallestProperty(myObject) {
+            //max value
+            var smallest = 'zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz';
+
+            for (var property in myObject) {
+                if (smallest > property) {
+                    smallest = property;
+                }
+            }
+            console.log('Min Value => ' + smallest);           
+        }
+
+        function largestProperty(myObject) {
+            // min value
+            var largest = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa';
+
+            for (var property in myObject) {
+                if (property > largest) {
+                    largest = property;
+                }
+            }
+
+            console.log('Max Value => ' + largest);
+        }
+    </script>
+</head>
+<body>
+    <a href="#" onclick="lexProperty()">Print</a>
+</body>
+</html>
+
+

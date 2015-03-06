@@ -1,0 +1,12 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\7Feb2012\GreedyDwarf\bin\Debug\GreedyDwarf.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\7Feb2012\GreedyDwarf\bin\Debug\GreedyDwarf.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\7Feb2012\GreedyDwarf\bin\Debug\GreedyDwarf.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\7Feb2012\GreedyDwarf\obj\Debug\2.GreedyDwarf.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\7Feb2012\GreedyDwarf\obj\Debug\GreedyDwarf.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\7Feb2012\GreedyDwarf\obj\Debug\GreedyDwarf.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\GreedyDwarf\bin\Debug\GreedyDwarf.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\GreedyDwarf\bin\Debug\GreedyDwarf.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\GreedyDwarf\bin\Debug\GreedyDwarf.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\GreedyDwarf\obj\Debug\2.GreedyDwarf.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\GreedyDwarf\obj\Debug\GreedyDwarf.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\GreedyDwarf\obj\Debug\GreedyDwarf.pdb

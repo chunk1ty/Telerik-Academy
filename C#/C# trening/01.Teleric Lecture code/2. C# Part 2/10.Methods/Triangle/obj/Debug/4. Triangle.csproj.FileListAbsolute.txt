@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Triangle\bin\Debug\Triangle.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Triangle\bin\Debug\Triangle.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Triangle\obj\Debug\4. Triangle.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Triangle\obj\Debug\Triangle.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Triangle\obj\Debug\Triangle.pdb

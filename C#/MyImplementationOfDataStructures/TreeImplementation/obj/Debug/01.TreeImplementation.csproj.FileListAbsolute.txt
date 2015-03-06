@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\TreeImplementation\bin\Debug\TreeImplementation.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\TreeImplementation\bin\Debug\TreeImplementation.exe
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\TreeImplementation\bin\Debug\TreeImplementation.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\TreeImplementation\obj\Debug\01.TreeImplementation.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\TreeImplementation\obj\Debug\TreeImplementation.exe
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\TreeImplementation\obj\Debug\TreeImplementation.pdb

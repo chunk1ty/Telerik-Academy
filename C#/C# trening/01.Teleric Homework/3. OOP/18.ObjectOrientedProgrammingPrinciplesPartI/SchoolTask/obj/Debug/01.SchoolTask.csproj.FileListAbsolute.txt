@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\SchoolTask\obj\Debug\01.SchoolTask.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\SchoolTask\obj\Debug\SchoolTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\SchoolTask\bin\Debug\SchoolTask.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\SchoolTask\bin\Debug\SchoolTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\SchoolTask\bin\Debug\SchoolTask.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\SchoolTask\obj\Debug\SchoolTask.pdb

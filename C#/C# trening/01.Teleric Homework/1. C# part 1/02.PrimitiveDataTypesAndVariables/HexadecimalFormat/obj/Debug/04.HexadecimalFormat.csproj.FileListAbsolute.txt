@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb

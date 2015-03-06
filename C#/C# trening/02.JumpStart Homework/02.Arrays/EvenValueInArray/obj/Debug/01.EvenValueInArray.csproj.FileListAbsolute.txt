@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\EvenValueInArray\bin\Debug\EvenValueInArray.exe.config
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\EvenValueInArray\bin\Debug\EvenValueInArray.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\EvenValueInArray\bin\Debug\EvenValueInArray.pdb
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\EvenValueInArray\obj\Debug\01.EvenValueInArray.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\EvenValueInArray\obj\Debug\EvenValueInArray.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\EvenValueInArray\obj\Debug\EvenValueInArray.pdb

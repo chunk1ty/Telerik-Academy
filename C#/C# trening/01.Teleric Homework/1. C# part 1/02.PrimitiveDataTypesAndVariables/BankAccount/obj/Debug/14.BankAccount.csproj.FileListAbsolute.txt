@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\BankAccount\bin\Debug\BankAccount.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\BankAccount\bin\Debug\BankAccount.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\BankAccount\bin\Debug\BankAccount.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\BankAccount\obj\Debug\14.BankAccount.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\BankAccount\obj\Debug\BankAccount.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\BankAccount\obj\Debug\BankAccount.pdb

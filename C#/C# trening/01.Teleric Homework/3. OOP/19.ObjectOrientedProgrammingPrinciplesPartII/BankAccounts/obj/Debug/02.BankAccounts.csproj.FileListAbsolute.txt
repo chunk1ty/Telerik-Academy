@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\BankAccounts\obj\Debug\02.BankAccounts.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\BankAccounts\bin\Debug\BankAccounts.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\BankAccounts\bin\Debug\BankAccounts.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\BankAccounts\obj\Debug\BankAccounts.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\BankAccounts\obj\Debug\BankAccounts.pdb

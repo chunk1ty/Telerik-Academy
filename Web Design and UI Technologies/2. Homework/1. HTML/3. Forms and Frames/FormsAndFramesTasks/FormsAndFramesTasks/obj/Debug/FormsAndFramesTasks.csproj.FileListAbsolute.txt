@@ -1,0 +1,6 @@
+D:\chunk1ty\Telerik Academy\Web Design and UI Technologies\2. Homework\1. HTML\3. Forms and Frames\FormsAndFramesTasks\FormsAndFramesTasks\bin\FormsAndFramesTasks.dll.config
+D:\chunk1ty\Telerik Academy\Web Design and UI Technologies\2. Homework\1. HTML\3. Forms and Frames\FormsAndFramesTasks\FormsAndFramesTasks\bin\FormsAndFramesTasks.dll
+D:\chunk1ty\Telerik Academy\Web Design and UI Technologies\2. Homework\1. HTML\3. Forms and Frames\FormsAndFramesTasks\FormsAndFramesTasks\bin\FormsAndFramesTasks.pdb
+D:\chunk1ty\Telerik Academy\Web Design and UI Technologies\2. Homework\1. HTML\3. Forms and Frames\FormsAndFramesTasks\FormsAndFramesTasks\obj\Debug\FormsAndFramesTasks.csprojResolveAssemblyReference.cache
+D:\chunk1ty\Telerik Academy\Web Design and UI Technologies\2. Homework\1. HTML\3. Forms and Frames\FormsAndFramesTasks\FormsAndFramesTasks\obj\Debug\FormsAndFramesTasks.dll
+D:\chunk1ty\Telerik Academy\Web Design and UI Technologies\2. Homework\1. HTML\3. Forms and Frames\FormsAndFramesTasks\FormsAndFramesTasks\obj\Debug\FormsAndFramesTasks.pdb

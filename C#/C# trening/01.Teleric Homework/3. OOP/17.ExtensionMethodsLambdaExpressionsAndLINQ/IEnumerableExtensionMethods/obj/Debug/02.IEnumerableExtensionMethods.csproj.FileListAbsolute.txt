@@ -1,0 +1,9 @@
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\IEnumerableExtensionMethods\obj\Debug\02.IEnumerableExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\IEnumerableExtensionMethods\bin\Debug\IEnumerableExtensionMethods.exe.config
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\IEnumerableExtensionMethods\bin\Debug\IEnumerableExtensionMethods.exe
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\IEnumerableExtensionMethods\bin\Debug\IEnumerableExtensionMethods.pdb
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\IEnumerableExtensionMethods\obj\Debug\IEnumerableExtensionMethods.exe
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\IEnumerableExtensionMethods\obj\Debug\IEnumerableExtensionMethods.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\17.ExtensionMethodsLambdaExpressionsAndLINQ\IEnumerableExtensionMethods\bin\Debug\IEnumerableExtensionMethods.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\17.ExtensionMethodsLambdaExpressionsAndLINQ\IEnumerableExtensionMethods\obj\Debug\IEnumerableExtensionMethods.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\17.ExtensionMethodsLambdaExpressionsAndLINQ\IEnumerableExtensionMethods\obj\Debug\IEnumerableExtensionMethods.pdb

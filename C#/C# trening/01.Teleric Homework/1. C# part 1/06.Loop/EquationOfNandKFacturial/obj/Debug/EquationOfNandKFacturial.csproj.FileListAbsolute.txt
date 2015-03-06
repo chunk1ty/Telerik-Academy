@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\Loop\EquationOfNandKFacturial\bin\Debug\EquationOfNandKFacturial.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\Loop\EquationOfNandKFacturial\bin\Debug\EquationOfNandKFacturial.exe
+D:\chunk1ty\C#\c# trening\Teleric\Loop\EquationOfNandKFacturial\bin\Debug\EquationOfNandKFacturial.pdb
+D:\chunk1ty\C#\c# trening\Teleric\Loop\EquationOfNandKFacturial\obj\Debug\EquationOfNandKFacturial.exe
+D:\chunk1ty\C#\c# trening\Teleric\Loop\EquationOfNandKFacturial\obj\Debug\EquationOfNandKFacturial.pdb

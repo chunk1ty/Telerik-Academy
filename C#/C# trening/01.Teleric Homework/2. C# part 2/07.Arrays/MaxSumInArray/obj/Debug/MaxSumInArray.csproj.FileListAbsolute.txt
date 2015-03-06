@@ -1,0 +1,6 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxSumInArray\bin\Debug\MaxSumInArray.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxSumInArray\bin\Debug\MaxSumInArray.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxSumInArray\bin\Debug\MaxSumInArray.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxSumInArray\obj\Debug\MaxSumInArray.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxSumInArray\obj\Debug\MaxSumInArray.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxSumInArray\obj\Debug\MaxSumInArray.pdb

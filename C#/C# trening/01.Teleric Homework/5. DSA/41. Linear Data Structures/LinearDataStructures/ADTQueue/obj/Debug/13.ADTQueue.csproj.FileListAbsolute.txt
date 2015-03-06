@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ADTQueue\bin\Debug\ADTQueue.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ADTQueue\bin\Debug\ADTQueue.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ADTQueue\bin\Debug\ADTQueue.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ADTQueue\obj\Debug\13.ADTQueue.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ADTQueue\obj\Debug\ADTQueue.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ADTQueue\obj\Debug\ADTQueue.pdb

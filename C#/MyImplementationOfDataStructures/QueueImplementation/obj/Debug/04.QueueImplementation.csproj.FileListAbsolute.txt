@@ -1,0 +1,8 @@
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\QueueImplementation\bin\Debug\QueueImplementation.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\QueueImplementation\obj\Debug\04.QueueImplementation.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\QueueImplementation\bin\Debug\QueueImplementation.exe
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\QueueImplementation\bin\Debug\QueueImplementation.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\QueueImplementation\bin\Debug\DoubleListImplementation.exe
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\QueueImplementation\bin\Debug\DoubleListImplementation.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\QueueImplementation\obj\Debug\QueueImplementation.exe
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\QueueImplementation\obj\Debug\QueueImplementation.pdb

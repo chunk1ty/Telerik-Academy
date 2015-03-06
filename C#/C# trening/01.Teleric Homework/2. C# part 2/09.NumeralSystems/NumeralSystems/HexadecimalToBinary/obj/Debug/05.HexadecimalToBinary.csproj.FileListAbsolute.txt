@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.csprojResolveAssemblyReference.cache

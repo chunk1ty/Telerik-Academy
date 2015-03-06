@@ -1,0 +1,9 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindMaxSum\obj\Debug\06.FindMaxSum.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindMaxSum\bin\Debug\FindMaxSum.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindMaxSum\bin\Debug\FindMaxSum.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindMaxSum\bin\Debug\FindMaxSum.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindMaxSum\obj\Debug\FindMaxSum.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindMaxSum\obj\Debug\FindMaxSum.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindMaxSum\bin\Debug\FindMaxSum.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindMaxSum\obj\Debug\FindMaxSum.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindMaxSum\obj\Debug\FindMaxSum.pdb

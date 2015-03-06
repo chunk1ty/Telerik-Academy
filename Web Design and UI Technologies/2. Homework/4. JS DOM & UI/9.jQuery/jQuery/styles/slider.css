@@ -1,0 +1,12 @@
+﻿/*#previous {
+    position: absolute;
+    top: 400px;
+    left: 10px;
+    color: red;
+}*/
+
+div.slideContent {
+    display: block;
+    width: 700px;
+    height: 300px;
+}

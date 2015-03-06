@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        function main() {
+            var text = '{0}, {1}, {2} text {2}';
+            var str = stringFormat(text, 1, 'pesho', 'Gosho');
+            var str1 = stringFrm(text, 1, 'pesho', 'Gosho');
+            
+            console.log(str);
+            console.log(str1);
+        }
+
+        function stringFormat() {
+            var output = arguments[0];
+
+            for (var i = 1; i < arguments.length; i++) {
+                // cuz \ -> escape { (or }) and 
+                //     \ -> escape \
+                var pattern = '\\{' + (i - 1) + '\\}';
+                output = output.replace(new RegExp(pattern,'gi'), arguments[i]);
+            }
+
+            return output;
+        }
+
+        function stringFrm() {
+            var format = arguments[0];
+
+            for (var i = 1; i < arguments.length; i++) {
+                var replaceStr = '{' + (i - 1) + '}';
+
+                while (format.indexOf(replaceStr) > -1) {
+                    format = format.replace(replaceStr, arguments[i]);
+                }
+            }
+
+            return format;
+        }
+
+        main();
+    </script>
+</head>
+<body>
+
+</body>
+</html>

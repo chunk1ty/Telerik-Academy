@@ -1,0 +1,8 @@
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\RemoveNegativeNumbers\bin\Debug\RemoveNegativeNumbers.exe.config
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\RemoveNegativeNumbers\bin\Debug\RemoveNegativeNumbers.exe
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\RemoveNegativeNumbers\bin\Debug\RemoveNegativeNumbers.pdb
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\RemoveNegativeNumbers\obj\Debug\RemoveNegativeNumbers.exe
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\RemoveNegativeNumbers\obj\Debug\RemoveNegativeNumbers.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\RemoveNegativeNumbers\bin\Debug\RemoveNegativeNumbers.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\RemoveNegativeNumbers\obj\Debug\RemoveNegativeNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\RemoveNegativeNumbers\obj\Debug\RemoveNegativeNumbers.pdb

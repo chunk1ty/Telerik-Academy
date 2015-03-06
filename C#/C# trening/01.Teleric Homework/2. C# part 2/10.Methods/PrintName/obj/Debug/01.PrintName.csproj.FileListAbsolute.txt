@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\PrintName\bin\Debug\PrintName.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\PrintName\bin\Debug\PrintName.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\PrintName\bin\Debug\PrintName.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\PrintName\obj\Debug\01.PrintName.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\PrintName\obj\Debug\PrintName.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\PrintName\obj\Debug\PrintName.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\PrintName\bin\Debug\PrintName.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\PrintName\obj\Debug\PrintName.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\PrintName\obj\Debug\PrintName.pdb

@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\FromStringToObject\bin\Debug\FromStringToObject.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\FromStringToObject\bin\Debug\FromStringToObject.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\FromStringToObject\bin\Debug\FromStringToObject.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\FromStringToObject\obj\Debug\07.FromStringToObject.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\FromStringToObject\obj\Debug\FromStringToObject.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\FromStringToObject\obj\Debug\FromStringToObject.pdb

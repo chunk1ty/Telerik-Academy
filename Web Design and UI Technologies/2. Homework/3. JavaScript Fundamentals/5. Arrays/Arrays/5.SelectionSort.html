@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function selectionSort() {
+            var testArray = [3, 2, 3, 4, 5, 6, 7, 8, 2, 2, 4, 1, 2, 3, 4, 5, 6, 7, 8],                
+                minIndex = 0;
+
+            for (var i = 0; i < testArray.length - 1; i++) {
+                minIndex = i;
+                for (var j = i +1; j < testArray.length; j++) {
+                    if (testArray[minIndex] > testArray[j]) {
+                        minIndex = j;
+                    }
+                }
+
+                if (minIndex != i) {
+                    testArray[i] ^= testArray[minIndex];
+                    testArray[minIndex] ^= testArray[i];
+                    testArray[i] ^= testArray[minIndex];
+                }                
+            }
+
+            printSortingArray(testArray);
+        }
+
+        function printSortingArray(someArray) {
+            var result = '{ ';
+
+            for (var i = 0; i < someArray.length; i++) {
+                result += ' ' + someArray[i];
+            }
+
+            result += ' }';
+
+            console.log(result);
+        }
+
+        selectionSort();
+    </script>
+</head>
+<body>
+
+</body>
+</html>

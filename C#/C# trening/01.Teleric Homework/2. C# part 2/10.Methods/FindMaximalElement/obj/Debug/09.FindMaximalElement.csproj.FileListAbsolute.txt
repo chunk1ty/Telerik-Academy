@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\FindMaximalElement\bin\Debug\FindMaximalElement.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\FindMaximalElement\bin\Debug\FindMaximalElement.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\FindMaximalElement\bin\Debug\FindMaximalElement.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\FindMaximalElement\obj\Debug\09.FindMaximalElement.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\FindMaximalElement\obj\Debug\FindMaximalElement.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\FindMaximalElement\obj\Debug\FindMaximalElement.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\FindMaximalElement\bin\Debug\FindMaximalElement.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\FindMaximalElement\obj\Debug\FindMaximalElement.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\FindMaximalElement\obj\Debug\FindMaximalElement.pdb

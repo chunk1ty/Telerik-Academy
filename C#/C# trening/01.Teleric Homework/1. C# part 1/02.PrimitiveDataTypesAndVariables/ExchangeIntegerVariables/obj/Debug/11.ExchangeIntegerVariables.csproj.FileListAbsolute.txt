@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\ExchangeIntegerVariables\bin\Debug\ExchangeIntegerVariables.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\ExchangeIntegerVariables\bin\Debug\ExchangeIntegerVariables.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\ExchangeIntegerVariables\bin\Debug\ExchangeIntegerVariables.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\ExchangeIntegerVariables\obj\Debug\ExchangeIntegerVariables.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\ExchangeIntegerVariables\obj\Debug\ExchangeIntegerVariables.pdb

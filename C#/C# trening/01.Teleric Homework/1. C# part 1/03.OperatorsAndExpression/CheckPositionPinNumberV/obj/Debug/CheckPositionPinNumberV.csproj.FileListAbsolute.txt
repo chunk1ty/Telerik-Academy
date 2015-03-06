@@ -1,0 +1,1 @@
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckPositionPinNumberV\bin\Debug\CheckPositionPinNumberV.exe.config

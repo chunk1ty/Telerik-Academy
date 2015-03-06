@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\Pillars\bin\Debug\Pillars.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\Pillars\bin\Debug\Pillars.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\Pillars\bin\Debug\Pillars.pdb
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\Pillars\obj\Debug\03.Pillars.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\Pillars\obj\Debug\Pillars.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\Pillars\obj\Debug\Pillars.pdb

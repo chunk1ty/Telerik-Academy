@@ -1,0 +1,6 @@
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\NumberValuePosition\bin\Debug\NumberValuePosition.exe.config
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\NumberValuePosition\bin\Debug\NumberValuePosition.exe
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\NumberValuePosition\bin\Debug\NumberValuePosition.pdb
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\NumberValuePosition\obj\Debug\12.NumberValuePosition.csprojResolveAssemblyReference.cache
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\NumberValuePosition\obj\Debug\NumberValuePosition.exe
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\NumberValuePosition\obj\Debug\NumberValuePosition.pdb

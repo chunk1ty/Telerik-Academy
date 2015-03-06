@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\MultiverseCommunication\bin\Debug\MultiverseCommunication.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\MultiverseCommunication\bin\Debug\MultiverseCommunication.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\MultiverseCommunication\bin\Debug\MultiverseCommunication.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\MultiverseCommunication\obj\Debug\MultiverseCommunication.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\MultiverseCommunication\obj\Debug\MultiverseCommunication.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\MultiverseCommunication\obj\Debug\MultiverseCommunication.pdb

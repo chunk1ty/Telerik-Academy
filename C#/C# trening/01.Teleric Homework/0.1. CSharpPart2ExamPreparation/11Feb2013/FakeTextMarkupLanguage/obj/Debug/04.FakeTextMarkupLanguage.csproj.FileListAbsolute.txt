@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\FakeTextMarkupLanguage\bin\Debug\FakeTextMarkupLanguage.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\FakeTextMarkupLanguage\bin\Debug\FakeTextMarkupLanguage.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\FakeTextMarkupLanguage\bin\Debug\FakeTextMarkupLanguage.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\FakeTextMarkupLanguage\obj\Debug\04.FakeTextMarkupLanguage.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\FakeTextMarkupLanguage\obj\Debug\FakeTextMarkupLanguage.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\FakeTextMarkupLanguage\obj\Debug\FakeTextMarkupLanguage.pdb

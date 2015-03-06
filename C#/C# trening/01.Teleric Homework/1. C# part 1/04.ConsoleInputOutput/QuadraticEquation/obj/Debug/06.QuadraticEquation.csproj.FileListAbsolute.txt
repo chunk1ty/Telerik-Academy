@@ -1,0 +1,9 @@
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
+D:\chunk1ty\C#\c# trening\Teleric\4.ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\4.ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\chunk1ty\C#\c# trening\Teleric\4.ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

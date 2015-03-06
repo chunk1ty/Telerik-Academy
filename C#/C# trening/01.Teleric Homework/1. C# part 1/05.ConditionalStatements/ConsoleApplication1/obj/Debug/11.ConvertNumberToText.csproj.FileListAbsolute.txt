@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\ConsoleApplication1\obj\Debug\11.ConvertNumberToText.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

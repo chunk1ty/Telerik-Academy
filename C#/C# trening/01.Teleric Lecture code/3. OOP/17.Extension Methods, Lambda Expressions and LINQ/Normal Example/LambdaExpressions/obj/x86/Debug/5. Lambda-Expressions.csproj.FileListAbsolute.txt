@@ -1,0 +1,5 @@
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LambdaExpressions\obj\x86\Debug\5. Lambda-Expressions.csprojResolveAssemblyReference.cache
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LambdaExpressions\obj\x86\Debug\LambdaExpressions.exe
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LambdaExpressions\obj\x86\Debug\LambdaExpressions.pdb

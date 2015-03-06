@@ -1,0 +1,5 @@
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Delegates-Example\bin\Debug\Delegates-Example.exe
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Delegates-Example\bin\Debug\Delegates-Example.pdb
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Delegates-Example\obj\Debug\3. Delegates-Example.csprojResolveAssemblyReference.cache
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Delegates-Example\obj\Debug\Delegates-Example.exe
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Delegates-Example\obj\Debug\Delegates-Example.pdb

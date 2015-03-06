@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.pdb
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\BinaryDigitsCount\obj\Debug\04.BinaryDigitsCount.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb

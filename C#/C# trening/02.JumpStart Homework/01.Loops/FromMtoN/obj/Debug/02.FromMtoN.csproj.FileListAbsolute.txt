@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\FromMtoN\bin\Debug\FromMtoN.exe.config
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\FromMtoN\bin\Debug\FromMtoN.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\FromMtoN\bin\Debug\FromMtoN.pdb
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\FromMtoN\obj\Debug\FromMtoN.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\FromMtoN\obj\Debug\FromMtoN.pdb

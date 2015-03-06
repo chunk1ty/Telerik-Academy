@@ -1,0 +1,8 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\AddNumberOnEveryLine\bin\Debug\AddNumberOnEveryLine.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\AddNumberOnEveryLine\bin\Debug\AddNumberOnEveryLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\AddNumberOnEveryLine\bin\Debug\AddNumberOnEveryLine.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\AddNumberOnEveryLine\obj\Debug\AddNumberOnEveryLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\AddNumberOnEveryLine\obj\Debug\AddNumberOnEveryLine.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\AddNumberOnEveryLine\bin\Debug\AddNumberOnEveryLine.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\AddNumberOnEveryLine\obj\Debug\AddNumberOnEveryLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\AddNumberOnEveryLine\obj\Debug\AddNumberOnEveryLine.pdb

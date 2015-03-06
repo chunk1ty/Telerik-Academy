@@ -1,0 +1,18 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\PrintMatrix\obj\Debug\01.PrintMatrix.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\PrintMatrix\bin\Debug\PrintMatrix.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\PrintMatrix\bin\Debug\PrintMatrix.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\PrintMatrix\bin\Debug\PrintMatrix.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\PrintMatrix\obj\Debug\PrintMatrix.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\PrintMatrix\obj\Debug\PrintMatrix.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\PrintMatrix\bin\Debug\PrintMatrix.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\PrintMatrix\obj\Debug\PrintMatrix.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\PrintMatrix\obj\Debug\PrintMatrix.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\8.Multidimensional Arrays\PrintMatrix\bin\Debug\PrintMatrix.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\8.Multidimensional Arrays\PrintMatrix\obj\Debug\PrintMatrix.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\8.Multidimensional Arrays\PrintMatrix\obj\Debug\PrintMatrix.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\08.Multidimensional Arrays\PrintMatrix\bin\Debug\PrintMatrix.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\08.Multidimensional Arrays\PrintMatrix\obj\Debug\PrintMatrix.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\08.Multidimensional Arrays\PrintMatrix\obj\Debug\PrintMatrix.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\2. C# part 2\08.Multidimensional Arrays\PrintMatrix\bin\Debug\PrintMatrix.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\2. C# part 2\08.Multidimensional Arrays\PrintMatrix\obj\Debug\PrintMatrix.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\2. C# part 2\08.Multidimensional Arrays\PrintMatrix\obj\Debug\PrintMatrix.pdb

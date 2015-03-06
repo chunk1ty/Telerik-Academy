@@ -1,0 +1,6 @@
+Z:\C#\c# trening\Teleric\4.ConsoleInputOutput\CalculateSum\bin\Debug\CalculateSum.exe.config
+Z:\C#\c# trening\Teleric\4.ConsoleInputOutput\CalculateSum\bin\Debug\CalculateSum.exe
+Z:\C#\c# trening\Teleric\4.ConsoleInputOutput\CalculateSum\bin\Debug\CalculateSum.pdb
+Z:\C#\c# trening\Teleric\4.ConsoleInputOutput\CalculateSum\obj\Debug\10.CalculateSum.csprojResolveAssemblyReference.cache
+Z:\C#\c# trening\Teleric\4.ConsoleInputOutput\CalculateSum\obj\Debug\CalculateSum.exe
+Z:\C#\c# trening\Teleric\4.ConsoleInputOutput\CalculateSum\obj\Debug\CalculateSum.pdb

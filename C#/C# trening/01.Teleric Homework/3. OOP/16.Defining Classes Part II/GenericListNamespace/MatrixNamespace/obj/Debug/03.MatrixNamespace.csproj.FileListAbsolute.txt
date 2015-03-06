@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\MatrixNamespace\obj\Debug\03.MatrixNamespace.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\MatrixNamespace\bin\Debug\MatrixNamespace.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\MatrixNamespace\bin\Debug\MatrixNamespace.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\MatrixNamespace\bin\Debug\MatrixNamespace.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\MatrixNamespace\obj\Debug\MatrixNamespace.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\MatrixNamespace\obj\Debug\MatrixNamespace.pdb

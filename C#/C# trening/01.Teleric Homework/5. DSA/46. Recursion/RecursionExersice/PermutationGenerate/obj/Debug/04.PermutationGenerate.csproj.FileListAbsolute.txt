@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\PermutationGenerate\bin\Debug\PermutationGenerate.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\PermutationGenerate\bin\Debug\PermutationGenerate.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\PermutationGenerate\bin\Debug\PermutationGenerate.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\PermutationGenerate\obj\Debug\04.PermutationGenerate.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\PermutationGenerate\obj\Debug\PermutationGenerate.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\PermutationGenerate\obj\Debug\PermutationGenerate.pdb

@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\PrintUpperLetter\bin\Debug\PrintUpperLetter.exe.config
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\PrintUpperLetter\bin\Debug\PrintUpperLetter.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\PrintUpperLetter\bin\Debug\PrintUpperLetter.pdb
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\PrintUpperLetter\obj\Debug\PrintUpperLetter.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Arrays\PrintUpperLetter\obj\Debug\PrintUpperLetter.pdb

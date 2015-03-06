@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\5. JS OOP\1.Functions and Functionals expressions\FunctionAndFunctionalExpre\bin\FunctionAndFunctionalExpre.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\5. JS OOP\1.Functions and Functionals expressions\FunctionAndFunctionalExpre\bin\FunctionAndFunctionalExpre.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\5. JS OOP\1.Functions and Functionals expressions\FunctionAndFunctionalExpre\bin\FunctionAndFunctionalExpre.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\5. JS OOP\1.Functions and Functionals expressions\FunctionAndFunctionalExpre\obj\Debug\FunctionAndFunctionalExpre.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\5. JS OOP\1.Functions and Functionals expressions\FunctionAndFunctionalExpre\obj\Debug\FunctionAndFunctionalExpre.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\5. JS OOP\1.Functions and Functionals expressions\FunctionAndFunctionalExpre\obj\Debug\FunctionAndFunctionalExpre.pdb

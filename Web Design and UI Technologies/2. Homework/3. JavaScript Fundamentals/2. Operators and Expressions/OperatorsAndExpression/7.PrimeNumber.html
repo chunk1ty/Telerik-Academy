@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function onPrimeNumber() {
+            var number = document.getElementById('getNumber').value;
+            var isPrime = true;
+            
+            for (var i = 2; i <= parseInt(Math.sqrt(number)) ; i++) {
+                if (number % i === 0) {
+                    isPrime = false;
+                }
+            }
+
+            if (isPrime) {
+                alert('The number is prime');
+            }
+            else {
+                alert('The number is not prime');
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="getNumber"  />
+    <button onclick="onPrimeNumber()">
+        Check
+    </button>
+</body>
+</html>

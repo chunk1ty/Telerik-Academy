@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\Nine-DigitMagicNumbers\bin\Debug\Nine-DigitMagicNumbers.exe.config
+D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\Nine-DigitMagicNumbers\bin\Debug\Nine-DigitMagicNumbers.exe
+D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\Nine-DigitMagicNumbers\bin\Debug\Nine-DigitMagicNumbers.pdb
+D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\Nine-DigitMagicNumbers\obj\Debug\04.Nine-DigitMagicNumbers.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\Nine-DigitMagicNumbers\obj\Debug\Nine-DigitMagicNumbers.exe
+D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\Nine-DigitMagicNumbers\obj\Debug\Nine-DigitMagicNumbers.pdb

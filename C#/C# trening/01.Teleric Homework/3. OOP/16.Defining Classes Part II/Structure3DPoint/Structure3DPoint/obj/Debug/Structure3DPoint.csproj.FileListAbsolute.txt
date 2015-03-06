@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\Structure3DPoint\Structure3DPoint\obj\Debug\Structure3DPoint.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\Structure3DPoint\Structure3DPoint\bin\Debug\Structure3DPoint.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\Structure3DPoint\Structure3DPoint\bin\Debug\Structure3DPoint.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\Structure3DPoint\Structure3DPoint\obj\Debug\Structure3DPoint.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\Structure3DPoint\Structure3DPoint\obj\Debug\Structure3DPoint.pdb

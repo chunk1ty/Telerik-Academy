@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\TwoDates\bin\Debug\TwoDates.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\TwoDates\bin\Debug\TwoDates.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\TwoDates\bin\Debug\TwoDates.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\TwoDates\obj\Debug\TwoDates.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\TwoDates\obj\Debug\TwoDates.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\TwoDates\obj\Debug\TwoDates.csprojResolveAssemblyReference.cache

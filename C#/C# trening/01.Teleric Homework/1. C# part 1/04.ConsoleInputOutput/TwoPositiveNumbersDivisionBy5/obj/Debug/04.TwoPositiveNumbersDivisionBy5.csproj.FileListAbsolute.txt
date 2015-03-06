@@ -1,0 +1,6 @@
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\TwoPositiveNumbersDivisionBy5\bin\Debug\TwoPositiveNumbersDivisionBy5.exe.config
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\TwoPositiveNumbersDivisionBy5\bin\Debug\TwoPositiveNumbersDivisionBy5.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\TwoPositiveNumbersDivisionBy5\bin\Debug\TwoPositiveNumbersDivisionBy5.pdb
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\TwoPositiveNumbersDivisionBy5\obj\Debug\04.TwoPositiveNumbersDivisionBy5.csprojResolveAssemblyReference.cache
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\TwoPositiveNumbersDivisionBy5\obj\Debug\TwoPositiveNumbersDivisionBy5.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\TwoPositiveNumbersDivisionBy5\obj\Debug\TwoPositiveNumbersDivisionBy5.pdb

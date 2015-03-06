@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ComboBox Controls</title>
+    <script src="libs/require.js" data-main="app-config"></script>
+    <style>
+        ul {
+            list-style-type: none;
+            width: 150px;
+        }
+
+        li {
+            padding: 15px;
+            border: 1px solid black;
+        }
+
+            li:hover {
+                background-color: #CCCCCC;
+            }
+    </style>
+</head>
+<body>
+    <script type="text/x-handlebars-template" id="student-template">
+        <div class="person-item" id="person-item-{{id}}">
+            <strong class="person-name">{{name}}</strong> <br />
+            <p class="person-age">Age: {{age}}</p>
+            <img src="{{avatarUrl}}" width="100" />
+        </div>
+    </script>
+
+    <div id="content"></div>
+</body>
+</html>

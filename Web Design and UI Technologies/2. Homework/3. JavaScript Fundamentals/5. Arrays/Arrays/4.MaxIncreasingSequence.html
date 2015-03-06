@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function maxSequence() {
+            var testArray = [3, 2, 3, 4, 5, 6, 7, 8, 2, 2, 4, 1, 2, 3, 4, 5, 6, 7, 8],
+            currentLenght = 1,
+            maxLenght = 0,
+            lastIndex = testArray[0];
+
+            var arrlen = testArray.length;
+
+            for (var i = 1; i < testArray.length; i++) {
+
+                if (testArray[i - 1] === (testArray[i] - 1)) {
+                    currentLenght++;
+
+                    if (currentLenght > maxLenght) {
+                        maxLenght = currentLenght;
+                        lastIndex = i;
+                    }
+                }
+                else {
+                    currentLenght = 1;
+                }
+            }
+
+            printMaxSequence(lastIndex, maxLenght, testArray);
+        }
+
+        function printMaxSequence(lastIndex, lenght, array) {
+            var result = '{';
+
+            for (var i = lastIndex - lenght + 1; i <= lastIndex; i++) {
+                result += ' ' + array[i];
+            }
+
+            result += ' }';
+
+            console.log(result);
+        }
+
+        maxSequence()
+    </script>
+</head>
+<body>
+
+</body>
+</html>

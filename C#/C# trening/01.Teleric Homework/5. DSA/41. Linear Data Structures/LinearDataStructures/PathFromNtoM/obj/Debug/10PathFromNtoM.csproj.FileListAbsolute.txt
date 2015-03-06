@@ -1,0 +1,3 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\PathFromNtoM\bin\Debug\PathFromNtoM.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\PathFromNtoM\obj\Debug\PathFromNtoM.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\PathFromNtoM\obj\Debug\PathFromNtoM.pdb

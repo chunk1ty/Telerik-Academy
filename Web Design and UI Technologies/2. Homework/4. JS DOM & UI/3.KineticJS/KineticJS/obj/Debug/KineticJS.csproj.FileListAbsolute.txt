@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\3.KineticJS\KineticJS\bin\KineticJS.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\3.KineticJS\KineticJS\bin\KineticJS.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\3.KineticJS\KineticJS\bin\KineticJS.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\3.KineticJS\KineticJS\obj\Debug\KineticJS.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\3.KineticJS\KineticJS\obj\Debug\KineticJS.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\3.KineticJS\KineticJS\obj\Debug\KineticJS.pdb

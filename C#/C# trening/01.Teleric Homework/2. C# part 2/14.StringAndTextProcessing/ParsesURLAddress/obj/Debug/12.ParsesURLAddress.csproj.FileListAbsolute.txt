@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ParsesURLAddress\bin\Debug\ParsesURLAddress.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ParsesURLAddress\bin\Debug\ParsesURLAddress.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ParsesURLAddress\bin\Debug\ParsesURLAddress.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ParsesURLAddress\obj\Debug\ParsesURLAddress.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ParsesURLAddress\obj\Debug\ParsesURLAddress.pdb

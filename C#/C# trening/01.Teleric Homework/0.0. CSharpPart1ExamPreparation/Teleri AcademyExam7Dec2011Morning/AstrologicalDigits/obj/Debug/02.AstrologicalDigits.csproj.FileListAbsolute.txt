@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\c# trening\Teleric\Teleri AcademyExam7Dec2011Morning\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\Teleri AcademyExam7Dec2011Morning\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe
+D:\chunk1ty\C#\c# trening\Teleric\Teleri AcademyExam7Dec2011Morning\AstrologicalDigits\bin\Debug\AstrologicalDigits.pdb
+D:\chunk1ty\C#\c# trening\Teleric\Teleri AcademyExam7Dec2011Morning\AstrologicalDigits\obj\Debug\02.AstrologicalDigits.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\Teleri AcademyExam7Dec2011Morning\AstrologicalDigits\obj\Debug\AstrologicalDigits.exe
+D:\chunk1ty\C#\c# trening\Teleric\Teleri AcademyExam7Dec2011Morning\AstrologicalDigits\obj\Debug\AstrologicalDigits.pdb
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\AstrologicalDigits\obj\Debug\AstrologicalDigits.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\AstrologicalDigits\obj\Debug\AstrologicalDigits.pdb

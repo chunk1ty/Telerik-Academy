@@ -1,0 +1,15 @@
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\CheckPointInCircleOutRectangle\bin\Debug\CheckPointInCircleOutRectangle.exe.config
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\CheckPointInCircleOutRectangle\bin\Debug\CheckPointInCircleOutRectangle.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\CheckPointInCircleOutRectangle\bin\Debug\CheckPointInCircleOutRectangle.pdb
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\CheckPointInCircleOutRectangle\obj\Debug\09.CheckPointInCircleOutRectangle.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\CheckPointInCircleOutRectangle\obj\Debug\CheckPointInCircleOutRectangle.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\CheckPointInCircleOutRectangle\obj\Debug\CheckPointInCircleOutRectangle.pdb
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckPointInCircleOutRectangle\bin\Debug\CheckPointInCircleOutRectangle.exe.config
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckPointInCircleOutRectangle\obj\Debug\CheckPointInCircleOutRectangle.exe
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckPointInCircleOutRectangle\obj\Debug\CheckPointInCircleOutRectangle.pdb
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckPointInCircleOutRectangle\bin\Debug\CheckPointInCircleOutRectangle.exe
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckPointInCircleOutRectangle\bin\Debug\CheckPointInCircleOutRectangle.pdb
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckPointInCircleOutRectangle\obj\Debug\09.CheckPointInCircleOutRectangle.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckPointInCircleOutRectangle\bin\Debug\CheckPointInCircleOutRectangle.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckPointInCircleOutRectangle\obj\Debug\CheckPointInCircleOutRectangle.exe
+D:\chunk1ty\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckPointInCircleOutRectangle\obj\Debug\CheckPointInCircleOutRectangle.pdb

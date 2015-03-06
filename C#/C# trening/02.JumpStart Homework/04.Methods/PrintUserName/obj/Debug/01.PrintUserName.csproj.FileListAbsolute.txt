@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\PrintUserName\bin\Debug\PrintUserName.exe.config
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\PrintUserName\bin\Debug\PrintUserName.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\PrintUserName\bin\Debug\PrintUserName.pdb
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\PrintUserName\obj\Debug\01.PrintUserName.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\PrintUserName\obj\Debug\PrintUserName.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\PrintUserName\obj\Debug\PrintUserName.pdb
+D:\chunk1ty\C#\C# trening\02.JumpStart Homework\04.Methods\PrintUserName\bin\Debug\PrintUserName.exe.config
+D:\chunk1ty\C#\C# trening\02.JumpStart Homework\04.Methods\PrintUserName\obj\Debug\PrintUserName.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Homework\04.Methods\PrintUserName\obj\Debug\PrintUserName.pdb

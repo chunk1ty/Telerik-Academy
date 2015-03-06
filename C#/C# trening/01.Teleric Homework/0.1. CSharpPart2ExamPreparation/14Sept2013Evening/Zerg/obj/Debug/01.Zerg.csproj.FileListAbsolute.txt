@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\Zerg\bin\Debug\Zerg.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\Zerg\bin\Debug\Zerg.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\Zerg\bin\Debug\Zerg.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\Zerg\obj\Debug\01.Zerg.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\Zerg\obj\Debug\Zerg.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\Zerg\obj\Debug\Zerg.pdb

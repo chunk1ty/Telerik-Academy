@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\4. JS DOM and UI\2.HTML5 Canvas\canvas-demos\Canvas\bin\Canvas.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\4. JS DOM and UI\2.HTML5 Canvas\canvas-demos\Canvas\bin\Canvas.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\4. JS DOM and UI\2.HTML5 Canvas\canvas-demos\Canvas\bin\Canvas.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\4. JS DOM and UI\2.HTML5 Canvas\canvas-demos\Canvas\obj\Debug\Canvas.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\4. JS DOM and UI\2.HTML5 Canvas\canvas-demos\Canvas\obj\Debug\Canvas.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\4. JS DOM and UI\2.HTML5 Canvas\canvas-demos\Canvas\obj\Debug\Canvas.pdb

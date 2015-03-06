@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReverseSentence\bin\Debug\ReverseSentence.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReverseSentence\bin\Debug\ReverseSentence.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReverseSentence\bin\Debug\ReverseSentence.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReverseSentence\obj\Debug\13.ReverseSentence.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReverseSentence\obj\Debug\ReverseSentence.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReverseSentence\obj\Debug\ReverseSentence.pdb

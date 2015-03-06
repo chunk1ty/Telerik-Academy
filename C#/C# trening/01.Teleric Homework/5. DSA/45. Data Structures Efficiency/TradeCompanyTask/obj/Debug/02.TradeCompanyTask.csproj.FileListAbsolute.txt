@@ -1,0 +1,8 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\TradeCompanyTask\obj\Debug\02.TradeCompanyTask.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\TradeCompanyTask\bin\Debug\TradeCompanyTask.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\TradeCompanyTask\bin\Debug\TradeCompanyTask.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\TradeCompanyTask\bin\Debug\TradeCompanyTask.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\TradeCompanyTask\bin\Debug\PowerCollections.dll
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\TradeCompanyTask\bin\Debug\PowerCollections.xml
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\TradeCompanyTask\obj\Debug\TradeCompanyTask.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\TradeCompanyTask\obj\Debug\TradeCompanyTask.pdb

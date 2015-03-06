@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function printNumbers() {
+            var number = parseInt(document.getElementById('getNumber').value);
+
+            for (var i = 1; i <= number; i++) {
+                if (i % 21 === 0) {
+                    continue
+                }
+                else {
+                    console.log(i);
+                }                
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="getNumber" />
+    <a href="#" onclick="printNumbers()">Print</a>
+</body>
+</html>

@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

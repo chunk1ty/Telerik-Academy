@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\Trapezoid\bin\Debug\Trapezoid.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\Trapezoid\bin\Debug\Trapezoid.exe
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\Trapezoid\bin\Debug\Trapezoid.pdb
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\Trapezoid\obj\Debug\Trapezoid.exe
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\Trapezoid\obj\Debug\Trapezoid.pdb

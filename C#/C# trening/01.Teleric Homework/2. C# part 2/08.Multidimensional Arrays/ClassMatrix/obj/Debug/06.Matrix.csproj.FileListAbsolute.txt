@@ -1,0 +1,7 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\8.Multidimensional Arrays\ClassMatrix\obj\Debug\06.Matrix.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\8.Multidimensional Arrays\ClassMatrix\bin\Debug\ClassMatrix.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\8.Multidimensional Arrays\ClassMatrix\bin\Debug\ClassMatrix.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\8.Multidimensional Arrays\ClassMatrix\obj\Debug\ClassMatrix.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\8.Multidimensional Arrays\ClassMatrix\obj\Debug\ClassMatrix.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\2. C# part 2\08.Multidimensional Arrays\ClassMatrix\obj\Debug\ClassMatrix.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\2. C# part 2\08.Multidimensional Arrays\ClassMatrix\obj\Debug\ClassMatrix.pdb

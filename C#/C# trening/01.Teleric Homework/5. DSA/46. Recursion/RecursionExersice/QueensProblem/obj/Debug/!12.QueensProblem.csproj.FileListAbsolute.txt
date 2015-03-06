@@ -1,0 +1,3 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\QueensProblem\bin\Debug\QueensProblem.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\QueensProblem\obj\Debug\QueensProblem.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\QueensProblem\obj\Debug\QueensProblem.pdb

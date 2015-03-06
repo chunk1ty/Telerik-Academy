@@ -1,0 +1,8 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\BinSearch\bin\Debug\BinSearch.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\BinSearch\bin\Debug\BinSearch.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\BinSearch\bin\Debug\BinSearch.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\BinSearch\obj\Debug\BinSearch.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\BinSearch\obj\Debug\BinSearch.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\BinSearch\bin\Debug\BinSearch.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\BinSearch\obj\Debug\BinSearch.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\BinSearch\obj\Debug\BinSearch.pdb

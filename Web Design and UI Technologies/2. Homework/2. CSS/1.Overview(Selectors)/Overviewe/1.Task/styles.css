@@ -1,0 +1,42 @@
+﻿body, table, td, th, tr {
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+    background-color:#595959;
+}
+
+td, th{
+    padding: 0 10px 10px 10px;
+    vertical-align: top;
+}
+table td:first-child{
+    color: white;
+    font-style: italic;
+}
+
+th {
+    font-size:1.2em;
+    font-family:Arial;
+    text-align:left;    
+}
+
+.brown {
+    color: #977f70;
+}
+
+#redText {
+    color: red;
+    font-style:normal;
+}
+
+.orangeText {
+    color: orange;
+}
+
+#lightYellow {
+    color: #ccab7f;
+    font-style:normal;
+}
+

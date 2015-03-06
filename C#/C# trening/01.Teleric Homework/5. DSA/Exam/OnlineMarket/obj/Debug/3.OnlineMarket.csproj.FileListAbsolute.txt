@@ -1,0 +1,8 @@
+C:\Users\Andriyan Krastev\Desktop\Exam\OnlineMarket\bin\Debug\OnlineMarket.exe.config
+C:\Users\Andriyan Krastev\Desktop\Exam\OnlineMarket\obj\Debug\OnlineMarket.exe
+C:\Users\Andriyan Krastev\Desktop\Exam\OnlineMarket\obj\Debug\OnlineMarket.pdb
+C:\Users\Andriyan Krastev\Desktop\Exam\OnlineMarket\bin\Debug\OnlineMarket.exe
+C:\Users\Andriyan Krastev\Desktop\Exam\OnlineMarket\bin\Debug\OnlineMarket.pdb
+C:\Users\Andriyan Krastev\Desktop\Exam\OnlineMarket\bin\Debug\PowerCollections.dll
+C:\Users\Andriyan Krastev\Desktop\Exam\OnlineMarket\bin\Debug\PowerCollections.xml
+C:\Users\Andriyan Krastev\Desktop\Exam\OnlineMarket\obj\Debug\3.OnlineMarket.csprojResolveAssemblyReference.cache

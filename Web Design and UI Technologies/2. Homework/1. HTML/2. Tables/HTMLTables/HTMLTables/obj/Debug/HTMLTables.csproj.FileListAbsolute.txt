@@ -1,0 +1,6 @@
+D:\chunk1ty\Web Design and UI Technologies\2. Homework\1. HTML\2. Tables\HTMLTables\HTMLTables\bin\HTMLTables.dll.config
+D:\chunk1ty\Web Design and UI Technologies\2. Homework\1. HTML\2. Tables\HTMLTables\HTMLTables\bin\HTMLTables.dll
+D:\chunk1ty\Web Design and UI Technologies\2. Homework\1. HTML\2. Tables\HTMLTables\HTMLTables\bin\HTMLTables.pdb
+D:\chunk1ty\Web Design and UI Technologies\2. Homework\1. HTML\2. Tables\HTMLTables\HTMLTables\obj\Debug\HTMLTables.csprojResolveAssemblyReference.cache
+D:\chunk1ty\Web Design and UI Technologies\2. Homework\1. HTML\2. Tables\HTMLTables\HTMLTables\obj\Debug\HTMLTables.dll
+D:\chunk1ty\Web Design and UI Technologies\2. Homework\1. HTML\2. Tables\HTMLTables\HTMLTables\obj\Debug\HTMLTables.pdb

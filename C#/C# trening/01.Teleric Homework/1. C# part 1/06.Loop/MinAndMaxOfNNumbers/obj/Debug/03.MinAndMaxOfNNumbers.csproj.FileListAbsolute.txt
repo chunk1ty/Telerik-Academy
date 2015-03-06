@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\Loop\MinAndMaxOfNNumbers\bin\Debug\MinAndMaxOfNNumbers.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\Loop\MinAndMaxOfNNumbers\bin\Debug\MinAndMaxOfNNumbers.exe
+D:\chunk1ty\C#\c# trening\Teleric\Loop\MinAndMaxOfNNumbers\bin\Debug\MinAndMaxOfNNumbers.pdb
+D:\chunk1ty\C#\c# trening\Teleric\Loop\MinAndMaxOfNNumbers\obj\Debug\MinAndMaxOfNNumbers.exe
+D:\chunk1ty\C#\c# trening\Teleric\Loop\MinAndMaxOfNNumbers\obj\Debug\MinAndMaxOfNNumbers.pdb

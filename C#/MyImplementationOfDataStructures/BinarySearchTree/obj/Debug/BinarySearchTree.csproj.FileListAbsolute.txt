@@ -1,0 +1,1 @@
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config

@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\DecimalToBinary\obj\Debug\01.DecimalToBinary.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\9.NumeralSystems\NumeralSystems\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

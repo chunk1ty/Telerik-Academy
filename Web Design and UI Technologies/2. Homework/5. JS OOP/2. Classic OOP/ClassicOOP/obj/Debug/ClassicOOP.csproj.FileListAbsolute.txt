@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\5. JS OOP\2. Classic OOP\ClassicOOP\bin\ClassicOOP.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\5. JS OOP\2. Classic OOP\ClassicOOP\bin\ClassicOOP.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\5. JS OOP\2. Classic OOP\ClassicOOP\bin\ClassicOOP.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\5. JS OOP\2. Classic OOP\ClassicOOP\obj\Debug\ClassicOOP.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\5. JS OOP\2. Classic OOP\ClassicOOP\obj\Debug\ClassicOOP.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\5. JS OOP\2. Classic OOP\ClassicOOP\obj\Debug\ClassicOOP.pdb

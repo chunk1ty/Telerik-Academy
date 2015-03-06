@@ -1,0 +1,8 @@
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\IfStatmentWhoCheckTwoVariables\bin\Debug\IfStatmentWhoCheckTwoVariables.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\IfStatmentWhoCheckTwoVariables\bin\Debug\IfStatmentWhoCheckTwoVariables.exe
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\IfStatmentWhoCheckTwoVariables\bin\Debug\IfStatmentWhoCheckTwoVariables.pdb
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\IfStatmentWhoCheckTwoVariables\obj\Debug\IfStatmentWhoCheckTwoVariables.exe
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\IfStatmentWhoCheckTwoVariables\obj\Debug\IfStatmentWhoCheckTwoVariables.pdb
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\IfStatmentWhoCheckTwoVariables\bin\Debug\IfStatmentWhoCheckTwoVariables.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\IfStatmentWhoCheckTwoVariables\obj\Debug\IfStatmentWhoCheckTwoVariables.exe
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\IfStatmentWhoCheckTwoVariables\obj\Debug\IfStatmentWhoCheckTwoVariables.pdb

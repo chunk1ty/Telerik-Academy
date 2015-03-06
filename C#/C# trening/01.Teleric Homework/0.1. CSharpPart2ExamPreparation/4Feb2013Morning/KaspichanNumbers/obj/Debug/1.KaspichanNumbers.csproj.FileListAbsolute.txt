@@ -1,0 +1,2 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\KaspichanNumbers\obj\Debug\KaspichanNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\4Feb2013Morning\KaspichanNumbers\obj\Debug\KaspichanNumbers.pdb

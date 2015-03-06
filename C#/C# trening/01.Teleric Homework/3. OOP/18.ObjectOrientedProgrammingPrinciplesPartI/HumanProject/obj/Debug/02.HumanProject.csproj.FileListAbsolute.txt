@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\HumanProject\bin\Debug\HumanProject.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\HumanProject\bin\Debug\HumanProject.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\HumanProject\bin\Debug\HumanProject.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\HumanProject\obj\Debug\HumanProject.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\HumanProject\obj\Debug\HumanProject.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\HumanProject\obj\Debug\02.HumanProject.csprojResolveAssemblyReference.cache

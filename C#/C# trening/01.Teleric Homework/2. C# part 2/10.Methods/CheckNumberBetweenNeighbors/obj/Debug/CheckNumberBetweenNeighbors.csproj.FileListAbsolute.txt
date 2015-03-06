@@ -1,0 +1,1 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\CheckNumberBetweenNeighbors\bin\Debug\CheckNumberBetweenNeighbors.exe.config

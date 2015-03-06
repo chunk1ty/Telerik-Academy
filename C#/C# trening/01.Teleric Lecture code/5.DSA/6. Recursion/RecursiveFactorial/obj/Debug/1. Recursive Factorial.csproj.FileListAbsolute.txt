@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\RecursiveFactorial\obj\Debug\1. Recursive Factorial.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb

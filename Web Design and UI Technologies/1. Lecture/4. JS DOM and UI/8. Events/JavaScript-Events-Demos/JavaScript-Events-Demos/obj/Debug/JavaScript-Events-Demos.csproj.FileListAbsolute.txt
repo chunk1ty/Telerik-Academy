@@ -1,0 +1,11 @@
+C:\Users\Trainer\Desktop\JavaScript-Events-Demos\JavaScript-Events-Demos\bin\JavaScript-Events-Demos.dll
+C:\Users\Trainer\Desktop\JavaScript-Events-Demos\JavaScript-Events-Demos\bin\JavaScript-Events-Demos.pdb
+C:\Users\Trainer\Desktop\JavaScript-Events-Demos\JavaScript-Events-Demos\obj\Debug\JavaScript-Events-Demos.csprojResolveAssemblyReference.cache
+C:\Users\Trainer\Desktop\JavaScript-Events-Demos\JavaScript-Events-Demos\obj\Debug\JavaScript-Events-Demos.dll
+C:\Users\Trainer\Desktop\JavaScript-Events-Demos\JavaScript-Events-Demos\obj\Debug\JavaScript-Events-Demos.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\4. JS DOM and UI\8. Events\JavaScript-Events-Demos\JavaScript-Events-Demos\bin\JavaScript-Events-Demos.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\4. JS DOM and UI\8. Events\JavaScript-Events-Demos\JavaScript-Events-Demos\bin\JavaScript-Events-Demos.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\4. JS DOM and UI\8. Events\JavaScript-Events-Demos\JavaScript-Events-Demos\obj\Debug\JavaScript-Events-Demos.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\4. JS DOM and UI\8. Events\JavaScript-Events-Demos\JavaScript-Events-Demos\obj\Debug\JavaScript-Events-Demos.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\4. JS DOM and UI\8. Events\JavaScript-Events-Demos\JavaScript-Events-Demos\obj\Debug\JavaScript-Events-Demos.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\4. JS DOM and UI\8. Events\JavaScript-Events-Demos\JavaScript-Events-Demos\bin\JavaScript-Events-Demos.dll.config

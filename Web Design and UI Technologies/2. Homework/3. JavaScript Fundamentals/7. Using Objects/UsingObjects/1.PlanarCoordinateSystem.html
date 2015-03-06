@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        function createPoint(X, Y) {
+            return {
+                X: X,
+                Y: Y,
+                showPoint: function () {
+                    return 'Point { ' + X + ' ' + Y + ' }';
+                }
+            }
+        }
+
+        function createLine(startPoint, endPoint) {
+            return {
+                startPoint: startPoint,
+                endPoint: endPoint,
+                showLine: function () {
+                    return 'Start point { ' + startPoint.X + ' ' + startPoint.Y + '} ' + 'End point { ' + endPoint.X + ' ' + endPoint.Y + ' }';
+                }
+            }
+        }
+
+        function calculateDistanceBetweenTwoPoints(firstPoint, secondPoint) {
+            var result = Math.sqrt((secondPoint.X - firstPoint.X) * (secondPoint.X - firstPoint.X) + (secondPoint.Y - firstPoint.Y) * (secondPoint.Y - firstPoint.Y));
+
+            return result;
+        }
+
+        function createTriangle(lineA, lineB, lineC) {
+            var a = calculateDistanceBetweenTwoPoints(lineA.startPoint, lineA.endPoint);
+            var b = calculateDistanceBetweenTwoPoints(lineB.startPoint, lineB.endPoint);
+            var c = calculateDistanceBetweenTwoPoints(lineC.startPoint, lineC.endPoint);
+
+            if (a + b > c && b + c > a && a + c > b) {
+                console.log('These lines can form a triangle');
+            }
+            else {
+                console.log('These lines cannot form a triangle');
+            }
+        }
+
+        //line A
+        var startPointA = createPoint(0, 0);
+        var endPointA = createPoint(2, 1);
+        var lineA = createLine(startPointA, endPointA);
+
+        //line B
+        var startPointB = createPoint(0, 0);
+        var endPointB = createPoint(2, 0);
+        var lineB = createLine(startPointB, endPointB);
+        
+        //line C
+        var startPointC = createPoint(2, 4);
+        var endPointC = createPoint(2, 0);
+        var lineC = createLine(startPointC, endPointC);
+
+        createTriangle(lineA, lineB, lineC);
+    </script>
+</head>
+<body>
+
+</body>
+</html>

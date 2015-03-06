@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+    
+        function group(arrPersons, key) {
+            if (arrPersons.length === 0) {
+                return undefined;
+            }
+            var answer = {};
+            for (var prop in arrPersons[0]) {
+                if (prop === key) {
+                    for (var i = 0; i < arrPersons.length; i++) {
+                        if (!answer[arrPersons[i][key]]) {
+                            answer[arrPersons[i][key]] = [];
+                        }
+                        answer[arrPersons[i][key]].push(arrPersons[i]);
+                    }
+                }
+            }
+            return answer;
+        }
+
+        var persons = [
+           { firstName: 'Andriyan', lastName: 'Krastev', age: 22 },
+           { firstName: 'Ivan', lastName: 'Petkov', age: 23 },
+           { firstName: 'Felipo', lastName: 'Inzagi', age: 46 },
+           { firstName: 'Martin', lastName: 'Odegaard', age: 16 },
+           { firstName: 'sd', lastName: 'Krastaaaev', age: 32 },
+           { firstName: 'Ivadn', lastName: 'Petgggkov', age: 14 },
+           { firstName: 'Felaaipo', lastName: 'Inzaqqqgi', age: 49 },
+           { firstName: 'Martdddin', lastName: 'Odegahhhard', age: 26 },
+        ];
+
+        var result = group(persons, 'firstName');
+
+        for (var prop in result) {
+            for (var i = 0; i < result[prop].length; i++) {
+                console.log(result[prop][i]);
+            }
+        }
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\USAFlagDraw\bin\Debug\USAFlagDraw.exe.config
+C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\USAFlagDraw\bin\Debug\USAFlagDraw.exe
+C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\USAFlagDraw\bin\Debug\USAFlagDraw.pdb
+C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\USAFlagDraw\obj\Debug\02.USAFlagDraw.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\USAFlagDraw\obj\Debug\USAFlagDraw.exe
+C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\USAFlagDraw\obj\Debug\USAFlagDraw.pdb

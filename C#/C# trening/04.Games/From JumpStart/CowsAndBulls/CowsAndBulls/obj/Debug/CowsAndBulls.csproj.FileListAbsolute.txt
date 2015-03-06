@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\JumpStart\CowsAndBulls\CowsAndBulls\bin\Debug\CowsAndBulls.exe.config
+D:\chunk1ty\C#\c# trening\JumpStart\CowsAndBulls\CowsAndBulls\bin\Debug\CowsAndBulls.exe
+D:\chunk1ty\C#\c# trening\JumpStart\CowsAndBulls\CowsAndBulls\bin\Debug\CowsAndBulls.pdb
+D:\chunk1ty\C#\c# trening\JumpStart\CowsAndBulls\CowsAndBulls\obj\Debug\CowsAndBulls.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\JumpStart\CowsAndBulls\CowsAndBulls\obj\Debug\CowsAndBulls.exe
+D:\chunk1ty\C#\c# trening\JumpStart\CowsAndBulls\CowsAndBulls\obj\Debug\CowsAndBulls.pdb

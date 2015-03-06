@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="scripts/domModule.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="main-nav">
+            <ul>                      
+                <li><a href="#" class="button">1</a></li>
+                <li><a href="#" class="button">2</a></li>
+                <li id="ank"><a href="#" class="button">3</a></li>
+                <li><a href="#" class="button">4</a></li>
+                <li><a href="#" class="button">5</a></li>
+            </ul>               
+        </div>
+    </div>
+
+    <script>
+        var divElement = document.createElement('div');
+        divElement.id = 'divEl';
+        divElement.innerHTML = 'DIV';
+
+        domModule.appendElemetnToParent(divElement, '#wrapper');
+
+        domModule.removeDOMElement('#ank');
+
+        domModule.attachEvent('.button', 'click', function () {
+            console.log(1);
+        })
+
+        for (var i = 0; i < 160; i++) {
+            var divItem = divElement.cloneNode(true);
+            divElement.innerHTML = "appended div number:" + (i + 1);
+            domModule.appendToBuffer("div.container", divElement);
+        }
+    </script>
+</body>
+</html>

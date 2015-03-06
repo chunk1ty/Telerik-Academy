@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\StackImplementation\bin\Debug\StackImplementation.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\StackImplementation\obj\Debug\StackImplementation.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\StackImplementation\bin\Debug\StackImplementation.exe
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\StackImplementation\bin\Debug\StackImplementation.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\StackImplementation\obj\Debug\StackImplementation.exe
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\StackImplementation\obj\Debug\StackImplementation.pdb

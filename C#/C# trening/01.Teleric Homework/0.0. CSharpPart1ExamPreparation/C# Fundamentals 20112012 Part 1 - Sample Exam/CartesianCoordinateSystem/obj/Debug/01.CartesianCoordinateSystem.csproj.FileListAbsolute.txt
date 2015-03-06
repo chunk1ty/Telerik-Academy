@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.pdb
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\CartesianCoordinateSystem\obj\Debug\01.CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb

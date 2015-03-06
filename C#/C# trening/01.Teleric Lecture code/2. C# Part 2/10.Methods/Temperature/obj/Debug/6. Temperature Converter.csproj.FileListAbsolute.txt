@@ -1,0 +1,4 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Temperature\bin\Debug\Temperature.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Temperature\bin\Debug\Temperature.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Temperature\obj\Debug\Temperature.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\Temperature\obj\Debug\Temperature.pdb

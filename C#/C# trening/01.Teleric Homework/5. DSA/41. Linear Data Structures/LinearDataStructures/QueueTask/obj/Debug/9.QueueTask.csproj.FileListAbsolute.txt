@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\QueueTask\bin\Debug\QueueTask.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\QueueTask\bin\Debug\QueueTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\QueueTask\bin\Debug\QueueTask.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\QueueTask\obj\Debug\9.QueueTask.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\QueueTask\obj\Debug\QueueTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\QueueTask\obj\Debug\QueueTask.pdb

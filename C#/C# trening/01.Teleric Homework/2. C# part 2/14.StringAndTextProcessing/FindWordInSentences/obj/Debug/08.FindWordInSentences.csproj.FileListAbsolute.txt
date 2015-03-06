@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\FindWordInSentences\bin\Debug\FindWordInSentences.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\FindWordInSentences\bin\Debug\FindWordInSentences.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\FindWordInSentences\bin\Debug\FindWordInSentences.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\FindWordInSentences\obj\Debug\FindWordInSentences.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\FindWordInSentences\obj\Debug\FindWordInSentences.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\FindWordInSentences\obj\Debug\08.FindWordInSentences.csprojResolveAssemblyReference.cache

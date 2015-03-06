@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #the-canvas {
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="the-canvas" width="500" height="500">
+    </canvas>
+
+    <script>
+        var canvas = document.getElementById('the-canvas');
+        var context = canvas.getContext('2d');
+
+        //Head
+        context.lineWidth = 2;
+        var darkBlue = '#396693';
+        var lightBlue = '#90CAD7';
+
+        //Face
+        context.save();
+        context.beginPath();
+        context.scale(1, 0.93);
+        context.arc(100, 130, 40, 0, 2 * Math.PI);
+        context.fillStyle = lightBlue;
+        context.fill();
+        context.strokeStyle = '#22545f';
+        context.stroke();
+        context.restore();
+                
+        //bottom head
+        context.save();
+        context.beginPath();
+        context.scale(1, 0.2);
+        context.arc(97, 430, 50, 0, 2 * Math.PI);
+        context.fillStyle = darkBlue;
+        context.fill();
+        context.stroke();
+        context.restore();
+
+        context.save();
+        context.beginPath();
+        context.scale(1, 0.3);
+        context.arc(97, 260, 30, 0, Math.PI);
+        context.fillStyle = darkBlue;
+        context.fill();
+        context.stroke();
+        context.restore();
+
+        context.save();
+        context.beginPath();
+        context.moveTo(67, 78);
+        context.lineTo(67, 30);
+        context.lineTo(127, 30);
+        context.lineTo(127, 78);
+        context.fillStyle = darkBlue;
+        context.fill();
+        context.stroke();
+        context.restore();
+
+        context.save();
+        context.beginPath();
+        context.scale(1, 0.3);
+        context.arc(97, 100, 30, 0, 2 * Math.PI);
+        context.fillStyle = darkBlue;
+        context.fill();
+        context.stroke();
+
+    </script>
+</body>
+</html>

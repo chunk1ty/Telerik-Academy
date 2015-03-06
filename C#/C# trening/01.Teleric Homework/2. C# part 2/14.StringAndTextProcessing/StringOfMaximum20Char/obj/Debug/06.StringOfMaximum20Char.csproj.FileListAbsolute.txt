@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\StringOfMaximum20Char\bin\Debug\StringOfMaximum20Char.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\StringOfMaximum20Char\obj\Debug\StringOfMaximum20Char.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\StringOfMaximum20Char\obj\Debug\StringOfMaximum20Char.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\StringOfMaximum20Char\bin\Debug\StringOfMaximum20Char.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\StringOfMaximum20Char\bin\Debug\StringOfMaximum20Char.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\StringOfMaximum20Char\obj\Debug\06.StringOfMaximum20Char.csprojResolveAssemblyReference.cache

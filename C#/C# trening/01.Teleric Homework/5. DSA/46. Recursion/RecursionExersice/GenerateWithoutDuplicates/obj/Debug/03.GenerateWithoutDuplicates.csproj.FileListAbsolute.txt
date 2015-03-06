@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\GenerateWithoutDuplicates\bin\Debug\GenerateWithoutDuplicates.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\GenerateWithoutDuplicates\bin\Debug\GenerateWithoutDuplicates.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\GenerateWithoutDuplicates\bin\Debug\GenerateWithoutDuplicates.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\GenerateWithoutDuplicates\obj\Debug\GenerateWithoutDuplicates.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\GenerateWithoutDuplicates\obj\Debug\GenerateWithoutDuplicates.pdb

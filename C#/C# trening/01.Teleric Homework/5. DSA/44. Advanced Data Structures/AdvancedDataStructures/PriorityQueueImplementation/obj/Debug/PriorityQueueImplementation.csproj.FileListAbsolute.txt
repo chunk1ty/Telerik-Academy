@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\PriorityQueueImplementation\bin\Debug\PriorityQueueImplementation.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\PriorityQueueImplementation\bin\Debug\PriorityQueueImplementation.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\PriorityQueueImplementation\bin\Debug\PriorityQueueImplementation.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\PriorityQueueImplementation\obj\Debug\PriorityQueueImplementation.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\PriorityQueueImplementation\obj\Debug\PriorityQueueImplementation.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\PriorityQueueImplementation\obj\Debug\PriorityQueueImplementation.pdb

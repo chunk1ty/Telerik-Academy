@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintMatrix\bin\Debug\PrintMatrix.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintMatrix\bin\Debug\PrintMatrix.exe
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintMatrix\bin\Debug\PrintMatrix.pdb
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintMatrix\obj\Debug\12.PrintMatrix.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintMatrix\obj\Debug\PrintMatrix.exe
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintMatrix\obj\Debug\PrintMatrix.pdb

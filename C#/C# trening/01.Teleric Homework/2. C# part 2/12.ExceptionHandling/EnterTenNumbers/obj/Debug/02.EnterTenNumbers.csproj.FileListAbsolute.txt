@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\EnterTenNumbers\bin\Debug\EnterTenNumbers.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\EnterTenNumbers\bin\Debug\EnterTenNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\EnterTenNumbers\bin\Debug\EnterTenNumbers.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\EnterTenNumbers\obj\Debug\EnterTenNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\EnterTenNumbers\obj\Debug\EnterTenNumbers.pdb

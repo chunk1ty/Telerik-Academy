@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SubSetSum\bin\Debug\SubSetSum.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SubSetSum\bin\Debug\SubSetSum.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SubSetSum\bin\Debug\SubSetSum.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SubSetSum\obj\Debug\16.SubSetSum.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SubSetSum\obj\Debug\SubSetSum.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SubSetSum\obj\Debug\SubSetSum.pdb

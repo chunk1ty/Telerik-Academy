@@ -1,0 +1,3 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\MagicWords\bin\Debug\MagicWords.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\MagicWords\obj\Debug\MagicWords.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\MagicWords\obj\Debug\MagicWords.pdb

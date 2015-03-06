@@ -1,0 +1,3 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\NumberToDecHexPercentageAndScientific\bin\Debug\NumberToDecHexPercentageAndScientific.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\NumberToDecHexPercentageAndScientific\obj\Debug\NumberToDecHexPercentageAndScientific.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\NumberToDecHexPercentageAndScientific\obj\Debug\NumberToDecHexPercentageAndScientific.pdb

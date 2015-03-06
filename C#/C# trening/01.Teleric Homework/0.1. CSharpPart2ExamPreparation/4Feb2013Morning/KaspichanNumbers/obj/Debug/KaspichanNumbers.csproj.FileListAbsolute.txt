@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\7Feb2012\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\7Feb2012\KaspichanNumbers\bin\Debug\KaspichanNumbers.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\7Feb2012\KaspichanNumbers\obj\Debug\KaspichanNumbers.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\7Feb2012\KaspichanNumbers\obj\Debug\KaspichanNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\7Feb2012\KaspichanNumbers\obj\Debug\KaspichanNumbers.pdb

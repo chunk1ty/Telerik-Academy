@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\ReverseString\obj\Debug\ReverseString.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\ReverseString\obj\Debug\ReverseString.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReverseString\obj\Debug\ReverseString.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReverseString\obj\Debug\ReverseString.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\14.StringAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\14.StringAndTextProcessing\ReverseString\obj\Debug\ReverseString.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\14.StringAndTextProcessing\ReverseString\obj\Debug\ReverseString.pdb

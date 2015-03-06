@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\Sqare\bin\Debug\Sqare.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\Sqare\bin\Debug\Sqare.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\Sqare\bin\Debug\Sqare.pdb
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\Sqare\obj\Debug\Sqare.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\Sqare\obj\Debug\Sqare.pdb

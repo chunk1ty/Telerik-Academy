@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Odd or Even ?</title>
+    <script>
+        function onGetOddOrEven() {
+            var number = document.getElementById('number');
+            var result = null;
+
+            if (number % 2 === 0) {
+                result = "The number is even";
+            }
+            else {
+                result = "The number is odd";
+            }
+
+            document.getElementById('result').innerHTML = result;
+        }
+    </script>
+</head>
+<body>
+    <label for="number">Enter a number</label>
+    <input type="text" id="number" name="name" placeholder="Enten the number here " />
+    <input type="button" name="name" value="Click" onclick="onGetOddOrEven()"/>    
+    <div id="result"></div>
+</body>
+</html>

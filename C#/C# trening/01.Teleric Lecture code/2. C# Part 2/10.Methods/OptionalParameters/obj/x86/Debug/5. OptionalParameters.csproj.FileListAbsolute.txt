@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\OptionalParameters\bin\Debug\OptionalParameters.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\OptionalParameters\bin\Debug\OptionalParameters.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\OptionalParameters\obj\x86\Debug\5. OptionalParameters.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\OptionalParameters\obj\x86\Debug\OptionalParameters.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\OptionalParameters\obj\x86\Debug\OptionalParameters.pdb

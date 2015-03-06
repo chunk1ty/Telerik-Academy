@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\ZerosOfNFactorial\bin\Debug\ZerosOfNFactorial.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\ZerosOfNFactorial\bin\Debug\ZerosOfNFactorial.exe
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\ZerosOfNFactorial\bin\Debug\ZerosOfNFactorial.pdb
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\ZerosOfNFactorial\obj\Debug\13.ZerosOfNFactorial.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\ZerosOfNFactorial\obj\Debug\ZerosOfNFactorial.exe
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\ZerosOfNFactorial\obj\Debug\ZerosOfNFactorial.pdb

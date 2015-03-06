@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintFirst10Numbers\bin\Debug\PrintFirst10Numbers.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintFirst10Numbers\bin\Debug\PrintFirst10Numbers.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintFirst10Numbers\bin\Debug\PrintFirst10Numbers.pdb
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintFirst10Numbers\obj\Debug\PrintFirst10Numbers.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintFirst10Numbers\obj\Debug\PrintFirst10Numbers.pdb

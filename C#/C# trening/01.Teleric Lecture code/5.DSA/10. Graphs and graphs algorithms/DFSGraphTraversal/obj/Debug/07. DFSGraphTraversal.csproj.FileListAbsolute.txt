@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\DFSGraphTraversal\bin\Debug\DFSGraphTraversal.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\DFSGraphTraversal\bin\Debug\DFSGraphTraversal.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\DFSGraphTraversal\bin\Debug\DFSGraphTraversal.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\DFSGraphTraversal\obj\Debug\DFSGraphTraversal.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\DFSGraphTraversal\obj\Debug\DFSGraphTraversal.pdb

@@ -1,0 +1,4 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Variations-No-Repetitions\bin\Debug\Variations-No-Repetitions.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Variations-No-Repetitions\bin\Debug\Variations-No-Repetitions.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Variations-No-Repetitions\obj\Debug\Variations-No-Repetitions.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Variations-No-Repetitions\obj\Debug\Variations-No-Repetitions.pdb

@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP25March2013Morning\01.SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP25March2013Morning\01.SoftwareAcademy-Skeleton\bin\Debug\SoftwareAcademy.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP25March2013Morning\01.SoftwareAcademy-Skeleton\bin\Debug\SoftwareAcademy.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP25March2013Morning\01.SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\OOP25March2013Morning\01.SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.pdb

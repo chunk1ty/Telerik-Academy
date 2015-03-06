@@ -1,0 +1,5 @@
+C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\DefineArray\bin\Debug\DefineArray.exe.config
+C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\DefineArray\bin\Debug\DefineArray.exe
+C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\DefineArray\bin\Debug\DefineArray.pdb
+C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\DefineArray\obj\Debug\DefineArray.exe
+C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\DefineArray\obj\Debug\DefineArray.pdb

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <textarea cols="35" rows="35" id="text-area">content</textarea>
+    <input type="color" id="fontColor" onchange="onChangeFontColor()" />
+    <input type="color" id="backgroundColor" onchange="onChangebackgroundcolor()" />
+
+    <!--<a href="#" onclick="onButtonClick()">Change colors</a>-->
+
+    <script>
+        //function onButtonClick() {
+        //    var fontColor = document.getElementById('fontColor').value,
+        //        backgroundColor = document.getElementById('backgroundColor').value,
+        //        textArea = document.getElementById('text-area');
+
+        //    textArea.style.color = fontColor;
+        //    textArea.style.background = backgroundColor;
+        //}
+
+        function onChangeFontColor() {
+            document.getElementById('text-area').style.color = document.getElementById('fontColor').value;
+        }
+
+        function onChangebackgroundcolor() {
+            document.getElementById('text-area').style.backgroundColor = document.getElementById('backgroundColor').value;
+        }
+
+    </script>
+</body>
+</html>

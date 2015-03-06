@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function onClaculatetrapezoidArea() {
+            var a = document.getElementById('getA').value,
+                b = document.getElementById('getB').value,
+                h = document.getElementById('getH').value;
+
+            var area = "";
+            a = parseInt(a);
+            b = parseInt(b);
+            area = ((a + b) / 2 )* h;
+            alert(area);
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="getA" />
+    <input type="text" id="getB" />
+    <input type="text" id="getH" /> 
+    <button onclick="onClaculatetrapezoidArea()">
+        Calculate
+    </button>
+</body>
+</html>

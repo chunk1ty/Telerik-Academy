@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ListOfForbiddenWords\bin\Debug\ListOfForbiddenWords.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ListOfForbiddenWords\bin\Debug\ListOfForbiddenWords.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ListOfForbiddenWords\bin\Debug\ListOfForbiddenWords.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ListOfForbiddenWords\obj\Debug\09.ListOfForbiddenWords.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ListOfForbiddenWords\obj\Debug\ListOfForbiddenWords.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ListOfForbiddenWords\obj\Debug\ListOfForbiddenWords.pdb

@@ -1,0 +1,8 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReturnLastDigit\bin\Debug\ReturnLastDigit.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReturnLastDigit\bin\Debug\ReturnLastDigit.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReturnLastDigit\bin\Debug\ReturnLastDigit.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReturnLastDigit\obj\Debug\ReturnLastDigit.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReturnLastDigit\obj\Debug\ReturnLastDigit.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\ReturnLastDigit\bin\Debug\ReturnLastDigit.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\ReturnLastDigit\obj\Debug\ReturnLastDigit.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\ReturnLastDigit\obj\Debug\ReturnLastDigit.pdb

@@ -1,0 +1,5 @@
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\RectangleArea\bin\Debug\RectangleArea.exe.config
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\RectangleArea\bin\Debug\RectangleArea.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\RectangleArea\bin\Debug\RectangleArea.pdb
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\RectangleArea\obj\Debug\RectangleArea.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\RectangleArea\obj\Debug\RectangleArea.pdb

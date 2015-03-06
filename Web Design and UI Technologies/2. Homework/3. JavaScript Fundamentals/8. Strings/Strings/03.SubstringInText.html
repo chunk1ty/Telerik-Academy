@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        var text = "We are living in an yellow submarine. We don't have anything else.Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.";
+        
+        //return array of all occurrences match
+        function countRepeatingSubstring(someText, word) {            
+            var result = someText.match(/in/gi);
+
+            return result.length
+        }
+        //function countRepeatingSubstring(text, word) {
+        //    var match = text.match(new RegExp(word, 'gi'))
+        //    return match.length;
+        //}
+
+        console.log(countRepeatingSubstring(text,'in'));
+    </script>
+</head>
+<body>
+
+</body>
+</html>

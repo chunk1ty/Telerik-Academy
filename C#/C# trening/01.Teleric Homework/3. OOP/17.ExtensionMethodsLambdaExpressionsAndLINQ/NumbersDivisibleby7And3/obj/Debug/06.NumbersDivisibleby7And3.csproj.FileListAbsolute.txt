@@ -1,0 +1,8 @@
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\NumbersDivisibleby7And3\bin\Debug\NumbersDivisibleby7And3.exe.config
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\NumbersDivisibleby7And3\bin\Debug\NumbersDivisibleby7And3.exe
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\NumbersDivisibleby7And3\bin\Debug\NumbersDivisibleby7And3.pdb
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\NumbersDivisibleby7And3\obj\Debug\NumbersDivisibleby7And3.exe
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\NumbersDivisibleby7And3\obj\Debug\NumbersDivisibleby7And3.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\17.ExtensionMethodsLambdaExpressionsAndLINQ\NumbersDivisibleby7And3\bin\Debug\NumbersDivisibleby7And3.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\17.ExtensionMethodsLambdaExpressionsAndLINQ\NumbersDivisibleby7And3\obj\Debug\NumbersDivisibleby7And3.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\17.ExtensionMethodsLambdaExpressionsAndLINQ\NumbersDivisibleby7And3\obj\Debug\NumbersDivisibleby7And3.pdb

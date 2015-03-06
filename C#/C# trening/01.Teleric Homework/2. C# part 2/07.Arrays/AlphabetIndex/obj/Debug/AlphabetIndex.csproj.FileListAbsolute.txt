@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\AlphabetIndex\bin\Debug\AlphabetIndex.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\AlphabetIndex\bin\Debug\AlphabetIndex.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\AlphabetIndex\bin\Debug\AlphabetIndex.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\AlphabetIndex\obj\Debug\AlphabetIndex.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\AlphabetIndex\obj\Debug\AlphabetIndex.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\AlphabetIndex\obj\Debug\AlphabetIndex.pdb

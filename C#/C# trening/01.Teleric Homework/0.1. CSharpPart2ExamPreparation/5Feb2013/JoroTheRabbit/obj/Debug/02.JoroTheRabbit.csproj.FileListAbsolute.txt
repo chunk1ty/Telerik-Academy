@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\JoroTheRabbit\bin\Debug\JoroTheRabbit.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\JoroTheRabbit\obj\Debug\02.JoroTheRabbit.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\JoroTheRabbit\obj\Debug\JoroTheRabbit.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\JoroTheRabbit\obj\Debug\JoroTheRabbit.pdb

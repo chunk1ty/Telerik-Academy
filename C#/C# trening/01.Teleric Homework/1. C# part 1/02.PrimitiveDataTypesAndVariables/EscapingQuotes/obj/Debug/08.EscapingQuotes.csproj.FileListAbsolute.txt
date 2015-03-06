@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\EscapingQuotes\bin\Debug\EscapingQuotes.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\EscapingQuotes\bin\Debug\EscapingQuotes.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\EscapingQuotes\bin\Debug\EscapingQuotes.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\EscapingQuotes\obj\Debug\EscapingQuotes.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\EscapingQuotes\obj\Debug\EscapingQuotes.pdb

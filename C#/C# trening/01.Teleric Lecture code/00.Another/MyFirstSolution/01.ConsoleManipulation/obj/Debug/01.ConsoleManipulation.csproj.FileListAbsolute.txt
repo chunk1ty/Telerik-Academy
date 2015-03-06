@@ -1,0 +1,6 @@
+C:\Users\EnikA\Desktop\MyFirstSolution\01.ConsoleManipulation\bin\Debug\01.ConsoleManipulation.exe.config
+C:\Users\EnikA\Desktop\MyFirstSolution\01.ConsoleManipulation\bin\Debug\01.ConsoleManipulation.exe
+C:\Users\EnikA\Desktop\MyFirstSolution\01.ConsoleManipulation\bin\Debug\01.ConsoleManipulation.pdb
+C:\Users\EnikA\Desktop\MyFirstSolution\01.ConsoleManipulation\obj\Debug\01.ConsoleManipulation.csprojResolveAssemblyReference.cache
+C:\Users\EnikA\Desktop\MyFirstSolution\01.ConsoleManipulation\obj\Debug\01.ConsoleManipulation.exe
+C:\Users\EnikA\Desktop\MyFirstSolution\01.ConsoleManipulation\obj\Debug\01.ConsoleManipulation.pdb

@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function onIsInCirlce() {
+            var x = document.getElementById('getX').value;
+            var y = document.getElementById('getY').value;
+
+            var isInside = (x * x + y * y) < 25;
+
+            if (isInside) {
+                alert('The point is inside');
+            }
+            else {
+                alert('The point is outside');
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="getX" />
+    <input type="text" id="getY" />
+    <button onclick="onIsInCirlce()">
+        Check
+    </button>
+</body>
+</html>

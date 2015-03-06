@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function onSortNumbers() {
+            var firtsNumber = parseInt(document.getElementById('firtsNumber').value),
+                secondNumber = parseInt(document.getElementById('secondNumber').value),
+                thirdNumber = parseInt(document.getElementById('thirdNumber').value),
+                sortedNumbers = '';
+
+            if (firtsNumber >= secondNumber) {
+                if (firtsNumber >= thirdNumber) {
+                    if (thirdNumber >= secondNumber) {
+                        sortedNumbers = firtsNumber + ' ' + thirdNumber + ' ' + secondNumber;
+                    }
+                    else {
+                        sortedNumbers = firtsNumber + ' ' + secondNumber + ' ' + thirdNumber;
+                    }
+                }
+                else {
+                    sortedNumbers = thirdNumber + ' ' + firtsNumber + ' ' + secondNumber;
+                }
+            }
+            else {
+                if (secondNumber >= thirdNumber){
+                    if (thirdNumber >= firtsNumber) {
+                        sortedNumbers = secondNumber + ' ' + thirdNumber + ' ' + firtsNumber;
+                    }
+                    else {
+                        sortedNumbers = secondNumber + ' ' + firtsNumber + ' ' + thirdNumber;
+                    }
+                }
+                else {
+                    sortedNumbers = thirdNumber + ' ' + secondNumber + ' ' + firtsNumber;
+                }
+            }
+
+            console.log(sortedNumbers);
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="firtsNumber" placeholder="Enter the first number" />
+    <input type="text" id="secondNumber" placeholder="Enter the second number" />
+    <input type="text" id="thirdNumber" placeholder="Enter the third number" />
+    <a href="#" onclick="onSortNumbers()">Sort</a>
+</body>
+</html>

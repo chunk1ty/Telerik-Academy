@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\GeneratingAllCombination\bin\Debug\GeneratingAllCombination.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\GeneratingAllCombination\obj\Debug\GeneratingAllCombination.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\GeneratingAllCombination\obj\Debug\GeneratingAllCombination.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\GeneratingAllCombination\bin\Debug\GeneratingAllCombination.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\GeneratingAllCombination\bin\Debug\GeneratingAllCombination.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\46. Recursion\RecursionExersice\GeneratingAllCombination\obj\Debug\02.GeneratingAllCombination.csprojResolveAssemblyReference.cache

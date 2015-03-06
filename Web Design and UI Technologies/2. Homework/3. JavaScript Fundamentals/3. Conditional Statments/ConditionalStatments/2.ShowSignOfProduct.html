@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function onCheckSign() {
+            var firstNumber = parseInt(document.getElementById('firtsNumber').value),
+                secondNumber = parseInt(document.getElementById('secondNumber').value),
+                thirdNumber = parseInt(document.getElementById('thirdNumber').value),
+                isPositive = false;
+
+            if (firstNumber === 0 || secondNumber === 0 || thirdNumber === 0) {
+                console.log('The product is zero!');
+                return;
+            }
+            // + + +
+            else if (firstNumber > 0 && secondNumber > 0 && thirdNumber > 0) {
+                isPositive = true;
+            }
+            // + - -
+            else if (firstNumber > 0 && secondNumber < 0 && thirdNumber < 0) {
+                isPositive = true;
+            }
+            // - + -
+            else if (firstNumber < 0 && secondNumber > 0 && thirdNumber < 0) {
+                isPositive = true;
+            }
+            // - - +
+            else if (firstNumber < 0 && secondNumber < 0 && thirdNumber > 0) {
+                isPositive = true;
+            }
+            else {
+                isPositive = false;
+            }
+
+            if (isPositive) {
+                console.log('The sign is +');
+            }
+            else {
+                console.log('The sign is -');
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="firtsNumber" placeholder="Enter the first number" />
+    <input type="text" id="secondNumber" placeholder="Enter the second number" />
+    <input type="text" id="thirdNumber" placeholder="Enter the third number" />
+    <a href="#" onclick="onCheckSign()">Check sign</a>
+</body>
+</html>

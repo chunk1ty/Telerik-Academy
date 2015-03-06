@@ -1,0 +1,6 @@
+C:\Users\Andriyan\Desktop\JSRealExam\bin\JSRealExam.dll.config
+C:\Users\Andriyan\Desktop\JSRealExam\bin\JSRealExam.dll
+C:\Users\Andriyan\Desktop\JSRealExam\bin\JSRealExam.pdb
+C:\Users\Andriyan\Desktop\JSRealExam\obj\Debug\JSRealExam.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan\Desktop\JSRealExam\obj\Debug\JSRealExam.dll
+C:\Users\Andriyan\Desktop\JSRealExam\obj\Debug\JSRealExam.pdb

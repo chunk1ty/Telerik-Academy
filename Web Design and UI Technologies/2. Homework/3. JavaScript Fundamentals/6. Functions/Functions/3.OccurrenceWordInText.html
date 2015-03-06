@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        function onGetText() {
+            var text = document.getElementById('getText').value;
+            var word = document.getElementById('getWord').value;
+            var caseSensitive = document.getElementById('getCaseSensitive').checked;            
+            var answer = getWordOccuranceInText(text, word, caseSensitive);
+
+            console.log(answer);
+        }
+
+        function checkValue() {
+            var caseSensitive = document.getElementById('getCaseSensitive').checked;
+
+            return caseSensitive;
+        }
+
+        function getWordOccuranceInText(text,word,caseSensitive) {
+            var caseSen = caseSensitive || false;
+            var words = text.split(/\W+/);
+            var occurences = 0;            
+            
+            if (caseSen) {
+                for (var i = 0; i < text.length; i++) {
+                    if (word === text[i]) {
+                        occurences++;
+                    }
+                }
+               
+            }
+            else {
+                var lower = word.toLowerCase();
+
+                for (var i = 0; i < words.length; i++) {
+                    if (word === words[i].toLowerCase()) {
+                        occurences++;
+                    }
+                }
+            }
+
+            return occurences;
+        }
+
+        function searchWordInText(text,word) {
+            for (var i = 0; i < text; i++) {
+                
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <div>
+        <textarea cols="60" rows="13" id="getText" placeholder="enter text">
+            Write a function that returns the last digit of given integer as an English word. Examples: 512  "two", 1024  "four", 12309  "nine"
+            Write a function that reverses the digits of given decimal number. Example: 256  652
+            Write a function that finds all the occurrences of word in a text
+            The search can case sensitive or case insensitive
+            Use function overloading
+            Write a function to count the number of divs on the web page
+        </textarea>
+    </div>
+    <div>
+        <input type="text" id="getWord" placeholder="Enter a word for search" />
+        <label>
+            Case Sensitive
+        </label>
+        <input type="checkbox" id="getCaseSensitive" />
+    </div>
+    <div>
+        <button onclick="onGetText()">
+            Check
+        </button>
+    </div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+﻿body, ul, li {
+    margin:0;
+    padding:0;
+}
+
+ul {
+    list-style:none;
+}
+
+a {
+    color: gray;
+    margin-left: 10px;
+}
+
+body ul li ul {
+    display:none;
+}
+
+body ul li:hover > ul {
+    display:block;
+    margin-left:10px;
+}

@@ -1,0 +1,15 @@
+//Проверява за цифри във въведен string
+
+string stringAnk = Console.ReadLine();
+            string number = null;
+
+            for (int i = 0; i < stringAnk.Length; i++)
+            {
+                 if (Char.IsDigit(stringAnk[i]))
+                {
+                    number += stringAnk[i];
+                }
+            }
+            Console.WriteLine(number);
+            int intNUmber = int.Parse(number);
+            Console.WriteLine(intNUmber);

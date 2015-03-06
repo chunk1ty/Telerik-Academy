@@ -1,0 +1,9 @@
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SortSequance\bin\Debug\SortSequance.exe.config
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SortSequance\bin\Debug\SortSequance.exe
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SortSequance\bin\Debug\SortSequance.pdb
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SortSequance\obj\Debug\3.SortSequance.csprojResolveAssemblyReference.cache
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SortSequance\obj\Debug\SortSequance.exe
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SortSequance\obj\Debug\SortSequance.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SortSequance\bin\Debug\SortSequance.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SortSequance\obj\Debug\SortSequance.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\SortSequance\obj\Debug\SortSequance.pdb

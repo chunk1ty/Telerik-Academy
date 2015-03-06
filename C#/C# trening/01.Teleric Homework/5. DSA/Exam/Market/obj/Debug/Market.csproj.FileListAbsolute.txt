@@ -1,0 +1,8 @@
+C:\Users\Andriyan Krastev\Desktop\Exam\Market\bin\Debug\Market.exe.config
+C:\Users\Andriyan Krastev\Desktop\Exam\Market\bin\Debug\Market.exe
+C:\Users\Andriyan Krastev\Desktop\Exam\Market\bin\Debug\Market.pdb
+C:\Users\Andriyan Krastev\Desktop\Exam\Market\obj\Debug\Market.exe
+C:\Users\Andriyan Krastev\Desktop\Exam\Market\obj\Debug\Market.pdb
+C:\Users\Andriyan Krastev\Desktop\Exam\Market\bin\Debug\PowerCollections.dll
+C:\Users\Andriyan Krastev\Desktop\Exam\Market\bin\Debug\PowerCollections.xml
+C:\Users\Andriyan Krastev\Desktop\Exam\Market\obj\Debug\Market.csprojResolveAssemblyReference.cache

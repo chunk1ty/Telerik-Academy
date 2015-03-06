@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function onIsInCircleAndOutOfRectange() {
+            var x = document.getElementById('getX').value;
+            var y = document.getElementById('getY').value;
+
+            x = parseInt(x);
+            y = parseInt(y);
+                        
+            var isInCircle = (x - 1) * (x - 1) + (y - 1) * (y - 1) < 9;
+            var isInRectangle = (x > -1 && x < 5) && (y < 1 && y > -1);
+
+            if (isInCircle && !isInRectangle) {
+                alert('TRUE');
+            }
+            else {
+                alert('FALSE');
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="getX" />
+    <input type="text" id="getY" />
+    <button onclick="onIsInCircleAndOutOfRectange()" >
+        Check
+    </button>
+</body>
+</html>

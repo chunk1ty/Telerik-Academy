@@ -1,0 +1,8 @@
+C:\Users\Andriyan\Desktop\MathExpression\MathExpression\bin\Debug\MathExpression.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\11.1.Math Expressions Calculator\MathExpression\MathExpression\bin\Debug\MathExpression.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\2.C# Part 2\11.1.Math Expressions Calculator\MathExpression\MathExpression\bin\Debug\MathExpression.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\2.C# Part 2\11.1.Math Expressions Calculator\MathExpression\MathExpression\bin\Debug\MathExpression.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\2.C# Part 2\11.1.Math Expressions Calculator\MathExpression\MathExpression\bin\Debug\MathExpression.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\2.C# Part 2\11.1.Math Expressions Calculator\MathExpression\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\2.C# Part 2\11.1.Math Expressions Calculator\MathExpression\MathExpression\obj\Debug\MathExpression.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\2.C# Part 2\11.1.Math Expressions Calculator\MathExpression\MathExpression\obj\Debug\MathExpression.pdb

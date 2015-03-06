@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        var testArray = [1, 2, 3, 6, 1, 9, 1, 17, 29, 13, 2];
+
+        function biggerThanNeighbors(positionAsString) {
+            var position = parseInt(positionAsString);
+
+            if (testArray[position + 1] === undefined || testArray[position - 1] === undefined) {
+                console.log('They are not existing neighbors');
+            }
+            else {
+                if (testArray[position] > testArray[position + 1] && testArray[position > testArray[position - 1]]) {
+                    console.log('Number  ' + testArray[position] + ' is bigger than ' + testArray[position - 1] + ' ' + testArray[position + 1]);
+                }
+                else {
+                    console.log('The number at position is not bigger than his neighbors');
+                }
+            }
+
+        }
+
+        biggerThanNeighbors(0);
+    </script>
+</head>
+<body>
+
+</body>
+</html>

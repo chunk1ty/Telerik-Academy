@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\ReadFullPath\bin\Debug\ReadFullPath.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\ReadFullPath\bin\Debug\ReadFullPath.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\ReadFullPath\bin\Debug\ReadFullPath.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\ReadFullPath\obj\Debug\ReadFullPath.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\ReadFullPath\obj\Debug\ReadFullPath.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\ReadFullPath\obj\Debug\ReadFullPath.csprojResolveAssemblyReference.cache

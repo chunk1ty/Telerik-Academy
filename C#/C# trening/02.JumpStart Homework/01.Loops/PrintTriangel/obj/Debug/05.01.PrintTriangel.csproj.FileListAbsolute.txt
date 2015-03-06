@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangel\bin\Debug\PrintTriangel.exe.config
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangel\bin\Debug\PrintTriangel.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangel\bin\Debug\PrintTriangel.pdb
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangel\obj\Debug\PrintTriangel.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangel\obj\Debug\PrintTriangel.pdb
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangel\obj\Debug\05.01.PrintTriangel.csprojResolveAssemblyReference.cache

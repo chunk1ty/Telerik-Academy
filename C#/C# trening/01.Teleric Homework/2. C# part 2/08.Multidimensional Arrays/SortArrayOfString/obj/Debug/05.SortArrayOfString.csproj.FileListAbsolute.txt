@@ -1,0 +1,6 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\SortArrayOfString\bin\Debug\SortArrayOfString.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\SortArrayOfString\obj\Debug\05.SortArrayOfString.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\SortArrayOfString\bin\Debug\SortArrayOfString.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\SortArrayOfString\bin\Debug\SortArrayOfString.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\SortArrayOfString\obj\Debug\SortArrayOfString.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\SortArrayOfString\obj\Debug\SortArrayOfString.pdb

@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\CheckFromEmailAddress\bin\Debug\CheckFromEmailAddress.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\CheckFromEmailAddress\bin\Debug\CheckFromEmailAddress.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\CheckFromEmailAddress\bin\Debug\CheckFromEmailAddress.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\CheckFromEmailAddress\obj\Debug\CheckFromEmailAddress.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\CheckFromEmailAddress\obj\Debug\CheckFromEmailAddress.pdb

@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\IsFemale\bin\Debug\IsFemale.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\IsFemale\bin\Debug\IsFemale.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\IsFemale\bin\Debug\IsFemale.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\IsFemale\obj\Debug\IsFemale.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\IsFemale\obj\Debug\IsFemale.pdb

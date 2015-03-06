@@ -1,0 +1,16 @@
+D:\chunk1ty\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\bin\Debug\LargeCollection.exe.config
+D:\chunk1ty\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\bin\Debug\LargeCollection.exe
+D:\chunk1ty\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\bin\Debug\LargeCollection.pdb
+D:\chunk1ty\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\bin\Debug\PowerCollections.dll
+D:\chunk1ty\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\bin\Debug\PowerCollections.xml
+D:\chunk1ty\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\obj\Debug\02.LargeCollection.csprojResolveAssemblyReference.cache
+D:\chunk1ty\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\obj\Debug\LargeCollection.exe
+D:\chunk1ty\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\obj\Debug\LargeCollection.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\bin\Debug\LargeCollection.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\obj\Debug\LargeCollection.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\obj\Debug\LargeCollection.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\bin\Debug\LargeCollection.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\bin\Debug\LargeCollection.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\bin\Debug\PowerCollections.dll
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\bin\Debug\PowerCollections.xml
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\44. Advanced Data Structures\AdvancedDataStructures\LargeCollection\obj\Debug\02.LargeCollection.csprojResolveAssemblyReference.cache

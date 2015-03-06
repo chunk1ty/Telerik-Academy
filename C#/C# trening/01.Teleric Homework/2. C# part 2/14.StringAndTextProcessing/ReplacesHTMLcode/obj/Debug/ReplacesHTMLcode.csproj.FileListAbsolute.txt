@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReplacesHTMLcode\bin\Debug\ReplacesHTMLcode.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReplacesHTMLcode\bin\Debug\ReplacesHTMLcode.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReplacesHTMLcode\bin\Debug\ReplacesHTMLcode.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReplacesHTMLcode\obj\Debug\ReplacesHTMLcode.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReplacesHTMLcode\obj\Debug\ReplacesHTMLcode.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReplacesHTMLcode\obj\Debug\ReplacesHTMLcode.pdb

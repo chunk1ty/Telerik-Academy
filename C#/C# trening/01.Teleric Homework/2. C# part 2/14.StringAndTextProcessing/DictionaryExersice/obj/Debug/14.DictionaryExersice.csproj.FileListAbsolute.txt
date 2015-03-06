@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\DictionaryExersice\bin\Debug\DictionaryExersice.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\DictionaryExersice\bin\Debug\DictionaryExersice.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\DictionaryExersice\bin\Debug\DictionaryExersice.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\DictionaryExersice\obj\Debug\DictionaryExersice.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\DictionaryExersice\obj\Debug\DictionaryExersice.pdb

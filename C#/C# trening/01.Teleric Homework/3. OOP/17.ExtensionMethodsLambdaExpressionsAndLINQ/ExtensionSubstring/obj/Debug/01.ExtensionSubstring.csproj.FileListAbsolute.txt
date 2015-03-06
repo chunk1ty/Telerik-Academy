@@ -1,0 +1,9 @@
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\ExtensionSubstring\obj\Debug\01.ExtensionSubstring.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\ExtensionSubstring\bin\Debug\ExtensionSubstring.exe.config
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\ExtensionSubstring\bin\Debug\ExtensionSubstring.exe
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\ExtensionSubstring\bin\Debug\ExtensionSubstring.pdb
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\ExtensionSubstring\obj\Debug\ExtensionSubstring.exe
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\ExtensionSubstring\obj\Debug\ExtensionSubstring.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\17.ExtensionMethodsLambdaExpressionsAndLINQ\ExtensionSubstring\bin\Debug\ExtensionSubstring.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\17.ExtensionMethodsLambdaExpressionsAndLINQ\ExtensionSubstring\obj\Debug\ExtensionSubstring.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\17.ExtensionMethodsLambdaExpressionsAndLINQ\ExtensionSubstring\obj\Debug\ExtensionSubstring.pdb

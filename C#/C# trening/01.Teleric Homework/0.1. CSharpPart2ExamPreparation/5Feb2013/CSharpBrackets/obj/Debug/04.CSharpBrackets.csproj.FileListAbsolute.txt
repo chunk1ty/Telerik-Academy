@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\CSharpBrackets\bin\Debug\CSharpBrackets.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\CSharpBrackets\bin\Debug\CSharpBrackets.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\CSharpBrackets\bin\Debug\CSharpBrackets.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\CSharpBrackets\obj\Debug\04.CSharpBrackets.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\CSharpBrackets\obj\Debug\CSharpBrackets.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\CSharpBrackets\obj\Debug\CSharpBrackets.pdb

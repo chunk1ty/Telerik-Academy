@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\MaxPlatformInMatrixFromFile\bin\Debug\MaxPlatformInMatrixFromFile.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\MaxPlatformInMatrixFromFile\bin\Debug\MaxPlatformInMatrixFromFile.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\MaxPlatformInMatrixFromFile\bin\Debug\MaxPlatformInMatrixFromFile.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\MaxPlatformInMatrixFromFile\obj\Debug\MaxPlatformInMatrixFromFile.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\MaxPlatformInMatrixFromFile\obj\Debug\MaxPlatformInMatrixFromFile.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\MaxPlatformInMatrixFromFile\obj\Debug\05.MaxPlatformInMatrixFromFile.csprojResolveAssemblyReference.cache

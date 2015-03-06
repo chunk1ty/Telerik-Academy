@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\InDigitOutNameOfDigit\bin\Debug\InDigitOutNameOfDigit.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\InDigitOutNameOfDigit\bin\Debug\InDigitOutNameOfDigit.exe
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\InDigitOutNameOfDigit\bin\Debug\InDigitOutNameOfDigit.pdb
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\InDigitOutNameOfDigit\obj\Debug\InDigitOutNameOfDigit.exe
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\InDigitOutNameOfDigit\obj\Debug\InDigitOutNameOfDigit.pdb

@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #getText {
+            width: 300px;
+            height: 100px;
+        }
+    </style>
+    <!--<script>
+        function countTags() {
+            var text = document.getElementById('getText').value;
+            var removeEmptyCells = text.split(/\W+/);
+            var divTag = 'div';
+            
+            var occurrences = 0;
+
+            for (var i = 0; i < removeEmptyCells.length; i++) {
+                if (divTag === removeEmptyCells[i]) {
+                    occurrences++;
+                }
+            }
+
+            return console.log(occurrences);
+        }
+    </script>-->
+
+    <script>
+        function countDivTags() {
+            var divCounter = document.getElementsByTagName('div');
+
+            return console.log(divCounter.length);
+        }
+    </script>
+</head>
+<body>
+    <textarea id="getText"> </textarea>
+    <button onclick="countDivTags()">
+        Check
+    </button>   
+</body>
+</html>

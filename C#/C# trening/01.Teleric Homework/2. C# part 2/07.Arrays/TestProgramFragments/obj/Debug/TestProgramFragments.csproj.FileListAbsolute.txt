@@ -1,0 +1,8 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\TestProgramFragments\bin\Debug\TestProgramFragments.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\TestProgramFragments\bin\Debug\TestProgramFragments.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\TestProgramFragments\bin\Debug\TestProgramFragments.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\TestProgramFragments\obj\Debug\TestProgramFragments.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\TestProgramFragments\obj\Debug\TestProgramFragments.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\TestProgramFragments\bin\Debug\TestProgramFragments.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\TestProgramFragments\obj\Debug\TestProgramFragments.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\TestProgramFragments\obj\Debug\TestProgramFragments.pdb

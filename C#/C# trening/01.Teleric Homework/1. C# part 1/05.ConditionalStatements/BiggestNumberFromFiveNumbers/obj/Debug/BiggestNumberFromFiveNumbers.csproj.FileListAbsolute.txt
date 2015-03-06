@@ -1,0 +1,1 @@
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\BiggestNumberFromFiveNumbers\bin\Debug\BiggestNumberFromFiveNumbers.exe.config

@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReverseNumber\bin\Debug\ReverseNumber.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReverseNumber\obj\Debug\ReverseNumber.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReverseNumber\obj\Debug\ReverseNumber.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReverseNumber\obj\Debug\07.ReverseNumber.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\ReverseNumber\obj\Debug\ReverseNumber.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\ReverseNumber\obj\Debug\ReverseNumber.pdb

@@ -1,0 +1,1 @@
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\ReverseDecimalNumber\bin\Debug\ReverseDecimalNumber.exe.config

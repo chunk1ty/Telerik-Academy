@@ -1,0 +1,9 @@
+C:\chunk1ty\C#\c# trening\Teleric\Loop\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\chunk1ty\C#\c# trening\Teleric\Loop\Fibonacci\bin\Debug\Fibonacci.exe
+C:\chunk1ty\C#\c# trening\Teleric\Loop\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\chunk1ty\C#\c# trening\Teleric\Loop\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\Teleric\Loop\Fibonacci\obj\Debug\Fibonacci.exe
+C:\chunk1ty\C#\c# trening\Teleric\Loop\Fibonacci\obj\Debug\Fibonacci.pdb
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\Fibonacci\obj\Debug\Fibonacci.exe
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\Fibonacci\obj\Debug\Fibonacci.pdb

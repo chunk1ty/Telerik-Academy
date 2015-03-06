@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        var ank = {
+            fname: "Andriyan",
+            lname: 'Krastev',
+            age: 22,
+            fullName : function () {
+                return this.fname + ' ' + this.lname;
+            }
+        }
+
+        var copy = Object.create(ank);
+
+        for (var i in copy) {
+            console.log(copy[i]);
+        }
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

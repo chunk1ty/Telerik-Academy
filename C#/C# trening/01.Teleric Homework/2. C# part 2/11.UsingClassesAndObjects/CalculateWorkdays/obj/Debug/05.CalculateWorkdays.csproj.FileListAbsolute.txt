@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\CalculateWorkdays\bin\Debug\CalculateWorkdays.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\CalculateWorkdays\bin\Debug\CalculateWorkdays.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\CalculateWorkdays\bin\Debug\CalculateWorkdays.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\CalculateWorkdays\obj\Debug\05.CalculateWorkdays.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\CalculateWorkdays\obj\Debug\CalculateWorkdays.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\CalculateWorkdays\obj\Debug\CalculateWorkdays.pdb

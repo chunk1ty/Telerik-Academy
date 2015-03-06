@@ -1,0 +1,6 @@
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Extenstion-Methods\bin\Debug\LINQ-Extenstion-Methods.exe.config
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Extenstion-Methods\bin\Debug\LINQ-Extenstion-Methods.exe
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Extenstion-Methods\bin\Debug\LINQ-Extenstion-Methods.pdb
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Extenstion-Methods\obj\Debug\7. LINQ-Extenstion-Methods.csprojResolveAssemblyReference.cache
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Extenstion-Methods\obj\Debug\LINQ-Extenstion-Methods.exe
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\LINQ-Extenstion-Methods\obj\Debug\LINQ-Extenstion-Methods.pdb

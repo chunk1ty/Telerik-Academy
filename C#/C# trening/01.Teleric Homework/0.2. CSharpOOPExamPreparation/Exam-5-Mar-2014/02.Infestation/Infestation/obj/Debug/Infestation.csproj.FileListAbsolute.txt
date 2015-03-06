@@ -1,0 +1,10 @@
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation\Infestation\Infestation\bin\Debug\Infestation.exe
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation\Infestation\Infestation\bin\Debug\Infestation.pdb
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation\Infestation\Infestation\obj\Debug\Infestation.exe
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation\Infestation\Infestation\obj\Debug\Infestation.pdb
+C:\Dropbox\Work\oop\2014\Lectures\Exam-Infestation\Infestation\Infestation\obj\Debug\Infestation.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\02.Infestation\Infestation\obj\Debug\Infestation.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\02.Infestation\Infestation\obj\Debug\Infestation.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\02.Infestation\Infestation\bin\Debug\Infestation.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\02.Infestation\Infestation\bin\Debug\Infestation.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\02.Infestation\Infestation\obj\Debug\Infestation.csprojResolveAssemblyReference.cache

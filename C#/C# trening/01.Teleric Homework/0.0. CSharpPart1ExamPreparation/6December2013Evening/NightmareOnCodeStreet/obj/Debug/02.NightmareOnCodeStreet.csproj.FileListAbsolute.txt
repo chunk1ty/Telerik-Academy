@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\NightmareOnCodeStreet\obj\Debug\02.NightmareOnCodeStreet.csprojResolveAssemblyReference.cache

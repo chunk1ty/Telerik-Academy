@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\JumpStart\Clock\Clock\bin\Debug\Clock.exe.config
+D:\chunk1ty\C#\c# trening\JumpStart\Clock\Clock\bin\Debug\Clock.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Clock\Clock\bin\Debug\Clock.pdb
+D:\chunk1ty\C#\c# trening\JumpStart\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\JumpStart\Clock\Clock\obj\Debug\Clock.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Clock\Clock\obj\Debug\Clock.pdb

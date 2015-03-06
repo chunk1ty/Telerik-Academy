@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ConvertStringToUnicodeChar\bin\Debug\ConvertStringToUnicodeChar.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ConvertStringToUnicodeChar\bin\Debug\ConvertStringToUnicodeChar.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ConvertStringToUnicodeChar\bin\Debug\ConvertStringToUnicodeChar.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ConvertStringToUnicodeChar\obj\Debug\ConvertStringToUnicodeChar.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ConvertStringToUnicodeChar\obj\Debug\ConvertStringToUnicodeChar.pdb

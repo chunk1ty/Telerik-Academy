@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangleC\bin\Debug\PrintTriangleC.exe.config
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangleC\bin\Debug\PrintTriangleC.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangleC\bin\Debug\PrintTriangleC.pdb
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangleC\obj\Debug\PrintTriangleC.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangleC\obj\Debug\PrintTriangleC.pdb

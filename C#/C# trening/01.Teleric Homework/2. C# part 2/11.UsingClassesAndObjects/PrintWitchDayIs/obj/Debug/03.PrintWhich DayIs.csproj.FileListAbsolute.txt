@@ -1,0 +1,10 @@
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\UsingClassesAndObjects\PrintWitchDayIs\bin\Debug\PrintWitchDayIs.exe.config
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\UsingClassesAndObjects\PrintWitchDayIs\bin\Debug\PrintWitchDayIs.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\UsingClassesAndObjects\PrintWitchDayIs\bin\Debug\PrintWitchDayIs.pdb
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\UsingClassesAndObjects\PrintWitchDayIs\obj\Debug\PrintWitchDayIs.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\UsingClassesAndObjects\PrintWitchDayIs\obj\Debug\PrintWitchDayIs.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\PrintWitchDayIs\bin\Debug\PrintWitchDayIs.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\PrintWitchDayIs\obj\Debug\PrintWitchDayIs.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\PrintWitchDayIs\obj\Debug\PrintWitchDayIs.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\PrintWitchDayIs\bin\Debug\PrintWitchDayIs.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\PrintWitchDayIs\bin\Debug\PrintWitchDayIs.pdb

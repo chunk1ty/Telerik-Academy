@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\FloatAndDoubleVariables\bin\Debug\FloatAndDoubleVariables.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\FloatAndDoubleVariables\bin\Debug\FloatAndDoubleVariables.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\FloatAndDoubleVariables\bin\Debug\FloatAndDoubleVariables.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\FloatAndDoubleVariables\obj\Debug\02.FloatAndDoubleVariables.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\FloatAndDoubleVariables\obj\Debug\FloatAndDoubleVariables.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\FloatAndDoubleVariables\obj\Debug\FloatAndDoubleVariables.pdb

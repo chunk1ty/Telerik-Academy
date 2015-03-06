@@ -1,0 +1,1 @@
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config

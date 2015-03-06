@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function checkThirdDigit() {
+            var number = document.getElementById('getNumber').value;
+            var thirdDigit = "";
+            
+            thirdDigit = number % 1000;
+            thirdDigit = thirdDigit / 100;
+            thirdDigit = parseInt(thirdDigit);
+
+            if (thirdDigit === 7) {
+                alert("True");
+            }
+            else {
+                alert('False');
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="getNumber" placeholder="Enter digit" />
+    <button onclick="checkThirdDigit()">
+        Check
+    </button>
+</body>
+</html>

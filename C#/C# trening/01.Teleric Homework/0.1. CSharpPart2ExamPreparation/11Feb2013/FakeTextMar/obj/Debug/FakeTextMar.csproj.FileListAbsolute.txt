@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\FakeTextMar\bin\Debug\FakeTextMar.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\FakeTextMar\bin\Debug\FakeTextMar.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\FakeTextMar\bin\Debug\FakeTextMar.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\FakeTextMar\obj\Debug\FakeTextMar.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\FakeTextMar\obj\Debug\FakeTextMar.pdb

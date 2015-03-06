@@ -1,0 +1,11 @@
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MultidimensionalArraysHomework\FromMatrixToArray\bin\Debug\FromMatrixToArray.exe.config
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MultidimensionalArraysHomework\FromMatrixToArray\bin\Debug\FromMatrixToArray.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MultidimensionalArraysHomework\FromMatrixToArray\bin\Debug\FromMatrixToArray.pdb
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MultidimensionalArraysHomework\FromMatrixToArray\obj\Debug\FromMatrixToArray.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MultidimensionalArraysHomework\FromMatrixToArray\obj\Debug\FromMatrixToArray.pdb
+C:\chunk1ty\C#\MultidimensionalArraysHomework\FromMatrixToArray\bin\Debug\FromMatrixToArray.exe.config
+C:\chunk1ty\C#\MultidimensionalArraysHomework\FromMatrixToArray\obj\Debug\FromMatrixToArray.exe
+C:\chunk1ty\C#\MultidimensionalArraysHomework\FromMatrixToArray\obj\Debug\FromMatrixToArray.pdb
+C:\chunk1ty\C#\MultidimensionalArraysHomework\FromMatrixToArray\bin\Debug\FromMatrixToArray.exe
+C:\chunk1ty\C#\MultidimensionalArraysHomework\FromMatrixToArray\bin\Debug\FromMatrixToArray.pdb
+C:\chunk1ty\C#\MultidimensionalArraysHomework\FromMatrixToArray\obj\Debug\04.FromMatrixToArray.csprojResolveAssemblyReference.cache

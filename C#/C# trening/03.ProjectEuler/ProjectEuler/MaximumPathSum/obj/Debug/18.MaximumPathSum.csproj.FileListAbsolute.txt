@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\03.ProjectEuler\ProjectEuler\MaximumPathSum\bin\Debug\MaximumPathSum.exe.config
+D:\chunk1ty\C#\C# trening\03.ProjectEuler\ProjectEuler\MaximumPathSum\bin\Debug\MaximumPathSum.exe
+D:\chunk1ty\C#\C# trening\03.ProjectEuler\ProjectEuler\MaximumPathSum\bin\Debug\MaximumPathSum.pdb
+D:\chunk1ty\C#\C# trening\03.ProjectEuler\ProjectEuler\MaximumPathSum\obj\Debug\18.MaximumPathSum.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\03.ProjectEuler\ProjectEuler\MaximumPathSum\obj\Debug\MaximumPathSum.exe
+D:\chunk1ty\C#\C# trening\03.ProjectEuler\ProjectEuler\MaximumPathSum\obj\Debug\MaximumPathSum.pdb

@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\CheckNumberBetweenNeighbors\obj\Debug\05,CheckNumberBetweenNeighbors.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\CheckNumberBetweenNeighbors\bin\Debug\CheckNumberBetweenNeighbors.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\CheckNumberBetweenNeighbors\bin\Debug\CheckNumberBetweenNeighbors.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\CheckNumberBetweenNeighbors\bin\Debug\CheckNumberBetweenNeighbors.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\CheckNumberBetweenNeighbors\obj\Debug\CheckNumberBetweenNeighbors.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\CheckNumberBetweenNeighbors\obj\Debug\CheckNumberBetweenNeighbors.pdb

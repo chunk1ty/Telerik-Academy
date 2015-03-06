@@ -1,0 +1,6 @@
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\GreaterThanTwoNumbers\bin\Debug\GreaterThanTwoNumbers.exe.config
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\GreaterThanTwoNumbers\bin\Debug\GreaterThanTwoNumbers.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\GreaterThanTwoNumbers\bin\Debug\GreaterThanTwoNumbers.pdb
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\GreaterThanTwoNumbers\obj\Debug\05.GreaterThanTwoNumbers.csprojResolveAssemblyReference.cache
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\GreaterThanTwoNumbers\obj\Debug\GreaterThanTwoNumbers.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\GreaterThanTwoNumbers\obj\Debug\GreaterThanTwoNumbers.pdb

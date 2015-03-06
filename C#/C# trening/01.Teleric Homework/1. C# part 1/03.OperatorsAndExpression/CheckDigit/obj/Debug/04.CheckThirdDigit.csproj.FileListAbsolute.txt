@@ -1,0 +1,8 @@
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\CheckDigit\bin\Debug\CheckDigit.exe.config
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\CheckDigit\bin\Debug\CheckDigit.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\CheckDigit\bin\Debug\CheckDigit.pdb
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\CheckDigit\obj\Debug\CheckDigit.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\CheckDigit\obj\Debug\CheckDigit.pdb
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckDigit\bin\Debug\CheckDigit.exe.config
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckDigit\obj\Debug\CheckDigit.exe
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\CheckDigit\obj\Debug\CheckDigit.pdb

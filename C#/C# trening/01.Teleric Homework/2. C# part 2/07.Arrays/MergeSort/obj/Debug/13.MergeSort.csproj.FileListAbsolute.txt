@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MergeSort\obj\Debug\13.MergeSort.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MergeSort\bin\Debug\MergeSort.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MergeSort\bin\Debug\MergeSort.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MergeSort\bin\Debug\MergeSort.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MergeSort\obj\Debug\MergeSort.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MergeSort\obj\Debug\MergeSort.pdb

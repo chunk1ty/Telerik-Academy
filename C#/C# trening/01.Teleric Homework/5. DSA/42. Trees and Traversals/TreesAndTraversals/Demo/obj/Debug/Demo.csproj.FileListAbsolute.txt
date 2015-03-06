@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\42. Trees and Traversals\TreesAndTraversals\Demo\bin\Debug\Demo.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\42. Trees and Traversals\TreesAndTraversals\Demo\bin\Debug\Demo.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\42. Trees and Traversals\TreesAndTraversals\Demo\bin\Debug\Demo.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\42. Trees and Traversals\TreesAndTraversals\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\42. Trees and Traversals\TreesAndTraversals\Demo\obj\Debug\Demo.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\42. Trees and Traversals\TreesAndTraversals\Demo\obj\Debug\Demo.pdb

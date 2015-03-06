@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+    <script>
+
+        function main() {
+            var input = 'fhdsgf ankk abba ibrahim i always dream to become to a great football player but ... lamal'
+
+            var inputAsString = input.split(/ /g);
+
+            for (var i = 0; i < inputAsString.length; i++) {
+                if (checkPalidrom(inputAsString[i])) {
+                    console.log(inputAsString[i]);
+                }
+            }
+        }
+        
+        function checkPalidrom(word) {
+            var len = parseInt(word.length);
+            for (var i = 0; i < len / 2; i++) {
+                var leftLetter = word[i];
+                var rightLetter = word[word.length - i - 1]
+                if (leftLetter !== rightLetter) {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+
+        main()
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

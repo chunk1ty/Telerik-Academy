@@ -1,0 +1,4 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\PathsInLabyrinth\bin\Debug\_3.All_Paths_in_Labyrinth.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\PathsInLabyrinth\bin\Debug\_3.All_Paths_in_Labyrinth.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\PathsInLabyrinth\obj\Debug\_3.All_Paths_in_Labyrinth.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\PathsInLabyrinth\obj\Debug\_3.All_Paths_in_Labyrinth.pdb

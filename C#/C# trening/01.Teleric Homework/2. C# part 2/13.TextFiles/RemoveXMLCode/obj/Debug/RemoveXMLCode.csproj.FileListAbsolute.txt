@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\RemoveXMLCode\bin\Debug\RemoveXMLCode.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\RemoveXMLCode\bin\Debug\RemoveXMLCode.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\RemoveXMLCode\bin\Debug\RemoveXMLCode.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\RemoveXMLCode\obj\Debug\RemoveXMLCode.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\RemoveXMLCode\obj\Debug\RemoveXMLCode.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\RemoveXMLCode\obj\Debug\RemoveXMLCode.pdb

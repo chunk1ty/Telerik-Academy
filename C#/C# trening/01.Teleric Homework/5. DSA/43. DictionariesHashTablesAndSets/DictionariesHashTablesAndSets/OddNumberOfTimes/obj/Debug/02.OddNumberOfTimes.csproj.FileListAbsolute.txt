@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\OddNumberOfTimes\bin\Debug\OddNumberOfTimes.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\OddNumberOfTimes\bin\Debug\OddNumberOfTimes.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\OddNumberOfTimes\bin\Debug\OddNumberOfTimes.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\OddNumberOfTimes\obj\Debug\OddNumberOfTimes.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\OddNumberOfTimes\obj\Debug\OddNumberOfTimes.pdb

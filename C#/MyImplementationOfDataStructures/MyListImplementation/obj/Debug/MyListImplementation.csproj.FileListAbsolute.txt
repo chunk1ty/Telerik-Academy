@@ -1,0 +1,9 @@
+c:\users\andriyan krastev\documents\visual studio 2013\Projects\MyImplementationOfDataStructures\MyListImplementation\bin\Debug\MyListImplementation.exe.config
+c:\users\andriyan krastev\documents\visual studio 2013\Projects\MyImplementationOfDataStructures\MyListImplementation\obj\Debug\MyListImplementation.csprojResolveAssemblyReference.cache
+c:\users\andriyan krastev\documents\visual studio 2013\Projects\MyImplementationOfDataStructures\MyListImplementation\bin\Debug\MyListImplementation.exe
+c:\users\andriyan krastev\documents\visual studio 2013\Projects\MyImplementationOfDataStructures\MyListImplementation\bin\Debug\MyListImplementation.pdb
+c:\users\andriyan krastev\documents\visual studio 2013\Projects\MyImplementationOfDataStructures\MyListImplementation\obj\Debug\MyListImplementation.exe
+c:\users\andriyan krastev\documents\visual studio 2013\Projects\MyImplementationOfDataStructures\MyListImplementation\obj\Debug\MyListImplementation.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\MyListImplementation\bin\Debug\MyListImplementation.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\MyListImplementation\obj\Debug\MyListImplementation.exe
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\MyListImplementation\obj\Debug\MyListImplementation.pdb

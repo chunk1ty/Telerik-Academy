@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\DescendingOrder\bin\Debug\DescendingOrder.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\DescendingOrder\obj\Debug\04.DescendingOrder.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\DescendingOrder\bin\Debug\DescendingOrder.exe
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\DescendingOrder\bin\Debug\DescendingOrder.pdb
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\DescendingOrder\obj\Debug\DescendingOrder.exe
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\DescendingOrder\obj\Debug\DescendingOrder.pdb

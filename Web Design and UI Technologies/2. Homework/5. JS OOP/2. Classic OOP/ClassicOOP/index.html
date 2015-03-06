@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="canvasDrawer.js"></script>
+</head>
+<body>
+    <canvas id="the-canvas" width="500" height="500"></canvas>
+    <script>
+        var shape = new Drawer('the-canvas');
+        
+        shape.rect(10, 20);
+
+        shape.circle(100, 300, 10);
+
+        shape.line(5, 5, 100, 2000);
+       
+    </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\CountWordsFromFIle\bin\Debug\CountWordsFromFIle.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\CountWordsFromFIle\obj\Debug\CountWordsFromFIle.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\CountWordsFromFIle\obj\Debug\CountWordsFromFIle.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\CountWordsFromFIle\bin\Debug\CountWordsFromFIle.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\CountWordsFromFIle\bin\Debug\CountWordsFromFIle.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\CountWordsFromFIle\obj\Debug\03.CountWordsFromFIle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindSequenceOfGivenSum\bin\Debug\FindSequenceOfGivenSum.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindSequenceOfGivenSum\bin\Debug\FindSequenceOfGivenSum.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindSequenceOfGivenSum\bin\Debug\FindSequenceOfGivenSum.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindSequenceOfGivenSum\obj\Debug\FindSequenceOfGivenSum.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindSequenceOfGivenSum\obj\Debug\FindSequenceOfGivenSum.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindSequenceOfGivenSum\bin\Debug\FindSequenceOfGivenSum.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindSequenceOfGivenSum\obj\Debug\FindSequenceOfGivenSum.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindSequenceOfGivenSum\obj\Debug\FindSequenceOfGivenSum.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindSequenceOfGivenSum\bin\Debug\FindSequenceOfGivenSum.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\FindSequenceOfGivenSum\bin\Debug\FindSequenceOfGivenSum.pdb

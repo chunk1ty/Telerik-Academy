@@ -1,0 +1,171 @@
+<html>
+<head>
+	<style>
+		.list-item{
+			border: 1px solid black;
+		}
+		strong {
+			color: green;
+		}
+
+		.dropdown-list li{
+			list-style-type: none;
+		}
+	</style>
+</head>
+<body>
+	<div id="root">
+		<div id='dropdown'></div>
+		<ul id="list"></ul>
+	</div>
+	<script>
+function traverseSiblings() {
+	var list = document.querySelector('#list');
+	var child = list.lastElementChild;
+	console.log('Last child of list: ');
+	console.log(child);
+	console.log('Traversing siblings');
+	while (child) {
+		console.log(child);
+		child = child.previousSibling;
+	}
+}
+
+function creatingElements() {
+	var list = document.getElementById('list'),
+		count = 15;
+	//delete all children of list
+
+	while (list.firstChild) {
+		list.removeChild(list.firstChild);
+	}
+	//add new items
+	for (var i = 0; i < count; i += 1) {
+		var title = document.createElement('strong');
+		title.innerHTML = 'Item #' + (i + 1);
+
+		var item = document.createElement('li');
+		item.id = 'list-item-' + i;
+		item.appendChild(title);
+
+		list.appendChild(item);
+	}
+}
+
+function removingElements() {
+	var list = document.getElementById('list');
+	creatingElements();
+
+	var fifthItem = document.getElementById('list-item-5');
+	// list.removeChild(fifthItem);
+	// fifthItem.parentNode.removeChild(fifthItem);
+
+}
+
+function alteringElements() {
+
+	var leftList = document.getElementById('left'),
+		rightList = document.getElementById('right');
+
+	leftList.addEventListener('click', function (ev) {
+		var target = ev.target;
+		if (!(target instanceof HTMLLIElement)) {
+			return;
+		}
+		rightList.appendChild(target);
+	});
+
+	rightList.addEventListener('click', function (ev) {
+		var target = ev.target;
+		if (!(target instanceof HTMLLIElement)) {
+			return;
+		}
+		leftList.appendChild(target);
+	});
+}
+
+function creatingDropdownList() {
+
+	function createDropDown(selector, items) {
+		var container = document.querySelector(selector);
+		container.className += ' dropdown-list';
+		//strong seleted item
+		var selectedItem = document.createElement('strong');
+		selectedItem.innerHTML = 'not selected';
+
+		//list of items
+		var itemsList = document.createElement('ul');
+		itemsList.style.display = 'none';
+		for (var i = 0; i < items.length; i += 1) {
+			var item = document.createElement('li');
+			item.innerHTML = items[i];
+			itemsList.appendChild(item);
+		}
+		container.appendChild(selectedItem);
+		container.appendChild(itemsList);
+
+		selectedItem.addEventListener('click', function () {
+			if (itemsList.style.display === 'none') {
+				itemsList.style.display = '';
+			} else {
+				itemsList.style.display = 'none';
+			}
+		});
+
+	}
+
+
+	var items = ['Apples', 'Oranges', 'Bananas', 'Peaches', 'Plums'];
+	createDropDown('#dropdown', items);
+}
+
+function usingDocFragment(){
+	var list = document.getElementById('list'),
+		count = 15,
+		listFragment = document.createDocumentFragment('div');
+
+	for(var i = 0; i < count; i+=1){
+		var item = document.createElement('li');
+		item.innerHTML = 'Item #' + (i+1);
+
+		listFragment.appendChild(item);
+	}
+
+	//delete all list children
+	list.appendChild(listFragment);
+}
+function fasterElementsCreation() {
+	var list = document.getElementById('list'),
+		count = 5000,
+		listFragment = document.createDocumentFragment('div');
+
+	var itemTemplate = document.createElement('li'),
+		titleTemplate = document.createElement('strong');
+
+	itemTemplate.className = 'list-item';
+
+	titleTemplate.class = 'item-title';
+	itemTemplate.appendChild(titleTemplate);
+
+	for (var i = 0; i < count; i += 1) {
+		titleTemplate.innerHTML = 'Item #' + (i + 1);
+		itemTemplate.setAttribute('data-id', i);
+		listFragment.appendChild(itemTemplate.cloneNode(true));
+	}
+
+	//delete all list children
+	list.appendChild(listFragment);
+}
+
+	</script>
+
+
+
+
+
+
+
+
+
+</body>
+</html>

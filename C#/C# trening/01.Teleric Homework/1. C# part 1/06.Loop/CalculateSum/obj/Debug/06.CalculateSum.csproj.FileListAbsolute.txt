@@ -1,0 +1,9 @@
+C:\chunk1ty\C#\c# trening\Teleric\Loop\CalculateSum\bin\Debug\CalculateSum.exe.config
+C:\chunk1ty\C#\c# trening\Teleric\Loop\CalculateSum\bin\Debug\CalculateSum.exe
+C:\chunk1ty\C#\c# trening\Teleric\Loop\CalculateSum\bin\Debug\CalculateSum.pdb
+C:\chunk1ty\C#\c# trening\Teleric\Loop\CalculateSum\obj\Debug\06.CalculateSum.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\Teleric\Loop\CalculateSum\obj\Debug\CalculateSum.exe
+C:\chunk1ty\C#\c# trening\Teleric\Loop\CalculateSum\obj\Debug\CalculateSum.pdb
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\CalculateSum\bin\Debug\CalculateSum.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\CalculateSum\obj\Debug\CalculateSum.exe
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\CalculateSum\obj\Debug\CalculateSum.pdb

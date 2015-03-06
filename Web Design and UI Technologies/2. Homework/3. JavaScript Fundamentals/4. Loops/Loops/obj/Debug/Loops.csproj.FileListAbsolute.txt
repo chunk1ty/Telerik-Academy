@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\4. Loops\Loops\bin\Loops.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\4. Loops\Loops\bin\Loops.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\4. Loops\Loops\bin\Loops.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\4. Loops\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\4. Loops\Loops\obj\Debug\Loops.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\4. Loops\Loops\obj\Debug\Loops.pdb

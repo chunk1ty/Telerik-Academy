@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\ReadOddLine\bin\Debug\ReadOddLine.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\ReadOddLine\bin\Debug\ReadOddLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\ReadOddLine\bin\Debug\ReadOddLine.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\ReadOddLine\obj\Debug\ReadOddLine.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\ReadOddLine\obj\Debug\ReadOddLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\ReadOddLine\obj\Debug\ReadOddLine.pdb

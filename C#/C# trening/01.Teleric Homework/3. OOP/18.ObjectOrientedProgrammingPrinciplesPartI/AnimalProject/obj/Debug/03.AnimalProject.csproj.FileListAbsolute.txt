@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\AnimalProject\obj\Debug\03.AnimalProject.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\AnimalProject\bin\Debug\AnimalProject.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\AnimalProject\bin\Debug\AnimalProject.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\AnimalProject\obj\Debug\AnimalProject.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\AnimalProject\obj\Debug\AnimalProject.pdb

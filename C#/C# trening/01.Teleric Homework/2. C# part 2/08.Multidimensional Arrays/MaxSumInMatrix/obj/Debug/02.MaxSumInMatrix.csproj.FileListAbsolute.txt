@@ -1,0 +1,6 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\MaxSumInMatrix\bin\Debug\MaxSumInMatrix.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\MaxSumInMatrix\bin\Debug\MaxSumInMatrix.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\MaxSumInMatrix\bin\Debug\MaxSumInMatrix.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\MaxSumInMatrix\obj\Debug\MaxSumInMatrix.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\MaxSumInMatrix\obj\Debug\MaxSumInMatrix.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\MaxSumInMatrix\obj\Debug\02.MaxSumInMatrix.csprojResolveAssemblyReference.cache

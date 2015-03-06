@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function onCheckSign() {
+            var firtsNumber = parseInt(document.getElementById('firtsNumber').value),
+                secondNumber = parseInt(document.getElementById('secondNumber').value),
+                thirdNumber = parseInt(document.getElementById('thirdNumber').value),
+                biggerstNumber = '';
+
+
+            if (firtsNumber >= secondNumber) {
+                if (firtsNumber >= thirdNumber) {
+                    biggerstNumber = firtsNumber;
+                }
+                else {
+                    biggerstNumber = thirdNumber;
+                }
+            }
+            else if (secondNumber > firtsNumber){
+                if (secondNumber >= thirdNumber) {
+                    biggerstNumber = secondNumber;
+                }
+                else {
+                    biggerstNumber = thirdNumber;
+                }
+            }
+
+            console.log(biggerstNumber);
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="firtsNumber" placeholder="Enter the first number" />
+    <input type="text" id="secondNumber" placeholder="Enter the second number" />
+    <input type="text" id="thirdNumber" placeholder="Enter the third number" />
+    <a href="#" onclick="onCheckSign()">Check sign</a>
+</body>
+</html>

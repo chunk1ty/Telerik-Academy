@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreasingOrder\bin\Debug\MaxIncreasingOrder.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreasingOrder\bin\Debug\MaxIncreasingOrder.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreasingOrder\bin\Debug\MaxIncreasingOrder.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreasingOrder\obj\Debug\18.MaxIncreasingOrder.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreasingOrder\obj\Debug\MaxIncreasingOrder.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreasingOrder\obj\Debug\MaxIncreasingOrder.pdb

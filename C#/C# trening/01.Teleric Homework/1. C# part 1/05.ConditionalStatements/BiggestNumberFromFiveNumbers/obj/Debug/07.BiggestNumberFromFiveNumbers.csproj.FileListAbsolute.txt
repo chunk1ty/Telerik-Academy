@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\BiggestNumberFromFiveNumbers\bin\Debug\BiggestNumberFromFiveNumbers.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\BiggestNumberFromFiveNumbers\bin\Debug\BiggestNumberFromFiveNumbers.exe
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\BiggestNumberFromFiveNumbers\bin\Debug\BiggestNumberFromFiveNumbers.pdb
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\BiggestNumberFromFiveNumbers\obj\Debug\07.BiggestNumberFromFiveNumbers.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\BiggestNumberFromFiveNumbers\obj\Debug\BiggestNumberFromFiveNumbers.exe
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\BiggestNumberFromFiveNumbers\obj\Debug\BiggestNumberFromFiveNumbers.pdb

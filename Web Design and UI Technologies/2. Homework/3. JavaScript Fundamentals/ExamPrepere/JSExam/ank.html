@@ -1,0 +1,198 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function Solve(input) {
+            var firtsLine = input[0].split(' ');
+            var N = parseInt(firtsLine[0]);
+            var M = parseInt(firtsLine[1]);
+            //console.log(M);
+            var secondLine = input[1].split(' ');
+            var startPositionRow = parseInt(secondLine[0]);
+            var startPositionCol = parseInt(secondLine[1]);
+            var matrixWithDigits = [];
+            var matrixWithDirections = [];
+
+            var counter = 1;
+
+            for (var i = 0; i < N; i++) {
+                matrixWithDigits[i] = [];
+                matrixWithDirections[i] = [];
+                var currentLineDirection = input[2 + i];
+                for (var j = 0; j < M; j++) {
+                    matrixWithDirections[i][j] = currentLineDirection[j];
+                    matrixWithDigits[i][j] = counter;
+                    counter++;
+                }
+            }
+
+            var sum = 0;
+            var cells = 0;
+            var direction = '';
+
+            while (true) {
+                console.log('ANKDSADA');
+                if (!isInRange(startPositionRow, startPositionCol)) {
+                    console.log('out ' + sum);
+                    break;
+                }
+                if (matrixWithDigits[startPositionRow][startPositionCol] === 'X') {
+                    console.log('lost ' + cells);
+                    break;
+                }
+
+                //sum += matrixWithDigits[startPositionRow][startPositionCol];
+                matrixWithDigits[startPositionRow][startPositionCol] = 'X';
+                cells++;
+                direction = matrixWithDirections[startPositionRow][startPositionCol];
+                checkDirection(direction);
+            }
+
+            function checkDirection(directionA) {
+
+                switch (directionA) {
+                    case 'l': return startPositionCol -= 1;
+                    case 'r': return startPositionCol += 1;
+                    case 'u': return startPositionRow -= 1;
+                    case 'd': return startPositionRow += 1;
+                    default: return console.log('Incorrect direction');
+
+                }
+            }
+
+            function isInRange(row, col) {
+                if (row >= 0 && row < N && col >= 0 && col < M) {
+                    return true;
+                }
+
+                return false;
+            }
+
+            //console.log(matrixWithDigits);
+            //console.log(matrixWithDirections);
+        }
+
+        var test1 = [
+             "3 4",
+             "0 1",
+             "lrrd",
+             "dlll",
+             "rddd"
+        ];
+
+        var test2 = [
+             "5 8",
+         "0 0",
+         "rrrrrrrd",
+         "rludulrd",
+         "durlddud",
+         "urrrldud",
+         "ulllllll"]
+
+
+        var test3 = [
+            "5 8",
+         "0 0",
+         "rrrrrrrd",
+         "rludulrd",
+         "lurlddud",
+         "urrrldud",
+         "ulllllll"]
+
+        var test4 = [
+            '46 28',
+            '17 4',
+        'uullulluuldlrllrudrduurlurru',
+        'llrrddrluulddrlurrdllrudulld',
+        'udrruuddudduudlrurrulduruulu',
+        'rudrruuuruuuuddruuulurlruurl',
+        'lrdrlulrrlrrlurrllrddrddrrdd',
+        'llldrdddluddrdrlurrrrludrudu',
+        'udrllluudrrllruuduldrrlddddr',
+        'rdldrullurruuddrruurrrddlduu',
+        'urlddrrdlulrldrlruuruuluulrr',
+        'rdrrrurruulrldlddulrdrduurdr',
+        'luurrrddrudulruldrllddurrdrd',
+        'ddlrurlrdurldddlurlddrluuurl',
+        'durrdrdrldrlurlurrlrddldurrl',
+        'uuldddruudlddddurdullruulrdd',
+        'lrdlrrluurllrurrudrrruduluru',
+        'rrrdrulrrddlrlrrudludrrldllu',
+        'rudlrrrrddllldrurldludrdddld',
+        'rlduludlrrldudruudddrluulrdu',
+        'rrlulrrurrrrduurrrulldlrrldu',
+        'rullullduurrllurlldluuuldudu',
+        'llrrudululludulddrdduuuudrrl',
+        'rrlrdrudrrddudlrdudddldllddr',
+        'ulurllludlllrdlludlllruuurdu',
+        'rrudrruudlrluurudulddurlruur',
+        'rddudrrlrludlrdllduurrldldud',
+        'ddlddrrddddrrurrrludlldurdrr',
+        'uddrluludlruddddrrulrudduluu',
+        'dulddruddllddlrlurdlddrrllrr',
+        'rdldduulduududruulduruurdlld',
+        'rlrrrudrdlduullrldrdddlrdddl',
+        'uuruluurrrdrdruddudululdudru',
+        'rrururlullddulrurrrdudrldurr',
+        'drddudrddlldudruurrrurdulrrr',
+        'dlurrulllruluruuluuuldududdl',
+        'rurulddrullrullrludrdldulllr',
+        'uulrlduurrduruddlurdurrdrldu',
+        'llldudddduuuurrulurudddrlllu',
+        'ulrrrdluldruldrrrllrddudluld',
+        'duudrulruuuulldlrldddlrddluu',
+        'uuuludlrlurruddluuluddldudrr',
+        'rudlrrdddlrldlddudlddlluddll',
+        'lluudlduuudrddlduduudluuurul',
+        'ludrlururldulluddudddlrdlrld',
+        'rdrduuldldlllullrrlruuldrudr',
+        'udlulruuurruruurdurlrulllull',
+        'ruldulldurduduurdrrdrlrluurd'
+        ]
+
+        var test5 = [
+            '32 6',
+        '8 0',
+        'lduldu',
+        'ludllr',
+        'lrurlr',
+        'drlruu',
+        'llldrr',
+        'ddllrr',
+        'lrlruu',
+        'luulrd',
+        'lurlur',
+        'lulrru',
+        'llulll',
+        'lrrrll',
+        'udduld',
+        'ddudrl',
+        'ruludl',
+        'luruul',
+        'ddddrr',
+        'luluru',
+        'uudlru',
+        'ddudlu',
+        'durllu',
+        'ldlrul',
+        'rrdurd',
+        'dlrrdl',
+        'lrrdlu',
+        'rruudl',
+        'rrdudu',
+        'dudrlr',
+        'lllldr',
+        'uluudl',
+        'rdurru',
+        'ulurud'
+
+        ]
+
+        Solve(test5);
+    </script>
+</head>
+<body>
+
+</body>
+</html>

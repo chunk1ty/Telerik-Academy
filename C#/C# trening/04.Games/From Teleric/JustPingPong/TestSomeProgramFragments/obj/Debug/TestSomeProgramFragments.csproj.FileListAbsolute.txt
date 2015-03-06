@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Games\JustPingPong\TestSomeProgramFragments\bin\Debug\TestSomeProgramFragments.exe.config
+D:\chunk1ty\C#\c# trening\Games\JustPingPong\TestSomeProgramFragments\bin\Debug\TestSomeProgramFragments.exe
+D:\chunk1ty\C#\c# trening\Games\JustPingPong\TestSomeProgramFragments\bin\Debug\TestSomeProgramFragments.pdb
+D:\chunk1ty\C#\c# trening\Games\JustPingPong\TestSomeProgramFragments\obj\Debug\TestSomeProgramFragments.exe
+D:\chunk1ty\C#\c# trening\Games\JustPingPong\TestSomeProgramFragments\obj\Debug\TestSomeProgramFragments.pdb
+D:\chunk1ty\C#\c# trening\Games\JustPingPong\TestSomeProgramFragments\obj\Debug\TestSomeProgramFragments.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\Fibonacci\obj\Debug\Fibonacci.exe
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\Fibonacci\obj\Debug\Fibonacci.pdb

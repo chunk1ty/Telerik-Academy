@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\ForestRoad\bin\Debug\ForestRoad.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\ForestRoad\bin\Debug\ForestRoad.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\ForestRoad\bin\Debug\ForestRoad.pdb
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\ForestRoad\obj\Debug\ForestRoad.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\C# Fundamentals 20112012 Part 1 - Sample Exam\ForestRoad\obj\Debug\ForestRoad.pdb

@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\ShipDamage\bin\Debug\ShipDamage.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\ShipDamage\bin\Debug\ShipDamage.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\ShipDamage\bin\Debug\ShipDamage.pdb
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\ShipDamage\obj\Debug\01.ShipDamage.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\ShipDamage\obj\Debug\ShipDamage.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\ShipDamage\obj\Debug\ShipDamage.pdb

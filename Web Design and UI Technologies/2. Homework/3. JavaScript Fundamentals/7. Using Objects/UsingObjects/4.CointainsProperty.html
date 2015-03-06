@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        function hasProperty(obj, property) {
+            for (var i in obj) {
+                if (obj[i] === property) {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        var ank = {
+            fname: 'Andriyan',
+            lname: 'Krastev',
+            age: 22,
+            fullName: function () {
+                return this.fname + ' ' + this.lname;
+            }
+        }
+
+        var result = hasProperty(ank, 'ank');
+
+        console.log(result);
+    </script>
+</head>
+<body>
+
+</body>
+</html>

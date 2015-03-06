@@ -1,0 +1,27 @@
+string first = "Andriyan";
+string second = "Nevelinov";
+
+//Сравняване на стрингове (не ни интересуват главни и малки букви (Case-insensitive))
+int result = first.CompareTo(second);            // if (first > second) resul = -1
+int resultTwo = second.CompareTo(first);		 // if (second < first) resul = 1
+
+//Разбиване на голям стринг на масив от стрингове като определяме елементите му по дадени критерии за разделяне
+string listOfBeers = "Amstel, Zagorka, Tuborg, Becks.";
+string[] beers = listOfBeers.Split(new char[] {' ', ',', '.'},StringSplitOptions.RemoveEmptyEntries);
+//beers[0]=Amstel;
+//beers[1]=Zagorka;
+//beers[2]=Tuborg;
+//beers[3]=Becks;
+
+//Сменяне на стойности в String (заменене на стойности)
+string result = first.Replace("n","ananas");    //Aananasdriyaananas
+
+//ToLower() Променя всички букви в стринга на малки
+string result = first.ToLower();     //andriyan
+
+//ToUpper() Променя всички букви в стринга на главни
+string result = first.ToUpper();     //ANDRIYAN
+
+//Trim().
+string first = "  Andri     yan     .";
+string result = first.Trim();   //премахва празния интервал в началото и края(след точката) --> |Andri    yan    .

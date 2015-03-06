@@ -1,0 +1,6 @@
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\CalculatesNNumbers\bin\Debug\CalculatesNNumbers.exe.config
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\CalculatesNNumbers\bin\Debug\CalculatesNNumbers.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\CalculatesNNumbers\bin\Debug\CalculatesNNumbers.pdb
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\CalculatesNNumbers\obj\Debug\07.CalculatesNNumbers.csprojResolveAssemblyReference.cache
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\CalculatesNNumbers\obj\Debug\CalculatesNNumbers.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\CalculatesNNumbers\obj\Debug\CalculatesNNumbers.pdb

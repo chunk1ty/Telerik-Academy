@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\IntDoubleOrString\bin\Debug\IntDoubleOrString.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\IntDoubleOrString\bin\Debug\IntDoubleOrString.exe
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\IntDoubleOrString\bin\Debug\IntDoubleOrString.pdb
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\IntDoubleOrString\obj\Debug\08.IntDoubleOrString.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\IntDoubleOrString\obj\Debug\IntDoubleOrString.exe
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\IntDoubleOrString\obj\Debug\IntDoubleOrString.pdb

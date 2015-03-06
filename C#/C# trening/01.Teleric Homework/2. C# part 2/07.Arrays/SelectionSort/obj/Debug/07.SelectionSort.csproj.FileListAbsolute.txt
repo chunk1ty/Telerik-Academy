@@ -1,0 +1,9 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SelectionSort\bin\Debug\SelectionSort.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SelectionSort\obj\Debug\SelectionSort.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SelectionSort\obj\Debug\SelectionSort.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SelectionSort\bin\Debug\SelectionSort.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SelectionSort\obj\Debug\SelectionSort.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\SelectionSort\obj\Debug\SelectionSort.pdb

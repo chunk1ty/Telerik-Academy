@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\DecodeAndDecrypt\bin\Debug\DecodeAndDecrypt.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\DecodeAndDecrypt\bin\Debug\DecodeAndDecrypt.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\DecodeAndDecrypt\bin\Debug\DecodeAndDecrypt.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\DecodeAndDecrypt\obj\Debug\04.DecodeAndDecrypt.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\DecodeAndDecrypt\obj\Debug\DecodeAndDecrypt.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\DecodeAndDecrypt\obj\Debug\DecodeAndDecrypt.pdb

@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\BinarySearchTree\obj\Debug\02.BinarySearchTree.csprojResolveAssemblyReference.cache

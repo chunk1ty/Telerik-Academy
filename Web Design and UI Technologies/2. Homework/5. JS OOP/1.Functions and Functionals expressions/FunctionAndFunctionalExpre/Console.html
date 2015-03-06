@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="scripts/specialConsole.js"></script>
+</head>
+<body>
+    <script>
+        consoleModule.writeLine('here is {0}, {0} to {1} and again {2} {0} {1}', 'TEST WITH FORMAT', 'test format writeline', 'some text');
+
+        consoleModule.writeLine('text');
+
+        var sequence = [5, 19, 18, 55];
+        sequence.isArray = true;
+        consoleModule.writeLine(sequence);
+
+        var obj = { firstName: 'pesho', lastName: 'petrov', age: 19 };
+        console.log(obj);
+        var mesageWithFormat = 'here is our message {0}';
+        var message = 'IF you see this, than it is working correctly.';
+        consoleModule.writeError(mesageWithFormat, message);
+        consoleModule.writeWarning(mesageWithFormat, message);
+    </script>
+</body>
+</html>

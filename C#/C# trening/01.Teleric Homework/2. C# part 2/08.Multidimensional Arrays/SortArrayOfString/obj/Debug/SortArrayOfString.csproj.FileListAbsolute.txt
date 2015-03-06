@@ -1,0 +1,1 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\8.Multidimensional Arrays\SortArrayOfString\bin\Debug\SortArrayOfString.exe.config

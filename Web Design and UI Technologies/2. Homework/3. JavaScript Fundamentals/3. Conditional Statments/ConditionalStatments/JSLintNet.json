@@ -1,0 +1,33 @@
+﻿{
+  "output": "Error",
+  "ignore": [],
+  "options": {
+    "predef": {},
+    "ass": true,
+    "bitwise": true,
+    "browser": true,
+    "closure": true,
+    "continue": true,
+    "couch": true,
+    "debug": true,
+    "devel": true,
+    "eqeq": true,
+    "evil": true,
+    "forin": true,
+    "newcap": true,
+    "node": true,
+    "nomen": true,
+    "passfail": true,
+    "plusplus": true,
+    "regexp": true,
+    "rhino": true,
+    "unparam": true,
+    "sloppy": true,
+    "stupid": true,
+    "sub": true,
+    "todo": true,
+    "vars": true,
+    "white": true
+  },
+  "runOnSave": true
+}

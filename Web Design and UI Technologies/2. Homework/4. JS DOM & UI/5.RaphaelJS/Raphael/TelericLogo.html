@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script src="bower_components/raphael/raphael-min.js"></script>
+    <script>
+        var paper = Raphael(10, 10, 900, 500);
+
+        //Telerik
+        var logo =paper.path('M70 70 L90 50 L75 33 L85 23 L97 33 L100 30 L85 15 L70 30 L55 15 L40 30 L45 33 L55 23 L65 33 L50 50 Z');
+        
+        logo.attr({
+            fill: 'green',
+            stroke: 'none'
+        });
+
+        var innerRect = paper.path('M70 60 L80 50 L70 40 L60 50 Z');
+        innerRect.attr({
+            fill: 'white',
+            stroke: 'none'
+        })
+
+        var telerik = paper.text(210, 50, 'Telerik');
+        telerik.attr({
+            'font-weight': 'bold',
+            'font-size': '65'
+        });
+
+        var devExpress = paper.text(240, 85, 'Develop experiences');
+        devExpress.attr({
+            'font-size': '26',            
+        })
+
+        //You tube
+        var you = paper.text(350, 300, 'You');
+        you.scale(0.6, 1);
+        you.attr({
+            'font-weight': 'bold',
+            'font-size': 100,
+            'font-family': 'Calibri',
+            fill: '#4A4A4A'
+        });
+
+        var rect = paper.rect(405, 254, 150, 100, 25);
+        rect.attr({
+            fill: '#EC2828'
+        });
+
+        var tube = paper.text(480, 300, 'Tube');
+        tube.scale(0.6, 1);
+        tube.attr({
+            'font-weight': 'bold',
+            'font-size': 100,
+            'font-family': 'Calibri',
+            fill: 'white'
+        });
+        </script>
+</body>
+</html>

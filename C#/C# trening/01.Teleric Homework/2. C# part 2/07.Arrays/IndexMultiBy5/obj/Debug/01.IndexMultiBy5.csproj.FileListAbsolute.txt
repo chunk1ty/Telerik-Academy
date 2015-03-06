@@ -1,0 +1,15 @@
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\IndexMultiBy5\bin\Debug\IndexMultiBy5.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\IndexMultiBy5\bin\Debug\IndexMultiBy5.exe
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\IndexMultiBy5\bin\Debug\IndexMultiBy5.pdb
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\IndexMultiBy5\obj\Debug\01.IndexMultiBy5.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\IndexMultiBy5\obj\Debug\IndexMultiBy5.exe
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\IndexMultiBy5\obj\Debug\IndexMultiBy5.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\IndexMultiBy5\bin\Debug\IndexMultiBy5.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\IndexMultiBy5\obj\Debug\IndexMultiBy5.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\IndexMultiBy5\obj\Debug\IndexMultiBy5.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\IndexMultiBy5\bin\Debug\IndexMultiBy5.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\IndexMultiBy5\obj\Debug\IndexMultiBy5.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\IndexMultiBy5\obj\Debug\IndexMultiBy5.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\07.Arrays\IndexMultiBy5\bin\Debug\IndexMultiBy5.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\07.Arrays\IndexMultiBy5\obj\Debug\IndexMultiBy5.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\07.Arrays\IndexMultiBy5\obj\Debug\IndexMultiBy5.pdb

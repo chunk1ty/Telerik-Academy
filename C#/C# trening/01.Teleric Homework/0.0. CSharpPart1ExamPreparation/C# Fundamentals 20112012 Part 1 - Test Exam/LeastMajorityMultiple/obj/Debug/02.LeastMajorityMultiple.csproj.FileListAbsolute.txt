@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.pdb
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\LeastMajorityMultiple\obj\Debug\02.LeastMajorityMultiple.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb

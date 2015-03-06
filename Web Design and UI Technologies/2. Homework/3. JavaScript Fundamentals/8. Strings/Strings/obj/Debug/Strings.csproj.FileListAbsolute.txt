@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\8. Strings\Strings\bin\Strings.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\8. Strings\Strings\bin\Strings.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\8. Strings\Strings\bin\Strings.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\8. Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\8. Strings\Strings\obj\Debug\Strings.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\8. Strings\Strings\obj\Debug\Strings.pdb

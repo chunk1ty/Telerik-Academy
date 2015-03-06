@@ -1,0 +1,1 @@
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\AddPointToGivenScores\bin\Debug\AddPointToGivenScores.exe.config

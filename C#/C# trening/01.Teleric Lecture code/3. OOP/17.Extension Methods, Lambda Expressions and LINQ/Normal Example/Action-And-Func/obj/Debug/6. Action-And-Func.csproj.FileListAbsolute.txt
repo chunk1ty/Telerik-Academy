@@ -1,0 +1,6 @@
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Action-And-Func\bin\Debug\Action-And-Func.exe.config
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Action-And-Func\bin\Debug\Action-And-Func.exe
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Action-And-Func\bin\Debug\Action-And-Func.pdb
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Action-And-Func\obj\Debug\6. Action-And-Func.csprojResolveAssemblyReference.cache
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Action-And-Func\obj\Debug\Action-And-Func.exe
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Action-And-Func\obj\Debug\Action-And-Func.pdb

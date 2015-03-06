@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\FindBiggestOfThreeInt\bin\Debug\FindBiggestOfThreeInt.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\FindBiggestOfThreeInt\bin\Debug\FindBiggestOfThreeInt.exe
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\FindBiggestOfThreeInt\bin\Debug\FindBiggestOfThreeInt.pdb
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\FindBiggestOfThreeInt\obj\Debug\FindBiggestOfThreeInt.exe
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\FindBiggestOfThreeInt\obj\Debug\FindBiggestOfThreeInt.pdb
+D:\chunk1ty\C#\c# trening\Teleric\ConditionalStatements\FindBiggestOfThreeInt\obj\Debug\03.FindBiggestOfThreeInt.csprojResolveAssemblyReference.cache

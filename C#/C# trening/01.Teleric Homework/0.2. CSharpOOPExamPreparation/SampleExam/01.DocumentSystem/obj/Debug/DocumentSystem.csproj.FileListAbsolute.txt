@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\SampleExam\01.DocumentSystem\obj\Debug\DocumentSystem.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\SampleExam\01.DocumentSystem\bin\Debug\DocumentSystem.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\SampleExam\01.DocumentSystem\bin\Debug\DocumentSystem.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\SampleExam\01.DocumentSystem\obj\Debug\DocumentSystem.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\SampleExam\01.DocumentSystem\obj\Debug\DocumentSystem.pdb

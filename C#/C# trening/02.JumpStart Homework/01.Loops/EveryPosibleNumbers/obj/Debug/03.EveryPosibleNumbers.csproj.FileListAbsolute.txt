@@ -1,0 +1,8 @@
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\EveryPosibleNumbers\bin\Debug\EveryPosibleNumbers.exe.config
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\EveryPosibleNumbers\bin\Debug\EveryPosibleNumbers.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\EveryPosibleNumbers\bin\Debug\EveryPosibleNumbers.pdb
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\EveryPosibleNumbers\obj\Debug\EveryPosibleNumbers.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Loops\EveryPosibleNumbers\obj\Debug\EveryPosibleNumbers.pdb
+D:\chunk1ty\C#\c# trening\02.JumpStart\Loops\EveryPosibleNumbers\bin\Debug\EveryPosibleNumbers.exe.config
+D:\chunk1ty\C#\c# trening\02.JumpStart\Loops\EveryPosibleNumbers\obj\Debug\EveryPosibleNumbers.exe
+D:\chunk1ty\C#\c# trening\02.JumpStart\Loops\EveryPosibleNumbers\obj\Debug\EveryPosibleNumbers.pdb

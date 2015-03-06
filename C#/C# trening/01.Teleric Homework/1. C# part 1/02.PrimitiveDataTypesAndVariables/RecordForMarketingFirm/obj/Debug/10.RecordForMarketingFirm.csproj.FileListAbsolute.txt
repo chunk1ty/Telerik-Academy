@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\RecordForMarketingFirm\bin\Debug\RecordForMarketingFirm.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\RecordForMarketingFirm\bin\Debug\RecordForMarketingFirm.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\RecordForMarketingFirm\bin\Debug\RecordForMarketingFirm.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\RecordForMarketingFirm\obj\Debug\10.RecordForMarketingFirm.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\RecordForMarketingFirm\obj\Debug\RecordForMarketingFirm.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\RecordForMarketingFirm\obj\Debug\RecordForMarketingFirm.pdb

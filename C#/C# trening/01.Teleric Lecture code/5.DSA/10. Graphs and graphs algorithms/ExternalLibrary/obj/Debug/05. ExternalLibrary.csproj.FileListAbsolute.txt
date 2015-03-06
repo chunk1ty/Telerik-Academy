@@ -1,0 +1,14 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\bin\Debug\ExternalLibrary.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\bin\Debug\ExternalLibrary.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\bin\Debug\ExternalLibrary.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\bin\Debug\QuickGraph.Data.dll
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\bin\Debug\QuickGraph.dll
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\bin\Debug\QuickGraph.Graphviz.dll
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\bin\Debug\QuickGraph.Serialization.dll
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\bin\Debug\QuickGraph.xml
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\bin\Debug\QuickGraph.Data.xml
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\bin\Debug\QuickGraph.Graphviz.xml
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\bin\Debug\QuickGraph.Serialization.xml
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\obj\Debug\05. ExternalLibrary.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\obj\Debug\ExternalLibrary.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\10. Graphs and graphs algorithms\ExternalLibrary\obj\Debug\ExternalLibrary.pdb

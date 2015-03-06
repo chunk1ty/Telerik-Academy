@@ -1,0 +1,1 @@
+C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\HighlyDivisibleTriangularNumber\bin\Debug\HighlyDivisibleTriangularNumber.exe.config

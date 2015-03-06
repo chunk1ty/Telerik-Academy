@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\Furniture\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\Furniture\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\Furniture\FurnitureManufacturer\bin\Debug\Furnitures.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\Furniture\FurnitureManufacturer\bin\Debug\Furnitures.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\Furniture\FurnitureManufacturer\obj\Debug\Furnitures.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\Furniture\FurnitureManufacturer\obj\Debug\Furnitures.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\01.Furniture\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\01.Furniture\FurnitureManufacturer\obj\Debug\Furnitures.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\0.2. CSharpOOPExamPreparation\Exam-5-Mar-2014\01.Furniture\FurnitureManufacturer\obj\Debug\Furnitures.pdb

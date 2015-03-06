@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function onGetBouncingBall() {
+            var context = document.getElementById('the-canvas').getContext('2d');
+
+            var totalWidth = context.canvas.width;
+            var totalHeight = context.canvas.height;
+            //console.log(totalHeight);
+            //console.log(totalWidth);
+
+            var positionX = totalWidth / 2,
+                positionY = totalHeight / 2,
+                radius = 20,    
+                speed = 2;
+
+            var movementByX = 'P',
+                movementByY = 'P';
+
+            function drawBall() {
+                context.beginPath();
+                context.moveTo(positionX,positionY);
+                context.arc(positionX, positionY, radius, 0, 2 * Math.PI);
+                context.fill();                
+            }
+
+            function directions() {
+                if (movementByX === 'P') {
+                    positionX += speed;
+                    if (positionX + radius > totalWidth) {
+                        movementByX = 'N';
+                        positionX -= 2 * speed;
+                    }
+                }
+                else if (movementByX === 'N') {
+                    positionX -= speed;
+                    if (positionX - radius < 0) {
+                        movementByX = 'P';
+                        positionX += 2 * speed;
+                    }
+                }
+
+                if (movementByY === 'P') {
+                    positionY += speed;
+                    if (positionY + radius > totalHeight) {
+                        movementByY = 'N';
+                        positionY -= 2 * speed;
+                    }
+                }
+                else if (movementByY === 'N') {
+                    positionY -= speed;
+                    if (positionY - radius < 0) {
+                        movementByY = 'P';
+                        positionY +=  2 *speed;
+                    }
+                }
+            }
+
+            function move() {
+                context.clearRect(0, 0, totalWidth, totalHeight);
+                drawBall();
+                directions();
+            }
+            
+            setInterval(move, 10);
+        }
+    </script>
+</head>
+<body onload="onGetBouncingBall()">
+    <canvas id="the-canvas" width="500" height="300" style="border:3px solid blue"></canvas>
+</body>
+</html>

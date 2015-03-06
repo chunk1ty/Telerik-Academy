@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReplaceStartWithFinishTwo\bin\Debug\ReplaceStartWithFinishTwo.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReplaceStartWithFinishTwo\bin\Debug\ReplaceStartWithFinishTwo.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReplaceStartWithFinishTwo\bin\Debug\ReplaceStartWithFinishTwo.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReplaceStartWithFinishTwo\obj\Debug\ReplaceStartWithFinishTwo.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReplaceStartWithFinishTwo\obj\Debug\ReplaceStartWithFinishTwo.pdb

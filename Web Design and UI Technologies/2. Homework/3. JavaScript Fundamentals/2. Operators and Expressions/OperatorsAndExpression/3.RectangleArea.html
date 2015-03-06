@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Rectangle Area</title>
+    <style>
+        div {
+            margin: 5px;
+        }
+
+        #result {
+            background-color: green;
+            width: 20px
+        }
+    </style>
+    <script>
+        function onCalculateRectangleArea() {
+            var width = document.getElementById('getWidth').value,
+                height = document.getElementById('getHeight').value,
+                result = 0;
+
+            result = width * height;
+
+            alert(result);
+        }
+    </script>
+</head>
+<body>
+    <div id="wrapper">
+        <div>
+            <input type="text" id="getWidth" placeholder="Enter Width" />
+        </div>
+        <div>
+            <input type="text" id="getHeight" placeholder="Enter Height" />
+        </div>
+        <div>
+            <button onclick="onCalculateRectangleArea()">
+                Calculate
+            </button>
+        </div>
+        <div id="result">
+
+        </div>
+    </div>
+</body>
+</html>

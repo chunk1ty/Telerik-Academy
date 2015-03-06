@@ -1,0 +1,12 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreaseSequance\bin\Debug\MaxIncreaseSequance.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreaseSequance\bin\Debug\MaxIncreaseSequance.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreaseSequance\bin\Debug\MaxIncreaseSequance.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreaseSequance\obj\Debug\MaxIncreaseSequance.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreaseSequance\obj\Debug\MaxIncreaseSequance.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreaseSequance\obj\Debug\05.MaxIncreaseSequance.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreaseSequance\bin\Debug\MaxIncreaseSequance.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreaseSequance\obj\Debug\MaxIncreaseSequance.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MaxIncreaseSequance\obj\Debug\MaxIncreaseSequance.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\07.Arrays\MaxIncreaseSequance\bin\Debug\MaxIncreaseSequance.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\07.Arrays\MaxIncreaseSequance\obj\Debug\MaxIncreaseSequance.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\07.Arrays\MaxIncreaseSequance\obj\Debug\MaxIncreaseSequance.pdb

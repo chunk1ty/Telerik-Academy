@@ -1,0 +1,4 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Permutations\bin\Debug\Permutations.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Permutations\bin\Debug\Permutations.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Permutations\obj\Debug\Permutations.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Permutations\obj\Debug\Permutations.pdb

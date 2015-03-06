@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\Variations\bin\Debug\Variations.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\Variations\bin\Debug\Variations.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\Variations\bin\Debug\Variations.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\Variations\obj\Debug\20.Variations.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\Variations\obj\Debug\Variations.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\Variations\obj\Debug\Variations.pdb

@@ -1,0 +1,12 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\MathExpressionsCalculator\bin\Debug\MathExpressionsCalculator.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\MathExpressionsCalculator\bin\Debug\MathExpressionsCalculator.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\MathExpressionsCalculator\bin\Debug\MathExpressionsCalculator.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\MathExpressionsCalculator\obj\Debug\07.MathExpressionsCalculator.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\MathExpressionsCalculator\obj\Debug\MathExpressionsCalculator.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\MathExpressionsCalculator\obj\Debug\MathExpressionsCalculator.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\11.UsingClassesAndObjects\MathExpressionsCalculator\bin\Debug\MathExpressionsCalculator.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\11.UsingClassesAndObjects\MathExpressionsCalculator\obj\Debug\MathExpressionsCalculator.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\11.UsingClassesAndObjects\MathExpressionsCalculator\obj\Debug\MathExpressionsCalculator.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\11.UsingClassesAndObjects\MathExpressionsCalculator\bin\Debug\MathExpressionsCalculator.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\11.UsingClassesAndObjects\MathExpressionsCalculator\bin\Debug\MathExpressionsCalculator.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\11.UsingClassesAndObjects\MathExpressionsCalculator\obj\Debug\07.MathExpressionsCalculator.csprojResolveAssemblyReference.cache

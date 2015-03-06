@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GenericListNamespace", "GenericListNamespace\02.GenericListNamespace.csproj", "{08540E9F-5AAA-4DF4-965A-B6150C69F3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MatrixNamespace", "MatrixNamespace\03.MatrixNamespace.csproj", "{EF26DFBB-55EB-45B8-AFD7-947B9155EA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeTask", "AttributeTask\AttributeTask.csproj", "{4594E65F-E65E-4BF9-BE2B-960688DA546A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08540E9F-5AAA-4DF4-965A-B6150C69F3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08540E9F-5AAA-4DF4-965A-B6150C69F3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08540E9F-5AAA-4DF4-965A-B6150C69F3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08540E9F-5AAA-4DF4-965A-B6150C69F3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF26DFBB-55EB-45B8-AFD7-947B9155EA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF26DFBB-55EB-45B8-AFD7-947B9155EA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF26DFBB-55EB-45B8-AFD7-947B9155EA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF26DFBB-55EB-45B8-AFD7-947B9155EA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4594E65F-E65E-4BF9-BE2B-960688DA546A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4594E65F-E65E-4BF9-BE2B-960688DA546A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4594E65F-E65E-4BF9-BE2B-960688DA546A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4594E65F-E65E-4BF9-BE2B-960688DA546A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

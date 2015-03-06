@@ -1,0 +1,1 @@
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config

@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function lastDigit() {
+            var number = parseInt(document.getElementById('getNumber').value);
+
+            var digit = number % 10;
+
+            digitAsWord(digit);
+        }
+
+        function digitAsWord(digit) {
+            switch (digit) {
+                case 0: return console.log('zero');
+                case 1: return console.log('one');
+                case 2: return console.log('two');
+                case 3: return console.log('three');
+                case 4: return console.log('four');
+                case 5: return console.log('five');
+                case 6: return console.log('six');
+                case 7: return console.log('seven');
+                case 8: return console.log('eight');
+                case 9: return console.log('nine');
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="getNumber" />
+    <button onclick="lastDigit()">
+        Return
+    </button>
+</body>
+</html>

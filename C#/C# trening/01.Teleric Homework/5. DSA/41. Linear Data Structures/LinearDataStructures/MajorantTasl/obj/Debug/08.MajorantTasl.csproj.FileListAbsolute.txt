@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\MajorantTasl\bin\Debug\MajorantTasl.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\MajorantTasl\bin\Debug\MajorantTasl.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\MajorantTasl\bin\Debug\MajorantTasl.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\MajorantTasl\obj\Debug\MajorantTasl.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\MajorantTasl\obj\Debug\MajorantTasl.pdb

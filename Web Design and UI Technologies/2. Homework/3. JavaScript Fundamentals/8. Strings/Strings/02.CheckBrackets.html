@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        var expression = '(()))(';
+
+        checkBrakets(expression);
+
+        function checkBrakets(someExpression) {
+            var counter = 0;
+
+            for (var i = 0; i < someExpression.length; i++) {
+                if (someExpression[i] === '(') {
+                    counter++;
+                }
+                if (someExpression[i] === ')') {                    
+                    counter--;
+                    if (counter < 0) {
+                        console.log('The brackets are NOT put correctly!');
+                        return;
+                    }
+                }
+            }
+
+            if (counter === 0) {
+                console.log('The brackets are put correctly!')
+            }
+            else {
+                console.log('The brackets are NOT put correctly!')
+            }
+        }
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

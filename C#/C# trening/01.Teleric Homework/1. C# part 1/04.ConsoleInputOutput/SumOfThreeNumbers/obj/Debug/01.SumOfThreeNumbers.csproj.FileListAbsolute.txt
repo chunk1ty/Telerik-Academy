@@ -1,0 +1,12 @@
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe.config
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.pdb
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\SumOfThreeNumbers\obj\Debug\01.SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.pdb
+Z:\C#\c# trening\Teleric\4.ConsoleInputOutput\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe.config
+Z:\C#\c# trening\Teleric\4.ConsoleInputOutput\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.exe
+Z:\C#\c# trening\Teleric\4.ConsoleInputOutput\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.pdb
+D:\chunk1ty\C#\c# trening\Teleric\4.ConsoleInputOutput\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\4.ConsoleInputOutput\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.exe
+D:\chunk1ty\C#\c# trening\Teleric\4.ConsoleInputOutput\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.pdb

@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\GetMax\bin\Debug\GetMax.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\GetMax\bin\Debug\GetMax.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\GetMax\bin\Debug\GetMax.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\GetMax\obj\Debug\GetMax.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\GetMax\obj\Debug\GetMax.pdb

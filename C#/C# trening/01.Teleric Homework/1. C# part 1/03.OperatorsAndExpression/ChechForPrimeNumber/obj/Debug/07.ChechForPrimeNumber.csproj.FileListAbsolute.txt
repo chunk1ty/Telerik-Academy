@@ -1,0 +1,6 @@
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\ChechForPrimeNumber\obj\Debug\07.ChechForPrimeNumber.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\ChechForPrimeNumber\bin\Debug\ChechForPrimeNumber.exe.config
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\ChechForPrimeNumber\bin\Debug\ChechForPrimeNumber.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\ChechForPrimeNumber\bin\Debug\ChechForPrimeNumber.pdb
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\ChechForPrimeNumber\obj\Debug\ChechForPrimeNumber.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\ChechForPrimeNumber\obj\Debug\ChechForPrimeNumber.pdb

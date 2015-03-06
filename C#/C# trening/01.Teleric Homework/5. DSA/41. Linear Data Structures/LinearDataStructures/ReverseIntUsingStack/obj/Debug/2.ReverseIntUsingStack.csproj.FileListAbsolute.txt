@@ -1,0 +1,8 @@
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ReverseIntUsingStack\bin\Debug\ReverseIntUsingStack.exe.config
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ReverseIntUsingStack\bin\Debug\ReverseIntUsingStack.exe
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ReverseIntUsingStack\bin\Debug\ReverseIntUsingStack.pdb
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ReverseIntUsingStack\obj\Debug\ReverseIntUsingStack.exe
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ReverseIntUsingStack\obj\Debug\ReverseIntUsingStack.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ReverseIntUsingStack\bin\Debug\ReverseIntUsingStack.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ReverseIntUsingStack\obj\Debug\ReverseIntUsingStack.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\ReverseIntUsingStack\obj\Debug\ReverseIntUsingStack.pdb

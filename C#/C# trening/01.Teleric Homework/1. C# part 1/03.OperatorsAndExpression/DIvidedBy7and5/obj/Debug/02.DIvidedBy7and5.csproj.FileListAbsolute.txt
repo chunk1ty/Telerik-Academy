@@ -1,0 +1,6 @@
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\DIvidedBy7and5\bin\Debug\DIvidedBy7and5.exe.config
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\DIvidedBy7and5\bin\Debug\DIvidedBy7and5.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\DIvidedBy7and5\bin\Debug\DIvidedBy7and5.pdb
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\DIvidedBy7and5\obj\Debug\02.DIvidedBy7and5.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\DIvidedBy7and5\obj\Debug\DIvidedBy7and5.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\DIvidedBy7and5\obj\Debug\DIvidedBy7and5.pdb

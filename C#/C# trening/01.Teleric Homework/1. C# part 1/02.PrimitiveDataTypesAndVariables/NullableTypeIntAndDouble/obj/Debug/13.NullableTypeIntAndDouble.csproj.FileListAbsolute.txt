@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\NullableTypeIntAndDouble\bin\Debug\NullableTypeIntAndDouble.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\NullableTypeIntAndDouble\bin\Debug\NullableTypeIntAndDouble.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\NullableTypeIntAndDouble\bin\Debug\NullableTypeIntAndDouble.pdb
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\NullableTypeIntAndDouble\obj\Debug\NullableTypeIntAndDouble.exe
+D:\chunk1ty\C#\c# trening\Teleric\PrimitiveDataTypesAndVariables\NullableTypeIntAndDouble\obj\Debug\NullableTypeIntAndDouble.pdb

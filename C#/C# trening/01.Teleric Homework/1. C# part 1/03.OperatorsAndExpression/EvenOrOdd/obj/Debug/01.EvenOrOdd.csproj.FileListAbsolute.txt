@@ -1,0 +1,12 @@
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\EvenOrOdd\obj\Debug\01.EvenOrOdd.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\EvenOrOdd\obj\Debug\EvenOrOdd.pdb
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\EvenOrOdd\obj\Debug\EvenOrOdd.pdb
+D:\chunk1ty\C#\c# trening\Teleric\3.OperatorsAndExpression\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\3.OperatorsAndExpression\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\chunk1ty\C#\c# trening\Teleric\3.OperatorsAndExpression\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

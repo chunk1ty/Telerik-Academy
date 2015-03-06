@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\8.Events\Events\bin\Events.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\8.Events\Events\bin\Events.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\8.Events\Events\bin\Events.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\8.Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\8.Events\Events\obj\Debug\Events.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\8.Events\Events\obj\Debug\Events.pdb

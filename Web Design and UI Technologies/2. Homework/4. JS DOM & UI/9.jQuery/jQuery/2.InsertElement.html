@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="scripts/jquery.min.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <button id="add-before">Add before</button>
+        <button id="add-after">Add after</button>
+        <div class="elementToSurround">Elements will be added before and after this one!</div>
+    </div>
+
+    <script>
+
+        $("#add-before").on("click", function () {
+            var elementToAdd = $("<div>");
+            elementToAdd.text("before");
+
+            $(".elementToSurround").before(elementToAdd);
+        });
+
+        $("#add-after").on("click", function () {
+            var elementToAdd = $("<div>");
+            elementToAdd.text("after");
+
+            $(".elementToSurround").after(elementToAdd);
+        });
+    </script>
+</body>
+</html>

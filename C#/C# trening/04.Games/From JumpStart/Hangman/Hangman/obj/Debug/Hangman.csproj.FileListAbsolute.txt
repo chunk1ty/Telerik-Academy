@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\JumpStart\Hangman\Hangman\bin\Debug\Hangman.exe.config
+D:\chunk1ty\C#\c# trening\JumpStart\Hangman\Hangman\bin\Debug\Hangman.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Hangman\Hangman\bin\Debug\Hangman.pdb
+D:\chunk1ty\C#\c# trening\JumpStart\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\JumpStart\Hangman\Hangman\obj\Debug\Hangman.exe
+D:\chunk1ty\C#\c# trening\JumpStart\Hangman\Hangman\obj\Debug\Hangman.pdb

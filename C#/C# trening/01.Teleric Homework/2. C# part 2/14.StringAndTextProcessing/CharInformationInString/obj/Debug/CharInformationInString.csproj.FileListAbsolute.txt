@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\CharInformationInString\bin\Debug\CharInformationInString.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\CharInformationInString\bin\Debug\CharInformationInString.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\CharInformationInString\bin\Debug\CharInformationInString.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\CharInformationInString\obj\Debug\CharInformationInString.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\CharInformationInString\obj\Debug\CharInformationInString.pdb

@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

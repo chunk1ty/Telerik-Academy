@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintDeckOf52Cards\obj\Debug\10.PrintDeckOf52Cards.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.pdb
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.exe
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.pdb

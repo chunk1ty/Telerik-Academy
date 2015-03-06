@@ -1,0 +1,11 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\TransferDateFromTwoFilesToOne\bin\Debug\TransferDateFromTwoFilesToOne.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\TransferDateFromTwoFilesToOne\bin\Debug\TransferDateFromTwoFilesToOne.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\TransferDateFromTwoFilesToOne\bin\Debug\TransferDateFromTwoFilesToOne.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\TransferDateFromTwoFilesToOne\obj\Debug\TransferDateFromTwoFilesToOne.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\TransferDateFromTwoFilesToOne\obj\Debug\TransferDateFromTwoFilesToOne.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\TransferDateFromTwoFilesToOne\bin\Debug\TransferDateFromTwoFilesToOne.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\TransferDateFromTwoFilesToOne\bin\Debug\TransferDateFromTwoFilesToOne.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\TransferDateFromTwoFilesToOne\bin\Debug\TransferDateFromTwoFilesToOne.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\TransferDateFromTwoFilesToOne\obj\Debug\02.TransferDateFromTwoFilesToOne.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\TransferDateFromTwoFilesToOne\obj\Debug\TransferDateFromTwoFilesToOne.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\TransferDateFromTwoFilesToOne\obj\Debug\TransferDateFromTwoFilesToOne.pdb

@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\7. Using Objects\UsingObjects\bin\UsingObjects.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\7. Using Objects\UsingObjects\bin\UsingObjects.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\7. Using Objects\UsingObjects\bin\UsingObjects.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\7. Using Objects\UsingObjects\obj\Debug\UsingObjects.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\7. Using Objects\UsingObjects\obj\Debug\UsingObjects.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\3. JavaScript Fundamentals\7. Using Objects\UsingObjects\obj\Debug\UsingObjects.pdb

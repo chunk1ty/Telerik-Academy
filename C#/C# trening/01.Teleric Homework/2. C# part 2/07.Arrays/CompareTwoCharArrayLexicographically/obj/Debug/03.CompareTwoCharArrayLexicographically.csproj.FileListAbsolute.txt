@@ -1,0 +1,11 @@
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\CompareTwoCharArrayLexicographically\bin\Debug\CompareTwoCharArrayLexicographically.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\CompareTwoCharArrayLexicographically\bin\Debug\CompareTwoCharArrayLexicographically.exe
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\CompareTwoCharArrayLexicographically\bin\Debug\CompareTwoCharArrayLexicographically.pdb
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\CompareTwoCharArrayLexicographically\obj\Debug\CompareTwoCharArrayLexicographically.exe
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\CompareTwoCharArrayLexicographically\obj\Debug\CompareTwoCharArrayLexicographically.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\CompareTwoCharArrayLexicographically\bin\Debug\CompareTwoCharArrayLexicographically.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\CompareTwoCharArrayLexicographically\obj\Debug\CompareTwoCharArrayLexicographically.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\CompareTwoCharArrayLexicographically\obj\Debug\CompareTwoCharArrayLexicographically.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\CompareTwoCharArrayLexicographically\bin\Debug\CompareTwoCharArrayLexicographically.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\CompareTwoCharArrayLexicographically\obj\Debug\CompareTwoCharArrayLexicographically.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\CompareTwoCharArrayLexicographically\obj\Debug\CompareTwoCharArrayLexicographically.pdb

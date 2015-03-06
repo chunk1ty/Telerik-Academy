@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        //function extractText(text,regex) {
+        //    return text.match(regex);
+        //}
+
+        //function main() {
+        //    var input = "http://www.devbg.org/forum/index.php";
+
+        //    var protocol = extractText(input, /^[^:]+/)[0];
+        //    var server = extractText(input, /:\/\/(.*?)\//)[0];
+        //    var resourse = extractText(input, )[0];
+        //}
+
+        //main()
+
+        function convertUrl(url) {
+            url = url + "";
+            var pattern = /(.*):\/\/(.*?)(\/.*)/g;
+            var fragments = pattern.exec(url);
+            var urlObj = {
+                portocol: fragments[1],
+                server: fragments[2],
+                resource: fragments[3]
+            };
+            return urlObj;
+        }
+        //run program
+        function runProgram() {
+            var text = "http://www.devbg.org/forum/index.php";
+            var frag = convertUrl(text);
+            for (var i in frag) {
+                console.log(frag[i]);
+            }
+        }
+
+
+        runProgram();
+    </script>
+</head>
+<body>
+
+</body>
+</html>

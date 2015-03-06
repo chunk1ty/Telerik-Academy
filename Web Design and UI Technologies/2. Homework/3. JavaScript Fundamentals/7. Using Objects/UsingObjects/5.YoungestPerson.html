@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        alert('ank');
+
+        var persons = [
+            { firstName: 'Andriyan', lastName: 'Krastev', age: 22 },
+            { firstName: 'Ivan', lastName: 'Petkov', age: 23 },
+            { firstName: 'Felipo', lastName: 'Inzagi', age: 46 },
+            { firstName: 'Martin', lastName: 'Odegaard', age: 16 },
+            { firstName: 'sd', lastName: 'Krastaaaev', age: 32 },
+            { firstName: 'Ivadn', lastName: 'Petgggkov', age: 14 },
+            { firstName: 'Felaaipo', lastName: 'Inzaqqqgi', age: 49 },
+            { firstName: 'Martdddin', lastName: 'Odegahhhard', age: 26 },
+        ];
+
+        function youngestPerson(someArray) {
+            var minAge = 150,
+                index = 0;
+
+            for (var i = 0; i < someArray.length; i++) {
+                if (someArray[i].age < minAge) {
+                    minAge = someArray[i].age;
+                    index = i;
+                }
+            }
+
+            printYoungestPerson(someArray, index);
+        }
+
+        function printYoungestPerson(someArray,index) {
+            var fullName = someArray[index];
+
+            console.log(fullName.firstName + ' ' + fullName.lastName);
+        }
+
+        youngestPerson(persons);
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

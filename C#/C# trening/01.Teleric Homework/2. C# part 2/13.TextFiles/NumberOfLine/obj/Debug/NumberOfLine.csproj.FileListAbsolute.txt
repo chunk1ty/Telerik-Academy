@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\NumberOfLine\bin\Debug\NumberOfLine.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\NumberOfLine\bin\Debug\NumberOfLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\NumberOfLine\bin\Debug\NumberOfLine.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\NumberOfLine\obj\Debug\NumberOfLine.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\NumberOfLine\obj\Debug\NumberOfLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\NumberOfLine\obj\Debug\NumberOfLine.pdb

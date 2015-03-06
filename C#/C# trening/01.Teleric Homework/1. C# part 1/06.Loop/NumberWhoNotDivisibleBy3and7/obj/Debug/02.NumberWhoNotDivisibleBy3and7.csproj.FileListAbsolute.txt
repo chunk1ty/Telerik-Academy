@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\Loop\NumberWhoNotDivisibleBy3and7\bin\Debug\NumberWhoNotDivisibleBy3and7.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\Loop\NumberWhoNotDivisibleBy3and7\bin\Debug\NumberWhoNotDivisibleBy3and7.exe
+D:\chunk1ty\C#\c# trening\Teleric\Loop\NumberWhoNotDivisibleBy3and7\bin\Debug\NumberWhoNotDivisibleBy3and7.pdb
+D:\chunk1ty\C#\c# trening\Teleric\Loop\NumberWhoNotDivisibleBy3and7\obj\Debug\NumberWhoNotDivisibleBy3and7.exe
+D:\chunk1ty\C#\c# trening\Teleric\Loop\NumberWhoNotDivisibleBy3and7\obj\Debug\NumberWhoNotDivisibleBy3and7.pdb

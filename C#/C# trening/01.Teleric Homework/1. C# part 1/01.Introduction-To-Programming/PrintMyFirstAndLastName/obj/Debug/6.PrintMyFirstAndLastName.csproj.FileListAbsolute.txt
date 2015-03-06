@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintMyFirstAndLastName\bin\Debug\PrintMyFirstAndLastName.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintMyFirstAndLastName\bin\Debug\PrintMyFirstAndLastName.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintMyFirstAndLastName\bin\Debug\PrintMyFirstAndLastName.pdb
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintMyFirstAndLastName\obj\Debug\PrintMyFirstAndLastName.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintMyFirstAndLastName\obj\Debug\PrintMyFirstAndLastName.pdb

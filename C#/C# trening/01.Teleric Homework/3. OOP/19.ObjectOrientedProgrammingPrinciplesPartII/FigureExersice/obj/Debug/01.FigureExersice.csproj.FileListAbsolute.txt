@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\FigureExersice\obj\Debug\01.FigureExersice.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\FigureExersice\bin\Debug\FigureExersice.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\FigureExersice\bin\Debug\FigureExersice.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\FigureExersice\bin\Debug\FigureExersice.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\FigureExersice\obj\Debug\FigureExersice.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\FigureExersice\obj\Debug\FigureExersice.pdb

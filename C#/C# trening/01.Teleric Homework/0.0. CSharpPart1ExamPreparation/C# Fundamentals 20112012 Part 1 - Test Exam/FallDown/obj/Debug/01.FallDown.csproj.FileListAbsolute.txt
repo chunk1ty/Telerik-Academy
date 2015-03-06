@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\FallDown\bin\Debug\FallDown.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\FallDown\bin\Debug\FallDown.exe
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\FallDown\bin\Debug\FallDown.pdb
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\FallDown\obj\Debug\01.FallDown.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\FallDown\obj\Debug\FallDown.exe
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\FallDown\obj\Debug\FallDown.pdb

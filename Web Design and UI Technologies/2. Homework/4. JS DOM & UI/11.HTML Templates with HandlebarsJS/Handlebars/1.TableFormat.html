@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="bower_components/handlebars/handlebars.min.js"></script>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+        }
+
+        th {
+            color:azure;
+            background-color: #808080;
+            text-align: center;
+        }
+
+        table tbody tr:nth-child(2n){
+            background-color: #808080;
+        }
+    </style>
+
+</head>
+<body>
+    <div id="root"></div>
+    <script id="table-template" type="text/x-handlebars-template">
+        <table>
+            <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Title</th>
+                    <th>Date #1</th>
+                    <th>Date #2</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each cellsInformation}}
+                <tr>
+                    <td>{{number}}</td>
+                    <td>{{title}}</td>
+                    <td>{{dateOne}}</td>
+                    <td>{{dateTwo}}</td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+    </script>
+
+    <script>
+        var cellsInformation = [
+            {
+                number: 0,
+                title: 'Course Introduction',
+                dateOne: 'Wed 18:00 28-May-2014',
+                dateTwo: 'THu 14:00 29-May-2014'
+            },
+            {
+                number: 1,
+                title: 'Document Object Model',
+                dateOne: 'Wed 18:00 28-May-2014',
+                dateTwo: 'THu 14:00 29-May-2014'
+            },
+             {
+                 number: 2,
+                 title: 'HTML5 Canvas',
+                 dateOne: 'Wed 18:00 28-May-2014',
+                 dateTwo: 'THu 14:00 29-May-2014'
+             },
+              {
+                  number: 3,
+                  title: 'KineticJS',
+                  dateOne: 'Wed 18:00 28-May-2014',
+                  dateTwo: 'THu 14:00 29-May-2014'
+              },
+               {
+                   number: 4,
+                   title: 'SVG',
+                   dateOne: 'Wed 18:00 28-May-2014',
+                   dateTwo: 'THu 14:00 29-May-2014'
+               },
+              {
+                  number: 5,
+                  title: 'Animation',
+                  dateOne: 'Wed 18:00 28-May-2014',
+                  dateTwo: 'THu 14:00 29-May-2014'
+              },
+        ];
+
+        var postTemplateHTML = document.getElementById('table-template').innerHTML;
+        var postTemplate = Handlebars.compile(postTemplateHTML);
+        document.getElementById('root').innerHTML = postTemplate({ cellsInformation: cellsInformation });
+
+    </script>
+
+</body>
+</html>

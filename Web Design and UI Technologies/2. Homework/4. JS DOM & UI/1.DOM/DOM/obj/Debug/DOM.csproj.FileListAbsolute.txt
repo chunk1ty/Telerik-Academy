@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\1.DOM\DOM\bin\DOM.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\1.DOM\DOM\bin\DOM.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\1.DOM\DOM\bin\DOM.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\1.DOM\DOM\obj\Debug\DOM.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\1.DOM\DOM\obj\Debug\DOM.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\4. JS DOM & UI\1.DOM\DOM\obj\Debug\DOM.pdb

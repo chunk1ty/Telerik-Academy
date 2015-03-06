@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        var textA = "<upcase>We are <mixcase>living</mixcase> in</upcase> a <upcase>yellow submarine</upcase>. We <mixcase>don't</mixcase> have <lowcase>anything</lowcase> else. We are <mixcase>living</mixcase> in a <upcase>yellow submarine</upcase>. We <mixcase>don't</mixcase> have <lowcase>anything</lowcase> else.";
+       
+
+
+        function tagReplace(text) {
+            var result = text.replace(/<upcase>(.*?)<\/upcase>/gi, function (match, p1) {
+                return p1.toUpperCase()
+            });
+            result = result.replace(/<lowcase>(.*?)<\/lowcase>/gi, function (match, p1) {
+                return p1.toLowerCase()
+            });
+            result = result.replace(/<mixcase>(.*?)<\/mixcase>/gi, function (match, p1) {
+                return generateMixCase(p1)
+            });
+            return result;
+        }
+
+
+        function matchAnk(text) {
+            var result = text.match(/<upcase>(.*?)<\/upcase>/gi);
+            var tempArray = new Array(result.length);
+            var stringAnk = '';
+
+            for (var i = 0; i < result.length; i++) {
+                var firstIndex = result[i].indexOf('>');
+                var lastIndex = result[i].lastIndexOf('<');
+                stringAnk = '';
+                for (var j = firstIndex + 1; j < lastIndex; j++) {
+                    var currentChar =  result[i][j];
+                    stringAnk += currentChar;
+                }
+
+                tempArray[i] = stringAnk;
+            }
+            
+            return tempArray;
+        }
+       
+
+        // mix case generator
+        function generateMixCase(word) {
+            var outWord = "";
+            for (var i = 0; i < word.length; i++) {
+                if (Math.random() * 10 > 5) {
+                    outWord += word[i].toUpperCase();
+                }
+                else {
+                    outWord += word[i].toLowerCase();
+                }
+            }
+            return outWord;
+        }
+       
+        var result = tagReplace(textA);
+
+        var ankk = matchAnk(textA);
+
+        //console.log(result);
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

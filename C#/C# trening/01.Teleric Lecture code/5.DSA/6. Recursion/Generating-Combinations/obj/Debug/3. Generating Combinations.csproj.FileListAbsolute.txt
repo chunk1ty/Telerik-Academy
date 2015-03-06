@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\Generating-Combinations\bin\Debug\Generating-Combinations.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\Generating-Combinations\bin\Debug\Generating-Combinations.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\Generating-Combinations\obj\Debug\3. Generating Combinations.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\Generating-Combinations\obj\Debug\Generating-Combinations.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\6. Recursion\Generating-Combinations\obj\Debug\Generating-Combinations.pdb

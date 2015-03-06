@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\TestCodeFragments\bin\Debug\TestCodeFragments.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\TestCodeFragments\bin\Debug\TestCodeFragments.exe
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\TestCodeFragments\bin\Debug\TestCodeFragments.pdb
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\TestCodeFragments\obj\Debug\TestCodeFragments.exe
+D:\chunk1ty\C#\c# trening\Teleric\CSharpPart1ExamPreparation\TestCodeFragments\obj\Debug\TestCodeFragments.pdb

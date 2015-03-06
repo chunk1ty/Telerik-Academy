@@ -1,0 +1,1 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\Multidimensional Arrays\PrintMatrix\bin\Debug\PrintMatrix.exe.config

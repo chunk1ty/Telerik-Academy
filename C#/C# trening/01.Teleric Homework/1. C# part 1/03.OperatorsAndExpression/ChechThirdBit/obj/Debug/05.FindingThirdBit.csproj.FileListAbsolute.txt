@@ -1,0 +1,8 @@
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\ChechThirdBit\bin\Debug\ChechThirdBit.exe.config
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\ChechThirdBit\bin\Debug\ChechThirdBit.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\ChechThirdBit\bin\Debug\ChechThirdBit.pdb
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\ChechThirdBit\obj\Debug\ChechThirdBit.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\ChechThirdBit\obj\Debug\ChechThirdBit.pdb
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\ChechThirdBit\bin\Debug\ChechThirdBit.exe.config
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\ChechThirdBit\obj\Debug\ChechThirdBit.exe
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\ChechThirdBit\obj\Debug\ChechThirdBit.pdb

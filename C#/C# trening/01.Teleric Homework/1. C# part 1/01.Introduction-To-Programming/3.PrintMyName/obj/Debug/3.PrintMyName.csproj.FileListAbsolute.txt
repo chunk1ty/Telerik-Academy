@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\3.PrintMyName\bin\Debug\3.PrintMyName.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\3.PrintMyName\bin\Debug\3.PrintMyName.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\3.PrintMyName\bin\Debug\3.PrintMyName.pdb
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\3.PrintMyName\obj\Debug\3.PrintMyName.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\3.PrintMyName\obj\Debug\3.PrintMyName.pdb
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\3.PrintMyName\obj\Debug\3.PrintMyName.csprojResolveAssemblyReference.cache

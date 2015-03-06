@@ -1,0 +1,5 @@
+C:\Users\Andriyan Krastev\Desktop\Exam\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Andriyan Krastev\Desktop\Exam\Sorting\bin\Debug\Sorting.exe
+C:\Users\Andriyan Krastev\Desktop\Exam\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Andriyan Krastev\Desktop\Exam\Sorting\obj\Debug\Sorting.exe
+C:\Users\Andriyan Krastev\Desktop\Exam\Sorting\obj\Debug\Sorting.pdb

@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\AddsTwoPositiveInteger\bin\Debug\AddsTwoPositiveInteger.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\AddsTwoPositiveInteger\bin\Debug\AddsTwoPositiveInteger.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\AddsTwoPositiveInteger\bin\Debug\AddsTwoPositiveInteger.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\AddsTwoPositiveInteger\obj\Debug\08.AddsTwoPositiveInteger.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\AddsTwoPositiveInteger\obj\Debug\AddsTwoPositiveInteger.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\AddsTwoPositiveInteger\obj\Debug\AddsTwoPositiveInteger.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\AddsTwoPositiveInteger\bin\Debug\AddsTwoPositiveInteger.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\AddsTwoPositiveInteger\obj\Debug\AddsTwoPositiveInteger.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\AddsTwoPositiveInteger\obj\Debug\AddsTwoPositiveInteger.pdb

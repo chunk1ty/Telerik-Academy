@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\QuickSort\bin\Debug\QuickSort.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\QuickSort\bin\Debug\QuickSort.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\QuickSort\bin\Debug\QuickSort.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\QuickSort\obj\Debug\14.QuickSort.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\QuickSort\obj\Debug\QuickSort.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\QuickSort\obj\Debug\QuickSort.pdb

@@ -1,0 +1,6 @@
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\PointIsWithinCircle\bin\Debug\PointIsWithinCircle.exe.config
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\PointIsWithinCircle\bin\Debug\PointIsWithinCircle.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\PointIsWithinCircle\bin\Debug\PointIsWithinCircle.pdb
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\PointIsWithinCircle\obj\Debug\06.PointIsWithinCircle.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\PointIsWithinCircle\obj\Debug\PointIsWithinCircle.exe
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\PointIsWithinCircle\obj\Debug\PointIsWithinCircle.pdb

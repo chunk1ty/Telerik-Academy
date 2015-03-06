@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        function solve(input) {
+            var firstLine = input[0].split(' ');
+            var row = parseInt(firstLine[0]);
+            var col = parseInt(firstLine[1]);
+            var currentPositionRow = 0;
+            var currentPositionCol = 0;
+
+            var matrixWithDigits = [];
+            var matrixWithDirections = [];
+            var counter = 1;
+            var sum = 0;
+            var direction = '';
+
+            parseMatrices();
+
+            while (true) {
+                if (!isInRange()) {
+                    return console.log('successed with ' + sum);
+                }
+                if (matrixWithDirections[currentPositionRow][currentPositionCol] === 'X') {
+                    return console.log('failed at (' + currentPositionRow + ', ' + currentPositionCol + ')');
+                }
+
+                sum += matrixWithDigits[currentPositionRow][currentPositionCol];
+                
+                var currentDir = matrixWithDirections[currentPositionRow][currentPositionCol];
+
+                matrixWithDirections[currentPositionRow][currentPositionCol] = 'X';
+
+                directions(currentDir);
+            }
+
+            function parseMatrices() {
+                for (var i = 0; i < row; i++) {
+                    matrixWithDigits[i] = [];
+                    matrixWithDirections[i] = [];
+                    var currentLine = input[i + 1].split(' ');
+                    for (var j = 0; j < col; j++) {
+                        matrixWithDigits[i][j] = counter;
+                        counter++;
+
+                        matrixWithDirections[i][j] = currentLine[j];
+                    }
+                    counter = 0;
+                    counter = 1 << i + 1;
+                }
+            }
+
+            function directions(dir) {
+                switch (dir) {
+                    case 'ul': currentPositionRow -= 1;
+                        currentPositionCol -= 1;
+                        break;
+                    case 'ur': currentPositionRow -= 1;
+                        currentPositionCol += 1;
+                        break;
+                    case 'dl': currentPositionRow += 1;
+                        currentPositionCol -= 1;
+                        break;
+                    case 'dr': currentPositionRow += 1;
+                        currentPositionCol += 1;
+                        break;
+                    default:
+                        console.log('incorrect input');
+                        break;
+                }
+            }
+
+            function isInRange() {
+                if (currentPositionRow >= 0 && currentPositionRow < row && currentPositionCol >=0 && currentPositionCol < col ) {
+                    return true;
+                }
+
+                return false;
+            }
+
+            console.log(sum);
+        }
+
+        var args = [
+          '3 5',
+          'dr dl dr ur ul',
+          'dr dr ul ur ur',
+          'dl dr ur dl ur'
+        ]
+
+       var args1 = [
+  '3 5',
+  'dr dl dl ur ul',
+  'dr dr ul ul ur',
+  'dl dr ur dl ur'
+        ]
+
+       var test1 = [
+           '2 4',
+'dr dr ul dl',
+'dl ur dl dr'
+
+       ]
+
+       var test2 = [
+           '2 55',
+'dr ur dr dr dr dr ur ur dr dr ur dl dr dr ur dr dl dr ur ur ul dr dl dr ul dr dl dr ur dl ur dr ur ul dl dr ur ur ul ul ul dr dr dl dl dr ul dl ul dl dl dl ur ul ul',
+'ur ur dl ul dl ur dr dr dr ul dr ur ur dr dr dl ur ur dl dl ur dl dr ur ur ul dr ul ur dl ur dl dl dr ul ul ur dl ul ur ur dr dl ur ul dl dr ul ul dl ul ur ul dl dr'
+
+       ]
+
+       solve(test2)
+    </script>
+</head>
+<body>
+
+</body>
+</html>

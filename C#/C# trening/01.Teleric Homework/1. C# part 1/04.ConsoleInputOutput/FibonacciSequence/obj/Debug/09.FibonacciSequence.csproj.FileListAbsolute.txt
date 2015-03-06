@@ -1,0 +1,5 @@
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\FibonacciSequence\bin\Debug\FibonacciSequence.exe.config
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\FibonacciSequence\bin\Debug\FibonacciSequence.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\FibonacciSequence\bin\Debug\FibonacciSequence.pdb
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\FibonacciSequence\obj\Debug\FibonacciSequence.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\FibonacciSequence\obj\Debug\FibonacciSequence.pdb

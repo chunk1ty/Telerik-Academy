@@ -1,0 +1,9 @@
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\BitsExchanges\bin\Debug\BitsExchanges.exe.config
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\BitsExchanges\bin\Debug\BitsExchanges.exe
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\BitsExchanges\bin\Debug\BitsExchanges.pdb
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\BitsExchanges\obj\Debug\13.BitsExchanges.csprojResolveAssemblyReference.cache
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\BitsExchanges\obj\Debug\BitsExchanges.exe
+Z:\C#\c# trening\Teleric\3.OperatorsAndExpression\BitsExchanges\obj\Debug\BitsExchanges.pdb
+D:\chunk1ty\C#\c# trening\Teleric\3.OperatorsAndExpression\BitsExchanges\bin\Debug\BitsExchanges.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\3.OperatorsAndExpression\BitsExchanges\obj\Debug\BitsExchanges.exe
+D:\chunk1ty\C#\c# trening\Teleric\3.OperatorsAndExpression\BitsExchanges\obj\Debug\BitsExchanges.pdb

@@ -1,0 +1,60 @@
+﻿   
+/* reset */
+th,tr,td,table,div,p, body 
+{
+	margin: 0;
+	padding: 0;
+}
+
+table, td, th {
+    border-collapse: collapse;
+    padding: 5px 30px 5px 5px;
+    margin: 10px;     
+}
+
+th {
+    background-color: #56b906;
+    color: white;
+    font-weight: normal;
+    text-align: left;
+    border: 1px solid black;
+}
+
+td {
+    font-weight: normal;
+    text-align: left;
+    border-left: 1px solid black;
+    border-right: 1px solid black;       
+}
+
+tr:last-child{
+    border-bottom: 1px solid black;   
+}
+
+tr:nth-child(2n){
+    background-color: #ececd8;
+}
+
+/* flags */
+.flagGermany
+{
+	background-image:url('../2.Task/GF.jpg');
+	background-repeat: no-repeat;
+	background-position: 5px;
+    padding-left: 40px;
+}
+.flagMexico
+{
+	background-image:url('../2.Task/MF.jpg');
+	background-repeat: no-repeat;
+	background-position: 5px;
+    padding-left: 40px;
+	
+}
+.flagUK
+{
+	background-image:url('../2.Task/EF.jpg');
+	background-repeat: no-repeat;
+	background-position: 5px;
+    padding-left: 40px;
+}

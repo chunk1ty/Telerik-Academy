@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\UsingClassesAndObjects\TenRandomsNumbers\bin\Debug\TenRandomsNumbers.exe.config
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\UsingClassesAndObjects\TenRandomsNumbers\bin\Debug\TenRandomsNumbers.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\UsingClassesAndObjects\TenRandomsNumbers\bin\Debug\TenRandomsNumbers.pdb
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\UsingClassesAndObjects\TenRandomsNumbers\obj\Debug\TenRandomsNumbers.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\UsingClassesAndObjects\TenRandomsNumbers\obj\Debug\TenRandomsNumbers.pdb

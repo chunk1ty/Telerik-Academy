@@ -1,0 +1,1 @@
+C:\Users\Andriyan\Desktop\ExtensionMethodsLambdaExpressionsAndLINQ\ExtensionSubstring\bin\Debug\ExtensionSubstring.exe.config

@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function Person(name) {
+            var self = this;
+            self.name = name;
+            self.getName = function getPersonName() {
+                var text = this;
+                console.log('ank');
+                return text;
+            }
+        }
+        var p =new Person("Peter");
+        
+        console.log(p);
+    </script>
+    
+</body>
+</html>
+<!--
+    <script src="01. function-constructors.js"></script>
+
+    <script src="02. prototype.js"></script>
+    <script src="03. object-members.js"></script>
+    <script src="04. different-method-instances.js"></script>
+    <script src="05. attaching-methods-prototype.js"></script>
+    <script src="06. this-function-scope.js"></script>
+    <script src="07. function-constructor-without-new.js"></script>
+    <script src="08. function-constructor-fix.js"></script>
+    <script src="09. constructors-with-modules.js"></script>
+    <script src="10. hidden-functions.js"></script>
+-->

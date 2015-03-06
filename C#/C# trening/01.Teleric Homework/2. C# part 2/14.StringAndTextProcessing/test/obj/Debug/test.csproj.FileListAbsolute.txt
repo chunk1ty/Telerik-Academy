@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\test\bin\Debug\test.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\test\bin\Debug\test.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\test\bin\Debug\test.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\test\obj\Debug\test.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\test\obj\Debug\test.pdb

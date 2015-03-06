@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DoubleBasePalindromes\bin\Debug\DoubleBasePalindromes.exe.config
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DoubleBasePalindromes\bin\Debug\DoubleBasePalindromes.exe
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DoubleBasePalindromes\bin\Debug\DoubleBasePalindromes.pdb
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DoubleBasePalindromes\obj\Debug\36.DoubleBasePalindromes.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DoubleBasePalindromes\obj\Debug\DoubleBasePalindromes.exe
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DoubleBasePalindromes\obj\Debug\DoubleBasePalindromes.pdb

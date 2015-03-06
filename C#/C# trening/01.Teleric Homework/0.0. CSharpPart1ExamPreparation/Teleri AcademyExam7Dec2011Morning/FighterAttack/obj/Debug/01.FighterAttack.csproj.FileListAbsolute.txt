@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\FighterAttack\bin\Debug\FighterAttack.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\FighterAttack\bin\Debug\FighterAttack.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\FighterAttack\bin\Debug\FighterAttack.pdb
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\FighterAttack\obj\Debug\01.FighterAttack.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\FighterAttack\obj\Debug\FighterAttack.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\Teleri AcademyExam7Dec2011Morning\FighterAttack\obj\Debug\FighterAttack.pdb

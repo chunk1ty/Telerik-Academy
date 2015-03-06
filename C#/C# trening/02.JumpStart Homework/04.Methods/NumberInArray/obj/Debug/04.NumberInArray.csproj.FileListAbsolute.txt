@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\NumberInArray\bin\Debug\NumberInArray.exe.config
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\NumberInArray\bin\Debug\NumberInArray.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\NumberInArray\bin\Debug\NumberInArray.pdb
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\NumberInArray\obj\Debug\NumberInArray.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\NumberInArray\obj\Debug\NumberInArray.pdb

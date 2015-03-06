@@ -1,0 +1,8 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\CountGivenNumber\bin\Debug\CountGivenNumber.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\CountGivenNumber\bin\Debug\CountGivenNumber.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\CountGivenNumber\bin\Debug\CountGivenNumber.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\CountGivenNumber\obj\Debug\CountGivenNumber.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\CountGivenNumber\obj\Debug\CountGivenNumber.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\CountGivenNumber\bin\Debug\CountGivenNumber.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\CountGivenNumber\obj\Debug\CountGivenNumber.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\CountGivenNumber\obj\Debug\CountGivenNumber.pdb

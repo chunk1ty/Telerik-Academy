@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\FeaturingWithGrisko\bin\Debug\FeaturingWithGrisko.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\FeaturingWithGrisko\bin\Debug\FeaturingWithGrisko.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\FeaturingWithGrisko\bin\Debug\FeaturingWithGrisko.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\FeaturingWithGrisko\obj\Debug\05.FeaturingWithGrisko.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\FeaturingWithGrisko\obj\Debug\FeaturingWithGrisko.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Morning\FeaturingWithGrisko\obj\Debug\FeaturingWithGrisko.pdb

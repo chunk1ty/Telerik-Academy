@@ -1,0 +1,5 @@
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\PrintNOnSingleLine\bin\Debug\PrintNOnSingleLine.exe.config
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\PrintNOnSingleLine\bin\Debug\PrintNOnSingleLine.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\PrintNOnSingleLine\bin\Debug\PrintNOnSingleLine.pdb
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\PrintNOnSingleLine\obj\Debug\PrintNOnSingleLine.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\PrintNOnSingleLine\obj\Debug\PrintNOnSingleLine.pdb

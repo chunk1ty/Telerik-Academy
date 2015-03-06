@@ -1,0 +1,6 @@
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFactorials\bin\Debug\DigitFactorials.exe.config
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFactorials\bin\Debug\DigitFactorials.exe
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFactorials\bin\Debug\DigitFactorials.pdb
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFactorials\obj\Debug\34.DigitFactorials.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFactorials\obj\Debug\DigitFactorials.exe
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFactorials\obj\Debug\DigitFactorials.pdb

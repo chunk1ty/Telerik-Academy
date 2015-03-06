@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\ReverseString\bin\Debug\ReverseString.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\ReverseString\obj\Debug\ReverseString.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\ReverseString\obj\Debug\ReverseString.pdb

@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\GenericListNamespace\bin\Debug\GenericListNamespace.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\GenericListNamespace\bin\Debug\GenericListNamespace.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\GenericListNamespace\bin\Debug\GenericListNamespace.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\GenericListNamespace\obj\Debug\02.GenericListNamespace.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\GenericListNamespace\obj\Debug\GenericListNamespace.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\16.Defining Classes Part II\GenericListNamespace\GenericListNamespace\obj\Debug\GenericListNamespace.pdb

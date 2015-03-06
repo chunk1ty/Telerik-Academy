@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+    (function () {
+        function generateTagCloud(tags, minFontSize, maxFontSize) {
+            var tagsOccurences = [];
+            for (var i = 0; i < tags.length; i++) {
+                var currentTag = tags[i].toLowerCase();
+                if (tagsOccurences[currentTag] === undefined) {
+                    tagsOccurences[currentTag] = 1;
+                }
+                else {
+                    tagsOccurences[currentTag]++;
+                }
+            }
+            var mostCommon = countMostOrLeastOccurence(tagsOccurences, "most");
+            var leastCommon = countMostOrLeastOccurence(tagsOccurences, "least");
+            var tagCloud = document.createElement("div");
+            tagCloud.style.width = "200px";
+            for (var tag in tagsOccurences) {
+                var elementFontSize = calculateFontSize(tagsOccurences[tag], minFontSize, maxFontSize, mostCommon, leastCommon);
+                var cloudElement = document.createElement("span");
+                cloudElement.style.fontSize = elementFontSize + "px";
+                cloudElement.appendChild(document.createTextNode(tag + ' '));
+                console.log(cloudElement.style.fontSize);
+                tagCloud.appendChild(cloudElement);
+            }
+            return tagCloud;
+        }
+        function countMostOrLeastOccurence(tagsOccurences, mostOrLeast) {
+            var mostCommon = -1;
+            var leastCommon = 99999;
+            for (var tag in tagsOccurences) {
+                var numberOfOccurences = tagsOccurences[tag];
+                if (numberOfOccurences > mostCommon) {
+                    mostCommon = numberOfOccurences;
+                }
+                if (numberOfOccurences < leastCommon) {
+                    leastCommon = numberOfOccurences;
+                }
+            }
+            if (mostOrLeast === "most") {
+                return mostCommon;
+            }
+            if (mostOrLeast === "least") {
+                return leastCommon;
+            }
+        }
+        function calculateFontSize(numberOfOccurences, minFontSize, maxFontSize, mostCommon, leastCommon) {
+            return minFontSize + ((numberOfOccurences - leastCommon) / (mostCommon - leastCommon)) * (maxFontSize - minFontSize);
+        }
+        var tags =
+                [
+                    "cms", "javascript", "js", "ASP.NET MVC", ".net",
+                    ".net", "css", "wordpress", "xaml", "js", "http",
+                    "web", "asp.net", "asp.net MVC", "ASP.NET MVC",
+                    "wp", "javascript", "js", "cms", "html", "javascript",
+                    "http", "http", "CMS", "c++", "java", "JAVASCRIPT", "c",
+                    "C++", "Python", "php", "php", "php", "web", "web", "php", "zend", "symphony", "python",
+                    "pearl", "c++", ".net", "c", ".net", "ajax", "xml", ".net",
+                    ".net", "c++", "c++", "c++", "c++", "c++", "cms", "CMS", "CmS"
+                ];
+        var tagCloud = generateTagCloud(tags, 17, 43);
+        document.body.appendChild(tagCloud);
+    }());
+    </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function printNumbers() {
+            var someArray = [10, 20, 17, -10, -17, 33, 101, 23, -1, 0, 69];
+            var min = someArray[0],
+                max = someArray[0];
+
+            for (var i = 0; i < someArray.length; i++) {
+                if (someArray[i] >= max) {
+                    max = someArray[i];
+                }
+                if (someArray[i] <= min) {
+                    min = someArray[i];
+                }
+            }
+
+            console.log('min =>' + min + 'max =>' + max);
+        }
+    </script>
+</head>
+<body>    
+    <a href="#" onclick="printNumbers()">Print</a>
+</body>
+</html>

@@ -1,0 +1,1 @@
+C:\chunk1ty\C#\c# trening\Teleric\OperatorsAndExpression\ChechForPrimeNumber\bin\Debug\ChechForPrimeNumber.exe.config

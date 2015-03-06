@@ -1,0 +1,8 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\BiDictionaryTask\obj\Debug\03.BiDictionaryTask.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\BiDictionaryTask\bin\Debug\BiDictionaryTask.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\BiDictionaryTask\bin\Debug\BiDictionaryTask.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\BiDictionaryTask\bin\Debug\BiDictionaryTask.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\BiDictionaryTask\bin\Debug\PowerCollections.dll
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\BiDictionaryTask\bin\Debug\PowerCollections.xml
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\BiDictionaryTask\obj\Debug\BiDictionaryTask.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\45. Data Structures Efficiency\BiDictionaryTask\obj\Debug\BiDictionaryTask.pdb

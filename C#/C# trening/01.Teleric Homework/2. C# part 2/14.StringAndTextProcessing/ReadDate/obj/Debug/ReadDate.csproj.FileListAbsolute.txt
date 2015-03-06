@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReadDate\bin\Debug\ReadDate.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReadDate\bin\Debug\ReadDate.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReadDate\bin\Debug\ReadDate.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReadDate\obj\Debug\ReadDate.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReadDate\obj\Debug\ReadDate.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\14.StringAndTextProcessing\ReadDate\obj\Debug\ReadDate.csprojResolveAssemblyReference.cache

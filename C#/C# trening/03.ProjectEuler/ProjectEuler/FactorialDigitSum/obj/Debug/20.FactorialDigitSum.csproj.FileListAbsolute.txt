@@ -1,0 +1,5 @@
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\FactorialDigitSum\bin\Debug\FactorialDigitSum.exe.config
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\FactorialDigitSum\bin\Debug\FactorialDigitSum.exe
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\FactorialDigitSum\bin\Debug\FactorialDigitSum.pdb
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\FactorialDigitSum\obj\Debug\FactorialDigitSum.exe
+C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\FactorialDigitSum\obj\Debug\FactorialDigitSum.pdb

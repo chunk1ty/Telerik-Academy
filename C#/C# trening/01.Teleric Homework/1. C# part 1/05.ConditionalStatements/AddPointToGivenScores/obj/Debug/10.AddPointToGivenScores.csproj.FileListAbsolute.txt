@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\AddPointToGivenScores\bin\Debug\AddPointToGivenScores.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\AddPointToGivenScores\bin\Debug\AddPointToGivenScores.exe
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\AddPointToGivenScores\bin\Debug\AddPointToGivenScores.pdb
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\AddPointToGivenScores\obj\Debug\10.AddPointToGivenScores.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\AddPointToGivenScores\obj\Debug\AddPointToGivenScores.exe
+D:\chunk1ty\C#\c# trening\Teleric\5.ConditionalStatements\AddPointToGivenScores\obj\Debug\AddPointToGivenScores.pdb

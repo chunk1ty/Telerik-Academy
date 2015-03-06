@@ -1,0 +1,1 @@
+Z:\C#\c# trening\Teleric\4.ConsoleInputOutput\CalculateSum\bin\Debug\CalculateSum.exe.config

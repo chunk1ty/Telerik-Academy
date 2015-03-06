@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\SurfaceOfTriangle\bin\Debug\SurfaceOfTriangle.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\SurfaceOfTriangle\bin\Debug\SurfaceOfTriangle.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\SurfaceOfTriangle\bin\Debug\SurfaceOfTriangle.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\SurfaceOfTriangle\obj\Debug\04.SurfaceOfTriangle.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\SurfaceOfTriangle\obj\Debug\SurfaceOfTriangle.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\SurfaceOfTriangle\obj\Debug\SurfaceOfTriangle.pdb

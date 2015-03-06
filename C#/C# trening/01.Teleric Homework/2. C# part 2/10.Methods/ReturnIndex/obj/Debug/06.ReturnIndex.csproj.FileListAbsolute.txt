@@ -1,0 +1,8 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReturnIndex\bin\Debug\ReturnIndex.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReturnIndex\bin\Debug\ReturnIndex.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReturnIndex\bin\Debug\ReturnIndex.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReturnIndex\obj\Debug\ReturnIndex.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\Methods\ReturnIndex\obj\Debug\ReturnIndex.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\ReturnIndex\bin\Debug\ReturnIndex.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\ReturnIndex\obj\Debug\ReturnIndex.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\10.Methods\ReturnIndex\obj\Debug\ReturnIndex.pdb

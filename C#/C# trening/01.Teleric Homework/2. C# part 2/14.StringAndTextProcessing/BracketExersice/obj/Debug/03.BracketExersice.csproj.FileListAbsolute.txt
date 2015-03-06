@@ -1,0 +1,8 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\BracketExersice\bin\Debug\BracketExersice.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\BracketExersice\bin\Debug\BracketExersice.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\BracketExersice\bin\Debug\BracketExersice.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\BracketExersice\obj\Debug\BracketExersice.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\StringAndTextProcessing\BracketExersice\obj\Debug\BracketExersice.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\14.StringAndTextProcessing\BracketExersice\bin\Debug\BracketExersice.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\14.StringAndTextProcessing\BracketExersice\obj\Debug\BracketExersice.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\14.StringAndTextProcessing\BracketExersice\obj\Debug\BracketExersice.pdb

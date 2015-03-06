@@ -1,0 +1,28 @@
+//Вземане на буква в началото или края на string в масив от string-ове и долепянето и с друга пак в началото или края 
+//Пример за вземане на последната буква и долепянето и
+//{"Fun", "exam", "right"} -> "nmt" -> {"Fu", "exa", "righ"} -> "nmtuah" -> {"F", "ex", "rig"} -> "nmtuahFxg" -> {"e", "ri"} -> "nmtuahFxgei" -> {"r"} ->   final result -> nmtuahFxgeir.
+
+
+string input = "Fun exam right";
+string[] inputAsString = input.Split(' ');
+
+StringBuilder lastLetter = new StringBuilder();
+StringBuilder firstLetter = new StringBuilder();
+
+int maxLenWord = LongestWordLength(inputAsString);
+
+for (int i = 0; i < maxLenWord; i++)
+{
+	for (int j = 0; j < inputAsString.Length; j++)
+	{
+		string currentWord = inputAsString[j];
+		if (currentWord.Length > i)
+		{
+			int lastIndex = currentWord.Length - 1 - i;
+			lastLetter.Append(currentWord[lastIndex]); 
+			// вземане на 1вата буква			
+			firstLetter.Append(currentWord[i]);
+		}
+		
+	}
+}

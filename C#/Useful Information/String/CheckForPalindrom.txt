@@ -1,0 +1,13 @@
+static bool IsPalindrome(string src)
+    {
+        bool palindrome = true;
+        for (int i = 0; i < src.Length / 2 + 1; i++)
+        {
+            if (src[i] != src[src.Length - i - 1])
+            {
+                palindrome = false;
+                break;
+            }
+        }
+        return palindrome;
+    }

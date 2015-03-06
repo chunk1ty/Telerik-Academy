@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\42. Trees and Traversals\TreesAndTraversals\TraverseDirectoryTask\bin\Debug\TraverseDirectoryTask.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\42. Trees and Traversals\TreesAndTraversals\TraverseDirectoryTask\bin\Debug\TraverseDirectoryTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\42. Trees and Traversals\TreesAndTraversals\TraverseDirectoryTask\bin\Debug\TraverseDirectoryTask.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\42. Trees and Traversals\TreesAndTraversals\TraverseDirectoryTask\obj\Debug\02.TraverseDirectoryTask.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\42. Trees and Traversals\TreesAndTraversals\TraverseDirectoryTask\obj\Debug\TraverseDirectoryTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\42. Trees and Traversals\TreesAndTraversals\TraverseDirectoryTask\obj\Debug\TraverseDirectoryTask.pdb

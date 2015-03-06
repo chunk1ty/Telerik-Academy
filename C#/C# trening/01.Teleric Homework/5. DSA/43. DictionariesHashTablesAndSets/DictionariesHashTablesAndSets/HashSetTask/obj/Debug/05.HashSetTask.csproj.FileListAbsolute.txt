@@ -1,0 +1,8 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\HashSetTask\bin\Debug\HashSetTask.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\HashSetTask\bin\Debug\HashSetTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\HashSetTask\bin\Debug\HashSetTask.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\HashSetTask\bin\Debug\HashTable.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\HashSetTask\bin\Debug\HashTable.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\HashSetTask\obj\Debug\05.HashSetTask.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\HashSetTask\obj\Debug\HashSetTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\HashSetTask\obj\Debug\HashSetTask.pdb

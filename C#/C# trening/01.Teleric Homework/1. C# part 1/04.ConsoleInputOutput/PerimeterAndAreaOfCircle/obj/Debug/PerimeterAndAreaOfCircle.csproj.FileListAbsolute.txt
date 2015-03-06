@@ -1,0 +1,5 @@
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\PerimeterAndAreaOfCircle\bin\Debug\PerimeterAndAreaOfCircle.exe.config
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\PerimeterAndAreaOfCircle\bin\Debug\PerimeterAndAreaOfCircle.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\PerimeterAndAreaOfCircle\bin\Debug\PerimeterAndAreaOfCircle.pdb
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\PerimeterAndAreaOfCircle\obj\Debug\PerimeterAndAreaOfCircle.exe
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\PerimeterAndAreaOfCircle\obj\Debug\PerimeterAndAreaOfCircle.pdb

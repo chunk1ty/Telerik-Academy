@@ -1,0 +1,6 @@
+C:\Users\EnikA\Desktop\MyFirstSolution\02.DateTimeManipulation\bin\Debug\02.DateTimeManipulation.exe.config
+C:\Users\EnikA\Desktop\MyFirstSolution\02.DateTimeManipulation\bin\Debug\02.DateTimeManipulation.exe
+C:\Users\EnikA\Desktop\MyFirstSolution\02.DateTimeManipulation\bin\Debug\02.DateTimeManipulation.pdb
+C:\Users\EnikA\Desktop\MyFirstSolution\02.DateTimeManipulation\obj\Debug\02.DateTimeManipulation.csprojResolveAssemblyReference.cache
+C:\Users\EnikA\Desktop\MyFirstSolution\02.DateTimeManipulation\obj\Debug\02.DateTimeManipulation.exe
+C:\Users\EnikA\Desktop\MyFirstSolution\02.DateTimeManipulation\obj\Debug\02.DateTimeManipulation.pdb

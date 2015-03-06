@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\00.CSharpPart1ExamPreparation\4feb2013Morning\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\FarTree\bin\Debug\FarTree.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\FarTree\bin\Debug\FarTree.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\FarTree\bin\Debug\FarTree.pdb
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\FarTree\obj\Debug\03.FarTree.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\FarTree\obj\Debug\FarTree.exe
+D:\chunk1ty\C#\c# trening\Teleric\00.CSharpPart1ExamPreparation\TelerikAcademyExam6Dec2011Morning\FarTree\obj\Debug\FarTree.pdb

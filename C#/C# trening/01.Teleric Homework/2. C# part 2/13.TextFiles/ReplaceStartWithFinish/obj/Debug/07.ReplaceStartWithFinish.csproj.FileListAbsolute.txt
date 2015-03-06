@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReplaceStartWithFinish\bin\Debug\ReplaceStartWithFinish.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReplaceStartWithFinish\bin\Debug\ReplaceStartWithFinish.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReplaceStartWithFinish\bin\Debug\ReplaceStartWithFinish.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReplaceStartWithFinish\obj\Debug\07.ReplaceStartWithFinish.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReplaceStartWithFinish\obj\Debug\ReplaceStartWithFinish.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReplaceStartWithFinish\obj\Debug\ReplaceStartWithFinish.pdb

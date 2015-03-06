@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Variations+Repetitions\bin\Debug\Variations+Repetitions.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Variations+Repetitions\bin\Debug\Variations+Repetitions.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Variations+Repetitions\obj\Debug\1. Variations+Repetitions.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Variations+Repetitions\obj\Debug\Variations+Repetitions.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Lecture code\5.DSA\7. Combinatorics\Variations+Repetitions\obj\Debug\Variations+Repetitions.pdb

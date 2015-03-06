@@ -1,0 +1,9 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.pdb

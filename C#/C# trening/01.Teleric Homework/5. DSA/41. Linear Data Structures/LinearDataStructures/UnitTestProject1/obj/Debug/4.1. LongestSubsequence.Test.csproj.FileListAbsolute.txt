@@ -1,0 +1,7 @@
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\UnitTestProject1\obj\Debug\4.1. LongestSubsequence.Test.csprojResolveAssemblyReference.cache
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\UnitTestProject1\bin\Debug\LongestSubsequence.exe
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\UnitTestProject1\bin\Debug\LongestSubsequence.pdb
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

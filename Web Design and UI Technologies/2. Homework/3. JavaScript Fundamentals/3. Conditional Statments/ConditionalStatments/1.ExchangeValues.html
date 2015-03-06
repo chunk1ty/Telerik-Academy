@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function onChangeValues() {
+            var firstNumber = parseInt(document.getElementById('getFirstNumber').value),
+                secondNumber = parseInt(document.getElementById('getSecondNumber').value);
+
+            if (firstNumber > secondNumber) {
+                firstNumber ^= secondNumber;
+                secondNumber ^= firstNumber;
+                firstNumber ^= secondNumber;
+            }
+
+            console.log('First number => ' + firstNumber);
+            console.log('Second number => '+ secondNumber);
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="getFirstNumber" placeholder="Enter first number" />
+    <input type="text" id="getSecondNumber" placeholder="Enter second number"/>
+    <a href="#" onclick="onChangeValues()">Change</a>
+
+</body>
+</html>

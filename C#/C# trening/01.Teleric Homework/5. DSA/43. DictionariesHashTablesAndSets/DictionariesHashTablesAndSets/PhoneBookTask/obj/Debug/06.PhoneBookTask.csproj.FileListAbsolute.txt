@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\PhoneBookTask\bin\Debug\PhoneBookTask.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\PhoneBookTask\bin\Debug\PhoneBookTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\PhoneBookTask\bin\Debug\PhoneBookTask.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\PhoneBookTask\obj\Debug\06.PhoneBookTask.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\PhoneBookTask\obj\Debug\PhoneBookTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\5. DSA\43. DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\PhoneBookTask\obj\Debug\PhoneBookTask.pdb

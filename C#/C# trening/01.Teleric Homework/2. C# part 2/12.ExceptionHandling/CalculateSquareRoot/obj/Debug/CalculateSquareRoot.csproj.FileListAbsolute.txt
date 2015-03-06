@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb

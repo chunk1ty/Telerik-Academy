@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\c# trening\Teleric\Loop\PrintNumberFrom1ToN\bin\Debug\PrintNumberFrom1ToN.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\Loop\PrintNumberFrom1ToN\bin\Debug\PrintNumberFrom1ToN.exe
+D:\chunk1ty\C#\c# trening\Teleric\Loop\PrintNumberFrom1ToN\bin\Debug\PrintNumberFrom1ToN.pdb
+D:\chunk1ty\C#\c# trening\Teleric\Loop\PrintNumberFrom1ToN\obj\Debug\01.PrintNumberFrom1ToN.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\Loop\PrintNumberFrom1ToN\obj\Debug\PrintNumberFrom1ToN.exe
+D:\chunk1ty\C#\c# trening\Teleric\Loop\PrintNumberFrom1ToN\obj\Debug\PrintNumberFrom1ToN.pdb
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintNumberFrom1ToN\bin\Debug\PrintNumberFrom1ToN.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintNumberFrom1ToN\obj\Debug\PrintNumberFrom1ToN.exe
+D:\chunk1ty\C#\c# trening\Teleric\6.Loop\PrintNumberFrom1ToN\obj\Debug\PrintNumberFrom1ToN.pdb

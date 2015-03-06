@@ -1,0 +1,6 @@
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\IntegerOccurInArray\bin\Debug\IntegerOccurInArray.exe.config
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\IntegerOccurInArray\obj\Debug\IntegerOccurInArray.csprojResolveAssemblyReference.cache
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\IntegerOccurInArray\bin\Debug\IntegerOccurInArray.exe
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\IntegerOccurInArray\bin\Debug\IntegerOccurInArray.pdb
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\IntegerOccurInArray\obj\Debug\IntegerOccurInArray.exe
+C:\_chunk1ty\C# trening\01.Teleric Homework\5. DSA\41. Linear Data Structures\LinearDataStructures\IntegerOccurInArray\obj\Debug\IntegerOccurInArray.pdb

@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+        function calculateRoots() {
+            var a = parseInt(document.getElementById('firtsNumber').value),
+                b = parseInt(document.getElementById('secondNumber').value),
+                c = parseInt(document.getElementById('thirdNumber').value),
+                d = '',
+                x = '',
+                x1 = '',
+                x2 = '';
+
+            d = b * b - 4 * a * c;
+
+            if (d > 0) {
+                x1 = (-b + Math.sqrt(d)) / (2 * a);
+                x2 = (-b - Math.sqrt(d)) / (2 * a);
+                console.log('x1 => ' + x1 + ' x2 => ' + x2);
+            }
+            else if (d === 0) {
+                x = -b / (2 * a);
+                console.log('x => ' + x);
+            }
+            else {
+                console.log('Discriminant is negative!');
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="firtsNumber" placeholder="Enter the first number" />
+    <input type="text" id="secondNumber" placeholder="Enter the second number" />
+    <input type="text" id="thirdNumber" placeholder="Enter the third number" />
+    <a href="#" onclick="calculateRoots()">Calculate</a>
+</body>
+</html>

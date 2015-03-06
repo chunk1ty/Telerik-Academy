@@ -1,0 +1,12 @@
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\CompareTwoArrays\bin\Debug\CompareTwoArrays.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\CompareTwoArrays\bin\Debug\CompareTwoArrays.exe
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\CompareTwoArrays\bin\Debug\CompareTwoArrays.pdb
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\CompareTwoArrays\obj\Debug\02.CompareTwoArrays.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\CompareTwoArrays\obj\Debug\CompareTwoArrays.exe
+D:\chunk1ty\C#\c# trening\Teleric\Arrays\CompareTwoArrays\obj\Debug\CompareTwoArrays.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\CompareTwoArrays\bin\Debug\CompareTwoArrays.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\CompareTwoArrays\obj\Debug\CompareTwoArrays.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\CompareTwoArrays\obj\Debug\CompareTwoArrays.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\CompareTwoArrays\bin\Debug\CompareTwoArrays.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\CompareTwoArrays\obj\Debug\CompareTwoArrays.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\CompareTwoArrays\obj\Debug\CompareTwoArrays.pdb

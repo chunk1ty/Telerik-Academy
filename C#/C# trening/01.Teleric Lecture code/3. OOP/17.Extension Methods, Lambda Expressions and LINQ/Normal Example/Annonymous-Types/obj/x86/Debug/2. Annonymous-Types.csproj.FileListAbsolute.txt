@@ -1,0 +1,7 @@
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Annonymous-Types\bin\Debug\Annonymous-Types.exe
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Annonymous-Types\bin\Debug\Annonymous-Types.pdb
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Annonymous-Types\obj\x86\Debug\2. Annonymous-Types.csprojResolveAssemblyReference.cache
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Annonymous-Types\obj\x86\Debug\Annonymous-Types.exe
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ-Demos\Annonymous-Types\obj\x86\Debug\Annonymous-Types.pdb
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension\Extension-Methods-Delegates-Lambda-LINQ-Demos\Annonymous-Types\obj\x86\Debug\Annonymous-Types.exe
+C:\Projects\OOP\2014\Lectures\3. Extension-Methods-Delegates-Lambda-LINQ\Extension\Extension-Methods-Delegates-Lambda-LINQ-Demos\Annonymous-Types\obj\x86\Debug\Annonymous-Types.pdb

@@ -1,0 +1,18 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\CodeFormatting\CodeFormattingTask\bin\Debug\CodeFormattingTask.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\CodeFormatting\CodeFormattingTask\obj\Debug\CodeFormattingTask.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\CodeFormatting\CodeFormattingTask\bin\Debug\CodeFormattingTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\CodeFormatting\CodeFormattingTask\bin\Debug\CodeFormattingTask.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\CodeFormatting\CodeFormattingTask\bin\Debug\PowerCollections.dll
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\CodeFormatting\CodeFormattingTask\bin\Debug\PowerCollections.xml
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\CodeFormatting\CodeFormattingTask\obj\Debug\CodeFormattingTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\CodeFormatting\CodeFormattingTask\obj\Debug\CodeFormattingTask.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\22. Code Formatting\CodeFormattingTask\bin\Debug\CodeFormattingTask.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\22. Code Formatting\CodeFormattingTask\obj\Debug\CodeFormattingTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\22. Code Formatting\CodeFormattingTask\obj\Debug\CodeFormattingTask.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\22. Code Formatting\CodeFormattingTask\bin\Debug\CodeFormattingTask.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\22. Code Formatting\CodeFormattingTask\bin\Debug\CodeFormattingTask.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\22. Code Formatting\CodeFormattingTask\bin\Debug\PowerCollections.dll
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\22. Code Formatting\CodeFormattingTask\bin\Debug\PowerCollections.xml
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\22. Code Formatting\CodeFormattingTask\obj\Debug\CodeFormattingTask.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\22. Code Formatting\CodeFormattingTask\bin\Debug\CodeFormattingTask.exe.CodeAnalysisLog.xml
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\22. Code Formatting\CodeFormattingTask\bin\Debug\CodeFormattingTask.exe.lastcodeanalysissucceeded

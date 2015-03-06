@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\2. CSS\3.Layout\Layouts\Layouts\bin\Layouts.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\2. CSS\3.Layout\Layouts\Layouts\bin\Layouts.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\2. CSS\3.Layout\Layouts\Layouts\bin\Layouts.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\2. CSS\3.Layout\Layouts\Layouts\obj\Debug\Layouts.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\2. CSS\3.Layout\Layouts\Layouts\obj\Debug\Layouts.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\2. CSS\3.Layout\Layouts\Layouts\obj\Debug\Layouts.pdb

@@ -1,0 +1,4 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\DataValidation\bin\Debug\DataValidation.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\DataValidation\bin\Debug\DataValidation.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\DataValidation\obj\Debug\DataValidation.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\DataValidation\obj\Debug\DataValidation.pdb

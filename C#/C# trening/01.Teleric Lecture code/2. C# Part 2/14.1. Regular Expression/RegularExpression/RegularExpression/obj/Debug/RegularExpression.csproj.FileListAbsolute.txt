@@ -1,0 +1,6 @@
+C:\Users\Andriyan\Desktop\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe.config
+C:\Users\Andriyan\Desktop\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe
+C:\Users\Andriyan\Desktop\RegularExpression\RegularExpression\bin\Debug\RegularExpression.pdb
+C:\Users\Andriyan\Desktop\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan\Desktop\RegularExpression\RegularExpression\obj\Debug\RegularExpression.exe
+C:\Users\Andriyan\Desktop\RegularExpression\RegularExpression\obj\Debug\RegularExpression.pdb

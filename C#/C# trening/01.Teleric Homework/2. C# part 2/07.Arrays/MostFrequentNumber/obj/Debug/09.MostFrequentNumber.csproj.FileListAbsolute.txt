@@ -1,0 +1,9 @@
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MostFrequentNumber\obj\Debug\09.MostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+C:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+D:\chunk1ty\C#\c# trening\01.Teleric\7.Arrays\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

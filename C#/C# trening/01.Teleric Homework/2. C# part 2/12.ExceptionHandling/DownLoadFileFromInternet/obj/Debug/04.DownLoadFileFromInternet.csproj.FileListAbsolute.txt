@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\DownLoadFileFromInternet\bin\Debug\DownLoadFileFromInternet.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\DownLoadFileFromInternet\bin\Debug\DownLoadFileFromInternet.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\DownLoadFileFromInternet\bin\Debug\DownLoadFileFromInternet.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\DownLoadFileFromInternet\obj\Debug\DownLoadFileFromInternet.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\ExceptionHandling\DownLoadFileFromInternet\obj\Debug\DownLoadFileFromInternet.pdb

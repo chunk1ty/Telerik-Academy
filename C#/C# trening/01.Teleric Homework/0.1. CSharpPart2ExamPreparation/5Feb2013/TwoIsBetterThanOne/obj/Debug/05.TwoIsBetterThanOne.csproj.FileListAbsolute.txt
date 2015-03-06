@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\TwoIsBetterThanOne\bin\Debug\TwoIsBetterThanOne.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\TwoIsBetterThanOne\bin\Debug\TwoIsBetterThanOne.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\TwoIsBetterThanOne\bin\Debug\TwoIsBetterThanOne.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\TwoIsBetterThanOne\obj\Debug\05.TwoIsBetterThanOne.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\TwoIsBetterThanOne\obj\Debug\TwoIsBetterThanOne.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\5Feb2013\TwoIsBetterThanOne\obj\Debug\TwoIsBetterThanOne.pdb

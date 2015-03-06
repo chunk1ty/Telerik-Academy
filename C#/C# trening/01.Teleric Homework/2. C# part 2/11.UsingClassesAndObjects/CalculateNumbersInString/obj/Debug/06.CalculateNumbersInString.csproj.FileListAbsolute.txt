@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\CalculateNumbersInString\bin\Debug\CalculateNumbersInString.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\CalculateNumbersInString\bin\Debug\CalculateNumbersInString.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\CalculateNumbersInString\bin\Debug\CalculateNumbersInString.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\CalculateNumbersInString\obj\Debug\CalculateNumbersInString.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\11.UsingClassesAndObjects\CalculateNumbersInString\obj\Debug\CalculateNumbersInString.pdb

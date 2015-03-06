@@ -1,0 +1,1 @@
+Z:\C#\c# trening\Teleric\ConsoleInputOutput\GreaterThanTwoNumbers\bin\Debug\GreaterThanTwoNumbers.exe.config

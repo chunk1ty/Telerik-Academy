@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\PrintNumbers\obj\Debug\PrintNumbers.pdb

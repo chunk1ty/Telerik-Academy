@@ -1,0 +1,10 @@
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MultidimensionalArraysHomework\FromMatrixToArrayColumn\bin\Debug\FromMatrixToArrayColumn.exe.config
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MultidimensionalArraysHomework\FromMatrixToArrayColumn\bin\Debug\FromMatrixToArrayColumn.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MultidimensionalArraysHomework\FromMatrixToArrayColumn\bin\Debug\FromMatrixToArrayColumn.pdb
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MultidimensionalArraysHomework\FromMatrixToArrayColumn\obj\Debug\FromMatrixToArrayColumn.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MultidimensionalArraysHomework\FromMatrixToArrayColumn\obj\Debug\FromMatrixToArrayColumn.pdb
+C:\chunk1ty\C#\MultidimensionalArraysHomework\FromMatrixToArrayColumn\bin\Debug\FromMatrixToArrayColumn.exe.config
+C:\chunk1ty\C#\MultidimensionalArraysHomework\FromMatrixToArrayColumn\obj\Debug\FromMatrixToArrayColumn.exe
+C:\chunk1ty\C#\MultidimensionalArraysHomework\FromMatrixToArrayColumn\obj\Debug\FromMatrixToArrayColumn.pdb
+C:\chunk1ty\C#\MultidimensionalArraysHomework\FromMatrixToArrayColumn\bin\Debug\FromMatrixToArrayColumn.exe
+C:\chunk1ty\C#\MultidimensionalArraysHomework\FromMatrixToArrayColumn\bin\Debug\FromMatrixToArrayColumn.pdb

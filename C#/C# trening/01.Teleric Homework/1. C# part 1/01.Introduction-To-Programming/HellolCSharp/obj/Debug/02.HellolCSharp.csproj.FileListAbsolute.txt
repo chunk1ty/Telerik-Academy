@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\HellolCSharp\bin\Debug\HellolCSharp.exe.config
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\HellolCSharp\obj\Debug\HellolCSharp.exe
+D:\chunk1ty\C#\c# trening\Teleric\1.Introduction-To-Programming\HellolCSharp\obj\Debug\HellolCSharp.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.Introduction-To-Programming\HellolCSharp\bin\Debug\HellolCSharp.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.Introduction-To-Programming\HellolCSharp\obj\Debug\HellolCSharp.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.Introduction-To-Programming\HellolCSharp\obj\Debug\HellolCSharp.pdb

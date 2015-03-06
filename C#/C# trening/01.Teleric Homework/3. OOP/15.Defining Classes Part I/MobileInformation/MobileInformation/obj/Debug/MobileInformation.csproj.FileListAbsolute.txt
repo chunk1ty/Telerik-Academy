@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\15.Defining Classes Part I\MobileInformation\MobileInformation\bin\Debug\MobileInformation.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\15.Defining Classes Part I\MobileInformation\MobileInformation\bin\Debug\MobileInformation.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\15.Defining Classes Part I\MobileInformation\MobileInformation\bin\Debug\MobileInformation.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\15.Defining Classes Part I\MobileInformation\MobileInformation\obj\Debug\MobileInformation.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\15.Defining Classes Part I\MobileInformation\MobileInformation\obj\Debug\MobileInformation.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\15.Defining Classes Part I\MobileInformation\MobileInformation\obj\Debug\MobileInformation.pdb

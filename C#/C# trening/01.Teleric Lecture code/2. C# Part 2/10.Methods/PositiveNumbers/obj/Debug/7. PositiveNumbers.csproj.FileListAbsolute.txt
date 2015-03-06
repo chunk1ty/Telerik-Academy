@@ -1,0 +1,4 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\PositiveNumbers\bin\Debug\PositiveNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\PositiveNumbers\bin\Debug\PositiveNumbers.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\PositiveNumbers\obj\Debug\PositiveNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\PositiveNumbers\obj\Debug\PositiveNumbers.pdb

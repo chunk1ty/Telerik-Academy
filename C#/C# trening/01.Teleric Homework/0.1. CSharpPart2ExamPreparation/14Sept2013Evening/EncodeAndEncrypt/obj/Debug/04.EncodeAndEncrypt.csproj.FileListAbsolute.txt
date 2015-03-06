@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\EncodeAndEncrypt\obj\Debug\04.EncodeAndEncrypt.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\14Sept2013Evening\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.pdb

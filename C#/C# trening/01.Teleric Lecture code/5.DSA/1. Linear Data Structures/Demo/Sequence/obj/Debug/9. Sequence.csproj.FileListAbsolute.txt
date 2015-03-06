@@ -1,0 +1,5 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\5.DSA\1. Linear Data Structures\Sequence\bin\Debug\Sequence.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\5.DSA\1. Linear Data Structures\Sequence\bin\Debug\Sequence.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\5.DSA\1. Linear Data Structures\Sequence\obj\Debug\9. Sequence.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\5.DSA\1. Linear Data Structures\Sequence\obj\Debug\Sequence.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\5.DSA\1. Linear Data Structures\Sequence\obj\Debug\Sequence.pdb

@@ -1,0 +1,4 @@
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\PrintLogo\bin\Debug\PrintLogo.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\PrintLogo\bin\Debug\PrintLogo.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\PrintLogo\obj\Debug\PrintLogo.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Lecture code\10.Methods\PrintLogo\obj\Debug\PrintLogo.pdb

@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script>
+
+        (function () {
+            if (!Array.prototype.remove) {
+                Array.prototype.remove = function (value) {
+                    var currentArray = [];
+                    for (var i = 0; i < this.length; i++) {
+                        if (this[i] !== value) {
+                            currentArray.push(this[i]);
+                        }
+                    }
+
+                    return currentArray;
+                }
+            }
+        })();
+
+        var array = [1, 1, 1, 1, 2, 6, 7, 8];
+
+        var newarr = array.remove(1);
+
+        for (var i in newarr) {
+            console.log(newarr[i]);
+        }
+       
+    </script>
+</head>
+<body>
+
+</body>
+</html>

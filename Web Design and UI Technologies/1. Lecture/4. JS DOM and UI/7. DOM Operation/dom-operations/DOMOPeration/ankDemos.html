@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+</head>
+<body>
+    <header>
+        <div>
+            <div id="innerDiv">
+                <h1>Ank</h1>
+            </div>
+        </div>
+    </header>
+    <content>
+        <div>
+            <ul id="ulList"><li>1</li><li>2</li>
+                <li>3</li>
+                <li>4</li>
+                <li>5</li>
+                <li>6</li>
+            </ul>
+        </div>
+    </content>
+
+    <script>
+        var list = document.getElementById('ulList');
+        var body = document.body;
+
+        console.log(list.firstChild.nextElementSibling.innerHTML);
+        //console.log(body.childElementCount);
+    </script>
+
+</body>
+</html>

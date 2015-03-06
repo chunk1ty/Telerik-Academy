@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PandigitalPrime\bin\Debug\PandigitalPrime.exe.config
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PandigitalPrime\bin\Debug\PandigitalPrime.exe
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PandigitalPrime\bin\Debug\PandigitalPrime.pdb
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PandigitalPrime\obj\Debug\41.PandigitalPrime.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PandigitalPrime\obj\Debug\PandigitalPrime.exe
+D:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\PandigitalPrime\obj\Debug\PandigitalPrime.pdb

@@ -1,0 +1,6 @@
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\ReverseDecimalNumber\bin\Debug\ReverseDecimalNumber.exe.config
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\ReverseDecimalNumber\bin\Debug\ReverseDecimalNumber.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\ReverseDecimalNumber\bin\Debug\ReverseDecimalNumber.pdb
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\ReverseDecimalNumber\obj\Debug\ReverseDecimalNumber.exe
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\ReverseDecimalNumber\obj\Debug\ReverseDecimalNumber.pdb
+D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\ReverseDecimalNumber\obj\Debug\07.ReverseDecimalNumber.csprojResolveAssemblyReference.cache
