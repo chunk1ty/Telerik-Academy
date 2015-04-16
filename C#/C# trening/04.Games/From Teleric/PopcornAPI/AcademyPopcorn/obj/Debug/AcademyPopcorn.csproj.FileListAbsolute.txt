@@ -24,3 +24,8 @@ D:\chunk1ty\C#\C# trening\04.Games\From Teleric\PopcornAPI\AcademyPopcorn\obj\De
 D:\chunk1ty\C#\C# trening\04.Games\From Teleric\PopcornAPI\AcademyPopcorn\bin\Debug\AcademyPopcorn.exe
 D:\chunk1ty\C#\C# trening\04.Games\From Teleric\PopcornAPI\AcademyPopcorn\bin\Debug\AcademyPopcorn.pdb
 D:\chunk1ty\C#\C# trening\04.Games\From Teleric\PopcornAPI\AcademyPopcorn\obj\Debug\AcademyPopcorn.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From Teleric\PopcornAPI\AcademyPopcorn\obj\Debug\AcademyPopcorn.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From Teleric\PopcornAPI\AcademyPopcorn\obj\Debug\AcademyPopcorn.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From Teleric\PopcornAPI\AcademyPopcorn\bin\Debug\AcademyPopcorn.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From Teleric\PopcornAPI\AcademyPopcorn\bin\Debug\AcademyPopcorn.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From Teleric\PopcornAPI\AcademyPopcorn\obj\Debug\AcademyPopcorn.csprojResolveAssemblyReference.cache

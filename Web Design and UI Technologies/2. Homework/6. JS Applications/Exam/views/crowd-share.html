@@ -1,0 +1,36 @@
+<div id="crowd-share-container">
+    <p>
+        Hello, wellcome to Crowd Share!
+        <button id="logout-button"> Log out. </button>
+    </p>
+
+    <div id="user-posts-control">
+        <button id="get-all-posts-button"> Show all posts. </button>
+        <button id="get-posts-ordered-by-date-button"> Show posts ordered by date. </button>
+        <button id="get-posts-ordered-by-title-button"> Show posts ordered by title. </button>
+        <button id="hide-all-posts-button"> Hide all posts.</button>
+    </div>
+
+    <div id="post-creation-form">
+        <label for="post-title"> Enter post title: </label>
+        <input type="text" id="post-title" required="required"/>
+
+        <label for="post-body"> Enter post content: </label>
+        <input type="text" id="post-body" required="required"/>
+
+        <button id="post-create-button"> Post to Crowd Share. </button>
+    </div>
+
+    <label for="search-by-username-input"> Enter username to search: </label>
+    <input type="text" id="search-by-username-input">
+    <button id="search-by-username-button"> Search by username </button> <br>
+
+    <label for="search-by-pattern-input"> Enter keywords to search: </label>
+    <input type="text" id="search-by-pattern-input">
+    <button id="search-by-pattern-button"> Search </button>
+
+    <p> If you want to search by username and keywords, enter them in the above text fields and click the button bellow. </p>
+    <button id="search-by-both-button">Search by username and keywords</button>
+
+    <div id="posts"></div>
+</div>

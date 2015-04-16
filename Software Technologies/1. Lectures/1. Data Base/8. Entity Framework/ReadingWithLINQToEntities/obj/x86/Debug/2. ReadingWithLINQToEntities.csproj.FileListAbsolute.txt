@@ -1,0 +1,9 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\8. Entity Framework\ReadingWithLINQToEntities\bin\Debug\ReadingWithLINQToEntities.exe.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\8. Entity Framework\ReadingWithLINQToEntities\bin\Debug\ReadingWithLINQToEntities.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\8. Entity Framework\ReadingWithLINQToEntities\bin\Debug\ReadingWithLINQToEntities.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\8. Entity Framework\ReadingWithLINQToEntities\bin\Debug\EntityFramework.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\8. Entity Framework\ReadingWithLINQToEntities\bin\Debug\UsingEntityFrameworkModel.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\8. Entity Framework\ReadingWithLINQToEntities\bin\Debug\UsingEntityFrameworkModel.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\8. Entity Framework\ReadingWithLINQToEntities\obj\x86\Debug\2. ReadingWithLINQToEntities.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\8. Entity Framework\ReadingWithLINQToEntities\obj\x86\Debug\ReadingWithLINQToEntities.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\8. Entity Framework\ReadingWithLINQToEntities\obj\x86\Debug\ReadingWithLINQToEntities.pdb

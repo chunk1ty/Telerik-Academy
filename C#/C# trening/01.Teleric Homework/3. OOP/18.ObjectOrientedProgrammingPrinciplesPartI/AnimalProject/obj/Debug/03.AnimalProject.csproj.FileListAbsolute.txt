@@ -3,3 +3,5 @@ D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesP
 D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\AnimalProject\bin\Debug\AnimalProject.pdb
 D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\AnimalProject\obj\Debug\AnimalProject.exe
 D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\AnimalProject\obj\Debug\AnimalProject.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\3. OOP\18.ObjectOrientedProgrammingPrinciplesPartI\AnimalProject\obj\Debug\AnimalProject.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\3. OOP\18.ObjectOrientedProgrammingPrinciplesPartI\AnimalProject\obj\Debug\AnimalProject.pdb

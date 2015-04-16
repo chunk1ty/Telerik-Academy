@@ -4,3 +4,6 @@ D:\chunk1ty\C#\c# trening\JumpStart\Hangman\Hangman\bin\Debug\Hangman.pdb
 D:\chunk1ty\C#\c# trening\JumpStart\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
 D:\chunk1ty\C#\c# trening\JumpStart\Hangman\Hangman\obj\Debug\Hangman.exe
 D:\chunk1ty\C#\c# trening\JumpStart\Hangman\Hangman\obj\Debug\Hangman.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From JumpStart\Hangman\Hangman\bin\Debug\Hangman.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From JumpStart\Hangman\Hangman\obj\Debug\Hangman.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From JumpStart\Hangman\Hangman\obj\Debug\Hangman.pdb

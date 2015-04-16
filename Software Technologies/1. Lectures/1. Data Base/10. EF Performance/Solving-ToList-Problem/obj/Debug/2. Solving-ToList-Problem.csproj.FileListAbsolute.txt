@@ -1,0 +1,1 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\10. EF Performance\Solving-ToList-Problem\bin\Debug\Solving-ToList-Problem.exe.config

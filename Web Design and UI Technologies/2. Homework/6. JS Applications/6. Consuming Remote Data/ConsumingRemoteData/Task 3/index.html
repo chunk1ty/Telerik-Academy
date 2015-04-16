@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head lang="en">
+    <title>Students</title>
+    <meta charset="utf-8" />
+    <script src="../libs/jquery-2.0.2.js"></script>
+    <script src="../libs/q.min.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <button id="get-students-button">Get Students</button>
+        <br />
+
+        <label for="student-name">Student name</label>
+        <input type="text" id="student-name" placeholder="Enter student name" required/>
+        <label for="student-grade">Student grade</label>
+        <input type="text" id="student-grade" placeholder="Enter student name" required />
+        <button id="add-student-button">Add Student</button>        
+        <br />
+
+        <label for="student-id">Student for delete</label>
+        <input type="text" id="student-id" placeholder="Enter student id " required />
+        <button id="delete-student-button">Delete</button>        
+        <br />
+
+        <div id="container"></div>        
+    </div>    
+    <script src="httpRequester.js"></script>
+    <script src="manageStudents.js"></script>
+</body>
+</html>

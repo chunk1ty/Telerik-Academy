@@ -1,0 +1,113 @@
+﻿<Window x:Class="UserInterface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login/Register" 
+        Height="400" 
+        Width="500"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="214*"/>
+            <ColumnDefinition Width="303*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="155*"/>
+            <RowDefinition Height="164*"/>
+        </Grid.RowDefinitions>
+        <Button 
+            Content="Login" 
+            Click="Login_Click" 
+            Grid.Column="1" 
+            HorizontalAlignment="Left" 
+            Margin="30,110,0,0" 
+            VerticalAlignment="Top" 
+            Width="111" 
+            Height="34"/>
+        <Button 
+            Content="Register"
+            Click="Register_Click"
+            Grid.Column="1" 
+            HorizontalAlignment="Left" 
+            Margin="30,122,0,0" 
+            VerticalAlignment="Top" 
+            Width="111" Height="34" 
+            Grid.Row="1"/>
+        <TextBox 
+            Name="Username"  
+            Grid.Column="1" 
+            HorizontalAlignment="Left" 
+            Height="23" 
+            Margin="30,40,0,0"  
+            VerticalAlignment="Top" 
+            Width="192"/>
+        <PasswordBox
+            PasswordChar="*"
+            Name="Password" 
+            Grid.Column="1" 
+            VerticalAlignment="Top" 
+            HorizontalAlignment="Left"
+            Height="23" 
+            Margin="30,68,0,0" 
+            Width="192"
+            />
+
+        <TextBox 
+            Name="RegisterUsername" 
+            Grid.Column="1" 
+            Grid.Row="1" 
+            VerticalAlignment="Top" 
+            HorizontalAlignment="Left" 
+            Height="23" 
+            Margin="30,23,0,0"  
+            Width="192"/>
+        <PasswordBox
+            PasswordChar="*"
+            Name="RegisterPassword" 
+            Grid.Column="1" 
+            Grid.Row="1" 
+            VerticalAlignment="Top" 
+            HorizontalAlignment="Left"
+            Height="23" 
+            Margin="30,51,0,0"  
+            Width="192"/>
+        <PasswordBox
+            PasswordChar="*"
+            Name="RePassword"
+            Grid.Column="1" 
+            Grid.Row="1" 
+            HorizontalAlignment="Left" 
+            VerticalAlignment="Top" 
+            Height="23" Width="192" 
+            Margin="30,79,0,0" />
+        <Label 
+            Content="_Username:" 
+            Target="{Binding ElementName=Username}"
+            HorizontalAlignment="Left" Margin="109,36,0,0" 
+            VerticalAlignment="Top"/>
+        <Label 
+            Content="_Password:" 
+            Target="{Binding ElementName=Password}"  
+            HorizontalAlignment="Left" 
+            Margin="109,65,0,0" 
+            VerticalAlignment="Top"/>
+        <Label 
+            Content="_Username" 
+            Target="{Binding ElementName=RegisterUsername}" 
+            HorizontalAlignment="Left" Margin="109,19,0,0" 
+            Grid.Row="1" VerticalAlignment="Top"/>
+        <Label 
+            Content="_Password" 
+            Target="{Binding ElementName=RegisterPassword}"
+            HorizontalAlignment="Left" Margin="109,47,0,0" Grid.Row="1"
+            VerticalAlignment="Top"/>
+        <Label
+            Content="_Re Password:" 
+            Target="{Binding ElementName=RePassword}"
+            HorizontalAlignment="Left" Margin="109,75,0,0" Grid.Row="1" 
+            VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

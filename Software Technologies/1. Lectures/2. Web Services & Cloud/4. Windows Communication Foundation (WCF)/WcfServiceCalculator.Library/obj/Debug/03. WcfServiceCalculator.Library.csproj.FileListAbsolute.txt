@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\4. Windows Communication Foundation (WCF)\WcfServiceCalculator.Library\bin\Debug\WcfServiceCalculator.Library.dll.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\4. Windows Communication Foundation (WCF)\WcfServiceCalculator.Library\bin\Debug\WcfServiceCalculator.Library.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\4. Windows Communication Foundation (WCF)\WcfServiceCalculator.Library\bin\Debug\WcfServiceCalculator.Library.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\4. Windows Communication Foundation (WCF)\WcfServiceCalculator.Library\obj\Debug\WcfServiceCalculator.Library.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\4. Windows Communication Foundation (WCF)\WcfServiceCalculator.Library\obj\Debug\WcfServiceCalculator.Library.pdb

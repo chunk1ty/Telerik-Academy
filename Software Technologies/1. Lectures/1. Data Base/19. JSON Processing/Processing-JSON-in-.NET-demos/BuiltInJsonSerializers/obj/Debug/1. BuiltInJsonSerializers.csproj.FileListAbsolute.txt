@@ -1,0 +1,10 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\BuiltInJsonSerializers\bin\Debug\BuiltInJsonSerializers.exe.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\BuiltInJsonSerializers\bin\Debug\BuiltInJsonSerializers.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\BuiltInJsonSerializers\bin\Debug\BuiltInJsonSerializers.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\BuiltInJsonSerializers\bin\Debug\DemoModels.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\BuiltInJsonSerializers\bin\Debug\Newtonsoft.Json.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\BuiltInJsonSerializers\bin\Debug\DemoModels.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\BuiltInJsonSerializers\bin\Debug\Newtonsoft.Json.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\BuiltInJsonSerializers\obj\Debug\1. BuiltInJsonSerializers.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\BuiltInJsonSerializers\obj\Debug\BuiltInJsonSerializers.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\BuiltInJsonSerializers\obj\Debug\BuiltInJsonSerializers.pdb

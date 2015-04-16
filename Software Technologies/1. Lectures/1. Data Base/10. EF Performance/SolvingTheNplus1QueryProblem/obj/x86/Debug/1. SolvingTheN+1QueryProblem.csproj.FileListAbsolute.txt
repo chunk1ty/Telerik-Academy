@@ -1,0 +1,8 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\10. EF Performance\SolvingTheNplus1QueryProblem\bin\Debug\ResolvingTheNplus1QueryProblem.exe.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\10. EF Performance\SolvingTheNplus1QueryProblem\bin\Debug\ResolvingTheNplus1QueryProblem.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\10. EF Performance\SolvingTheNplus1QueryProblem\bin\Debug\ResolvingTheNplus1QueryProblem.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\10. EF Performance\SolvingTheNplus1QueryProblem\bin\Debug\EntityFramework.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\10. EF Performance\SolvingTheNplus1QueryProblem\bin\Debug\EntityFramework.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\10. EF Performance\SolvingTheNplus1QueryProblem\obj\x86\Debug\1. SolvingTheN+1QueryProblem.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\10. EF Performance\SolvingTheNplus1QueryProblem\obj\x86\Debug\ResolvingTheNplus1QueryProblem.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\10. EF Performance\SolvingTheNplus1QueryProblem\obj\x86\Debug\ResolvingTheNplus1QueryProblem.pdb

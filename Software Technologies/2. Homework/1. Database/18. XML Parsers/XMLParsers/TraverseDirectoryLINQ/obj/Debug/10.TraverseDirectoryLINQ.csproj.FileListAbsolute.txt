@@ -1,0 +1,3 @@
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\TraverseDirectoryLINQ\bin\Debug\TraverseDirectoryLINQ.exe.config
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\TraverseDirectoryLINQ\obj\Debug\TraverseDirectoryLINQ.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\TraverseDirectoryLINQ\obj\Debug\TraverseDirectoryLINQ.pdb

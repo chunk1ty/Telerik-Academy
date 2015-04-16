@@ -3,3 +3,5 @@ D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesP
 D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\BankAccounts\bin\Debug\BankAccounts.pdb
 D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\BankAccounts\obj\Debug\BankAccounts.exe
 D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartII\BankAccounts\obj\Debug\BankAccounts.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\3. OOP\19.ObjectOrientedProgrammingPrinciplesPartII\BankAccounts\obj\Debug\BankAccounts.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\3. OOP\19.ObjectOrientedProgrammingPrinciplesPartII\BankAccounts\obj\Debug\BankAccounts.pdb

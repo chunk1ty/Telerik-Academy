@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\2. Asp.Net Web Api\Kenov Bunnies\BunniesCraft.Models\bin\Debug\BunniesCraft.Models.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\2. Asp.Net Web Api\Kenov Bunnies\BunniesCraft.Models\bin\Debug\BunniesCraft.Models.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\2. Asp.Net Web Api\Kenov Bunnies\BunniesCraft.Models\obj\Debug\BunniesCraft.Models.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\2. Asp.Net Web Api\Kenov Bunnies\BunniesCraft.Models\obj\Debug\BunniesCraft.Models.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\2. Asp.Net Web Api\Kenov Bunnies\BunniesCraft.Models\obj\Debug\BunniesCraft.Models.pdb

@@ -1,0 +1,27 @@
+//Query1
+select (FirstName + ' ' + LastName) as Name, YearSalary
+from Employees
+where YearSalary between 100000 and 150000
+order by YearSalary asc
+
+//Query 2
+select Name , count(e.Id)
+from Departments d
+	inner join Employees e
+	on d.Id = e.DepartmentId
+group by Name
+
+//Query 3
+ select (FirstName + ' ' + LastName) as FullName, p.Name, d.Name, StartingDate, EndingDate, Count(r.Id)
+from Employees e
+	inner join EmployeesProjects ep
+	on e.id = ep.EmployeeId
+	inner join Projects p
+	on ep.ProjectId = p.Id
+	inner join Departments d
+	on e.DepartmentId = d.Id
+	inner join Reports r
+	on e.Id = r.EmployeeId
+where r.Time between ep.StartingDate and ep.EndingDate	
+group by e.id, p.id, e.FirstName + ' ' + e.LastName, p.Name, d.Name, StartingDate, EndingDate
+order by e.Id, p.Id

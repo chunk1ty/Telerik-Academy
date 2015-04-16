@@ -4,3 +4,9 @@ D:\chunk1ty\C#\c# trening\Games\JustPingPong\TestSomeProgramFragments\bin\Debug\
 D:\chunk1ty\C#\c# trening\Games\JustPingPong\TestSomeProgramFragments\obj\Debug\TestSomeProgramFragments.exe
 D:\chunk1ty\C#\c# trening\Games\JustPingPong\TestSomeProgramFragments\obj\Debug\TestSomeProgramFragments.pdb
 D:\chunk1ty\C#\c# trening\Games\JustPingPong\TestSomeProgramFragments\obj\Debug\TestSomeProgramFragments.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From Teleric\JustPingPong\TestSomeProgramFragments\bin\Debug\TestSomeProgramFragments.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From Teleric\JustPingPong\TestSomeProgramFragments\obj\Debug\TestSomeProgramFragments.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From Teleric\JustPingPong\TestSomeProgramFragments\obj\Debug\TestSomeProgramFragments.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From Teleric\JustPingPong\TestSomeProgramFragments\bin\Debug\TestSomeProgramFragments.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From Teleric\JustPingPong\TestSomeProgramFragments\bin\Debug\TestSomeProgramFragments.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\04.Games\From Teleric\JustPingPong\TestSomeProgramFragments\obj\Debug\TestSomeProgramFragments.csprojResolveAssemblyReference.cache

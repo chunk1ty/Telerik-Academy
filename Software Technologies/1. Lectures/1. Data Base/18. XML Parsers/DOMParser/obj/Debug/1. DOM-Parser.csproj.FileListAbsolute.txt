@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\18. XML Parsers\DOMParser\bin\Debug\DOMParser.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\18. XML Parsers\DOMParser\bin\Debug\DOMParser.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\18. XML Parsers\DOMParser\obj\Debug\1. DOM-Parser.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\18. XML Parsers\DOMParser\obj\Debug\DOMParser.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\18. XML Parsers\DOMParser\obj\Debug\DOMParser.pdb

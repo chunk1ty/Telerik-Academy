@@ -1,0 +1,4 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\Extensions\bin\Debug\Extensions.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\Extensions\bin\Debug\Extensions.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\Extensions\obj\Debug\Extensions.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\Extensions\obj\Debug\Extensions.pdb

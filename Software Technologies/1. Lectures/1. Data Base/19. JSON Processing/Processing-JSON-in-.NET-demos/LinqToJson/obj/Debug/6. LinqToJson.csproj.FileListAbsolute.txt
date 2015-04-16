@@ -1,0 +1,1 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\LinqToJson\bin\Debug\LinqToJson.exe.config

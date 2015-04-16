@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\18. XML Parsers\Modifing-XML-With-DOM\bin\Debug\Modifing-XML-With-DOM.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\18. XML Parsers\Modifing-XML-With-DOM\bin\Debug\Modifing-XML-With-DOM.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\18. XML Parsers\Modifing-XML-With-DOM\obj\Debug\2. Modifing-XML-With-DOM.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\18. XML Parsers\Modifing-XML-With-DOM\obj\Debug\Modifing-XML-With-DOM.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\18. XML Parsers\Modifing-XML-With-DOM\obj\Debug\Modifing-XML-With-DOM.pdb

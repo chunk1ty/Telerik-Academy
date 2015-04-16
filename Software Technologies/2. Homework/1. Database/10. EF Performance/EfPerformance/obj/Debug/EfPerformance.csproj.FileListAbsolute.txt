@@ -1,0 +1,10 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\10. EF Performance\EfPerformance\bin\Debug\EfPerformance.exe.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\10. EF Performance\EfPerformance\bin\Debug\EfPerformance.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\10. EF Performance\EfPerformance\bin\Debug\EfPerformance.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\10. EF Performance\EfPerformance\bin\Debug\EntityFramework.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\10. EF Performance\EfPerformance\bin\Debug\EntityFramework.SqlServer.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\10. EF Performance\EfPerformance\bin\Debug\EntityFramework.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\10. EF Performance\EfPerformance\bin\Debug\EntityFramework.SqlServer.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\10. EF Performance\EfPerformance\obj\Debug\EfPerformance.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\10. EF Performance\EfPerformance\obj\Debug\EfPerformance.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\10. EF Performance\EfPerformance\obj\Debug\EfPerformance.pdb

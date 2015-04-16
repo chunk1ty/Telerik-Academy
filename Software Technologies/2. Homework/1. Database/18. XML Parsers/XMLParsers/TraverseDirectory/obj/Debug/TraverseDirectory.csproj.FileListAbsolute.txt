@@ -1,0 +1,5 @@
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\TraverseDirectory\bin\Debug\TraverseDirectory.exe.config
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\TraverseDirectory\bin\Debug\TraverseDirectory.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\TraverseDirectory\bin\Debug\TraverseDirectory.pdb
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\TraverseDirectory\obj\Debug\TraverseDirectory.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\TraverseDirectory\obj\Debug\TraverseDirectory.pdb

@@ -1,0 +1,1 @@
+C:\Users\Andriyan Krastev\Downloads\ADO.NET-Demos\SqlParameters\bin\Debug\SqlParametersDemo.exe.config

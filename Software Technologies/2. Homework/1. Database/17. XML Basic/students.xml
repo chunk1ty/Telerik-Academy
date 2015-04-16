@@ -1,0 +1,31 @@
+<?xml version="1.0"> 
+
+<students xmlns:students="urn:http://www.tochkadochkatochkacom.com">
+	<student>
+		<name> Andriyan Krastev </name>
+		<sex> Male </sex>
+		<birth-date>17.12.1992</birth-date>
+		<phone> 12345678 </phone>
+		<email> gg@abv.bg </phone>
+		<course> 4 </course>
+		<speciality> KST </speciality>
+		<faculty-number> 123456 </faculty-number>
+		<exams>
+			<exam>
+				<exam-name>OOP</exam-name>
+				<tutor>pesho</tutor>
+				<score>2</score>
+			</exam>
+			<exam>
+				<exam-name>JS</exam-name>
+				<tutor>gosho</tutor>
+				<score>3</score>
+			</exam>
+			<exam>
+				<exam-name>Database</exam-name>
+				<tutor>gosho</tutor>
+				<score>2</score>
+			</exam>
+		</exams>
+	</student>
+</students>

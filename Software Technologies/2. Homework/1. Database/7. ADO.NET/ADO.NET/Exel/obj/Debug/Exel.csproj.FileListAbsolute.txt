@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\8. ADO.NET\ADO.NET\Exel\bin\Debug\Exel.exe.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\8. ADO.NET\ADO.NET\Exel\bin\Debug\Exel.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\8. ADO.NET\ADO.NET\Exel\bin\Debug\Exel.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\8. ADO.NET\ADO.NET\Exel\obj\Debug\Exel.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\8. ADO.NET\ADO.NET\Exel\obj\Debug\Exel.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\8. ADO.NET\ADO.NET\Exel\obj\Debug\Exel.pdb

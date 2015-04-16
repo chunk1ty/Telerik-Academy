@@ -1,0 +1,12 @@
+C:\Users\Andriyan Krastev\Desktop\Chat\bin\Chat.dll.config
+C:\Users\Andriyan Krastev\Desktop\Chat\bin\Chat.dll
+C:\Users\Andriyan Krastev\Desktop\Chat\bin\Chat.pdb
+C:\Users\Andriyan Krastev\Desktop\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\Chat\obj\Debug\Chat.dll
+C:\Users\Andriyan Krastev\Desktop\Chat\obj\Debug\Chat.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\9. SPA\Chat\bin\Chat.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\9. SPA\Chat\bin\Chat.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\9. SPA\Chat\bin\Chat.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\9. SPA\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\9. SPA\Chat\obj\Debug\Chat.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\9. SPA\Chat\obj\Debug\Chat.pdb

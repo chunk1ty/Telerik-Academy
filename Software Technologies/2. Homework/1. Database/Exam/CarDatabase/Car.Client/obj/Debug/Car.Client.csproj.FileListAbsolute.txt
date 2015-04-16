@@ -1,0 +1,16 @@
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\Car.Client.exe.config
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\Car.Client.exe
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\Car.Client.pdb
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\Car.Data.dll
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\Car.Models.dll
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\EntityFramework.dll
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\Car.Data.pdb
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\Car.Models.pdb
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\EntityFramework.xml
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\obj\Debug\Car.Client.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\obj\Debug\Car.Client.exe
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\obj\Debug\Car.Client.pdb
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Client\bin\Debug\Newtonsoft.Json.xml

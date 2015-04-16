@@ -1,0 +1,1 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\8. Entity Framework\ExecuteSQLQuery\bin\Debug\ExecuteSQLQuery.exe.config

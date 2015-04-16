@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\DemoModels\bin\Debug\DemoModels.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\DemoModels\bin\Debug\DemoModels.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\DemoModels\bin\Debug\Newtonsoft.Json.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\DemoModels\obj\Debug\DemoModels.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\DemoModels\obj\Debug\DemoModels.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\DemoModels\obj\Debug\DemoModels.pdb

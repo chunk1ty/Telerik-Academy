@@ -1,0 +1,69 @@
+﻿#main-content {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: azure;
+    width: 310px;
+    padding: 10px;
+}
+
+#chat-room, #user-menu, #message-send-container {
+    width: 300px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+#user-menu {
+    border-radius: 10px;
+    background-color: antiquewhite;
+    height: 20px;
+    padding-top: 6px;
+    margin-bottom: 10px;
+}
+
+#chat-room {
+    border-radius: 15px;
+    background-color: lightblue;
+    height: 300px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+
+#message-send-container {
+    border-radius: 10px;
+    background-color: antiquewhite;
+    height: 30px;
+}
+
+#login-button, #logout-button {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#logout-button {
+    float: right;
+}
+
+#login-button:hover, #logout-button:hover {
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+}
+
+#send-message-button {
+    font-weight: bold;
+    border-radius: 10px;
+}
+#send-message-button:hover {
+    background-color: black;
+    color: white;
+}
+
+#login-content {
+    padding: 5px;
+    height: 30px;
+    width: 300px;
+    background-color: lightblue;
+    border: 1px solid black;
+    border-radius: 15px;
+}

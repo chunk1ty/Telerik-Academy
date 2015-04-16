@@ -1,0 +1,5 @@
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\AllTitleWithLINQ\bin\Debug\AllTitleWithLINQ.exe.config
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\AllTitleWithLINQ\bin\Debug\AllTitleWithLINQ.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\AllTitleWithLINQ\bin\Debug\AllTitleWithLINQ.pdb
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\AllTitleWithLINQ\obj\Debug\AllTitleWithLINQ.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\AllTitleWithLINQ\obj\Debug\AllTitleWithLINQ.pdb

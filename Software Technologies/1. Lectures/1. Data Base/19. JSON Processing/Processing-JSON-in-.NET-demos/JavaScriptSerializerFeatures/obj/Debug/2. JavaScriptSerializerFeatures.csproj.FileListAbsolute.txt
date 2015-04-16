@@ -1,0 +1,7 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\JavaScriptSerializerFeatures\bin\Debug\JavaScriptSerializerFeatures.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\JavaScriptSerializerFeatures\bin\Debug\JavaScriptSerializerFeatures.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\JavaScriptSerializerFeatures\bin\Debug\Extensions.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\JavaScriptSerializerFeatures\bin\Debug\Extensions.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\JavaScriptSerializerFeatures\obj\Debug\2. JavaScriptSerializerFeatures.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\JavaScriptSerializerFeatures\obj\Debug\JavaScriptSerializerFeatures.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\19. JSON Processing\Processing-JSON-in-.NET-demos\JavaScriptSerializerFeatures\obj\Debug\JavaScriptSerializerFeatures.pdb

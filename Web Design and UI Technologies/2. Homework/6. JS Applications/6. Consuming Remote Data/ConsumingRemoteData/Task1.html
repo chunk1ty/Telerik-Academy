@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="libs/jquery-2.0.2.js"></script>
+    <script src="libs/q.min.js"></script>
+    <script src="httpRequestModule.js"></script>
+</head>
+<body>
+    <div id="result"></div>
+
+
+    <script>
+        //var url = 'http://localhost:3000/students';
+        var url = 'https://api.github.com/users/chunk1ty';
+        requestModule.getJSON(url)
+            .then(function (data) {
+                $('#result')
+                .append(data.id);
+            }, function (error) {
+                $('#result')
+                .append('FATAL ERROR');
+                console.log(error);
+            })
+            .done();
+        var obj = {
+            count: 3,
+            students: ['Andriyan', 'Pesho', 'Gosho']
+        }
+        //requestModule.postJSON(url, obj);
+    </script>
+</body>
+</html>

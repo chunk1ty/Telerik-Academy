@@ -1,0 +1,1 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\9. Entity Framework\EntityFramework\NorthwindData\bin\Debug\NorthwindData.exe.config

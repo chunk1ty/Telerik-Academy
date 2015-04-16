@@ -1,0 +1,5 @@
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\XmlWriterAndReader\bin\Debug\XmlWriterAndReader.exe.config
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\XmlWriterAndReader\bin\Debug\XmlWriterAndReader.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\XmlWriterAndReader\bin\Debug\XmlWriterAndReader.pdb
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\XmlWriterAndReader\obj\Debug\XmlWriterAndReader.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\XmlWriterAndReader\obj\Debug\XmlWriterAndReader.pdb

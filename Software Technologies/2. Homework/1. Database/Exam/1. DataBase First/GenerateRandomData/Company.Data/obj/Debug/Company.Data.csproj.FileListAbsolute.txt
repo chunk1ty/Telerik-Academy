@@ -1,0 +1,10 @@
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.Data\bin\Debug\Company.Data.dll.config
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.Data\bin\Debug\Company.Data.dll
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.Data\bin\Debug\Company.Data.pdb
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.Data\bin\Debug\EntityFramework.dll
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.Data\bin\Debug\EntityFramework.xml
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.Data\obj\Debug\Company.Data.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.Data\obj\Debug\Company.Data.dll
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.Data\obj\Debug\Company.Data.pdb

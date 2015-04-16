@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\2. UnderscoreJS\UnderscoreJS\bin\UnderscoreJS.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\2. UnderscoreJS\UnderscoreJS\bin\UnderscoreJS.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\2. UnderscoreJS\UnderscoreJS\bin\UnderscoreJS.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\2. UnderscoreJS\UnderscoreJS\obj\Debug\UnderscoreJS.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\2. UnderscoreJS\UnderscoreJS\obj\Debug\UnderscoreJS.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\2. UnderscoreJS\UnderscoreJS\obj\Debug\UnderscoreJS.pdb

@@ -1,0 +1,6 @@
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\PriceFromAllAlbums\bin\Debug\PriceFromAllAlbums.exe.config
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\PriceFromAllAlbums\bin\Debug\PriceFromAllAlbums.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\PriceFromAllAlbums\bin\Debug\PriceFromAllAlbums.pdb
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\PriceFromAllAlbums\obj\Debug\PriceFromAllAlbums.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\PriceFromAllAlbums\obj\Debug\PriceFromAllAlbums.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\PriceFromAllAlbums\obj\Debug\PriceFromAllAlbums.pdb

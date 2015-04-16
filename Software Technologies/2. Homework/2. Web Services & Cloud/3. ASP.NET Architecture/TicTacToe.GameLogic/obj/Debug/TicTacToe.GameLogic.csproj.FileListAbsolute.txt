@@ -1,0 +1,13 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\bin\Debug\TicTacToe.GameLogic.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\bin\Debug\TicTacToe.GameLogic.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\obj\Debug\TicTacToe.GameLogic.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\obj\Debug\TicTacToe.GameLogic.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\obj\Debug\TicTacToe.GameLogic.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\bin\Debug\TicTacToe.Models.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\bin\Debug\EntityFramework.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\bin\Debug\TicTacToe.Models.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\3. ASP.NET Architecture\TicTacToe.GameLogic\bin\Debug\EntityFramework.xml

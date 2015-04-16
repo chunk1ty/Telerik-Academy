@@ -1,0 +1,2 @@
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\Task1\obj\Debug\1.Task.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\Task1\bin\Debug\Task1.exe.config

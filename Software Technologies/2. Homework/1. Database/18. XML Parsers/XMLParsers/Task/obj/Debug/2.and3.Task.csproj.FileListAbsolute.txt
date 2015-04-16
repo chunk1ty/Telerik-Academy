@@ -1,0 +1,5 @@
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\Task\bin\Debug\Task.exe.config
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\Task\bin\Debug\Task.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\Task\bin\Debug\Task.pdb
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\Task\obj\Debug\Task.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\Task\obj\Debug\Task.pdb

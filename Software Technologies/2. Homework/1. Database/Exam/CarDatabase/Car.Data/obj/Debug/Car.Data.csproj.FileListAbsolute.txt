@@ -1,0 +1,12 @@
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Data\bin\Debug\Car.Data.dll.config
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Data\bin\Debug\Car.Data.dll
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Data\bin\Debug\Car.Data.pdb
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Data\bin\Debug\Car.Models.dll
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Data\bin\Debug\EntityFramework.dll
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Data\bin\Debug\Car.Models.pdb
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Data\bin\Debug\EntityFramework.xml
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Data\obj\Debug\Car.Data.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Data\obj\Debug\Car.Data.dll
+C:\Users\Andriyan Krastev\Desktop\CarDatabase\Car.Data\obj\Debug\Car.Data.pdb

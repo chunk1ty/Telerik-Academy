@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        #user-win-game {
+            display: none;
+        }
+
+        #users-results {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="game-information-wrapper">
+            <label for="user-input">Enter your guess: </label>
+            <input id="user-input" type="text" placeholder="Enter four digit number">
+            <button id="user-guess-button">Guess number</button>
+
+            <div id="user-guess-result"></div>
+        </div>
+
+        <div id="user-win-game">
+            <p> Congratulations! You have guessed the number and win the game! </p>
+            <label for="user-username"> Please enter your username: </label>
+            <input id="user-username" type="text" placeholder="Enter username">
+            <button id="submit-username-button"> Submit username</button>
+        </div>
+        <div id="users-results">
+            <b>Users results:</b>
+        </div>
+    </div>
+
+    <script src="libs/require.js" data-main="scripts/app"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.SampleGenerator\obj\Debug\Company.SampleGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.SampleGenerator\bin\Debug\Company.SampleGenerator.exe.config
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.SampleGenerator\bin\Debug\Company.SampleGenerator.exe
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.SampleGenerator\bin\Debug\Company.SampleGenerator.pdb
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.SampleGenerator\bin\Debug\Company.Data.dll
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.SampleGenerator\bin\Debug\EntityFramework.dll
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.SampleGenerator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.SampleGenerator\bin\Debug\Company.Data.pdb
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.SampleGenerator\bin\Debug\EntityFramework.xml
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.SampleGenerator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.SampleGenerator\obj\Debug\Company.SampleGenerator.exe
+C:\Users\Andriyan Krastev\Desktop\GenerateRandomData\Company.SampleGenerator\obj\Debug\Company.SampleGenerator.pdb

@@ -1,0 +1,6 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\3. Web Storages\SheepsAmdRams\bin\SheepsAmdRams.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\3. Web Storages\SheepsAmdRams\bin\SheepsAmdRams.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\3. Web Storages\SheepsAmdRams\bin\SheepsAmdRams.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\3. Web Storages\SheepsAmdRams\obj\Debug\SheepsAmdRams.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\3. Web Storages\SheepsAmdRams\obj\Debug\SheepsAmdRams.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\3. Web Storages\SheepsAmdRams\obj\Debug\SheepsAmdRams.pdb

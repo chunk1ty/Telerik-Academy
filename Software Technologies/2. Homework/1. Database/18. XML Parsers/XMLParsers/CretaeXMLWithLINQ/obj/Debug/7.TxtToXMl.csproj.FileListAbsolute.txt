@@ -1,0 +1,5 @@
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\CretaeXMLWithLINQ\bin\Debug\CretaeXMLWithLINQ.exe.config
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\CretaeXMLWithLINQ\bin\Debug\CretaeXMLWithLINQ.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\CretaeXMLWithLINQ\bin\Debug\CretaeXMLWithLINQ.pdb
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\CretaeXMLWithLINQ\obj\Debug\CretaeXMLWithLINQ.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\CretaeXMLWithLINQ\obj\Debug\CretaeXMLWithLINQ.pdb

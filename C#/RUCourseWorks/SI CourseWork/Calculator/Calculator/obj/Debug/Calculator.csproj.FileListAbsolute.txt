@@ -38,3 +38,6 @@ D:\chunk1ty\C#\RUCourseWorks\SI CourseWork\Calculator\Calculator\obj\Debug\Calcu
 D:\chunk1ty\C#\RUCourseWorks\SI CourseWork\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
 D:\chunk1ty\C#\RUCourseWorks\SI CourseWork\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
 D:\chunk1ty\C#\RUCourseWorks\SI CourseWork\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Chunk1tySVN\Telerik Academy\C#\RUCourseWorks\SI CourseWork\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\RUCourseWorks\SI CourseWork\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Chunk1tySVN\Telerik Academy\C#\RUCourseWorks\SI CourseWork\Calculator\Calculator\obj\Debug\Calculator.pdb

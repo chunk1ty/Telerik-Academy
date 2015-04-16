@@ -1,0 +1,20 @@
+#login, #havent-got-account {
+    border: 1px solid black;
+    padding: 5px;
+    width: 300px;
+}
+
+#havent-got-account {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#posts, #not-logged-user-posts-container {
+    height: 650px;
+    overflow-y: scroll;
+}
+
+#posts div, #not-logged-user-posts-container div {
+    border: 1px solid black;
+    margin-bottom: 5px;
+}

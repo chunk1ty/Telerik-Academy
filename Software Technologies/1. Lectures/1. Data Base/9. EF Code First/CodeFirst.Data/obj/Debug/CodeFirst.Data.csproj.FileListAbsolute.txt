@@ -1,0 +1,10 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\9. EF Code First\CodeFirst.Data\bin\Debug\CodeFirst.Data.dll.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\9. EF Code First\CodeFirst.Data\bin\Debug\CodeFirst.Data.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\9. EF Code First\CodeFirst.Data\bin\Debug\CodeFirst.Data.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\9. EF Code First\CodeFirst.Data\bin\Debug\CodeFirst.Models.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\9. EF Code First\CodeFirst.Data\bin\Debug\EntityFramework.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\9. EF Code First\CodeFirst.Data\bin\Debug\CodeFirst.Models.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\9. EF Code First\CodeFirst.Data\bin\Debug\EntityFramework.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\9. EF Code First\CodeFirst.Data\obj\Debug\CodeFirst.Data.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\9. EF Code First\CodeFirst.Data\obj\Debug\CodeFirst.Data.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\9. EF Code First\CodeFirst.Data\obj\Debug\CodeFirst.Data.pdb

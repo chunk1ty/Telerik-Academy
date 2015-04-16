@@ -1,0 +1,5 @@
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\AllTitleWithXmlReader\bin\Debug\AllTitleWithXmlReader.exe.config
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\AllTitleWithXmlReader\bin\Debug\AllTitleWithXmlReader.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\AllTitleWithXmlReader\bin\Debug\AllTitleWithXmlReader.pdb
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\AllTitleWithXmlReader\obj\Debug\AllTitleWithXmlReader.exe
+C:\Users\Andriyan Krastev\Desktop\XMLParsers\AllTitleWithXmlReader\obj\Debug\AllTitleWithXmlReader.pdb

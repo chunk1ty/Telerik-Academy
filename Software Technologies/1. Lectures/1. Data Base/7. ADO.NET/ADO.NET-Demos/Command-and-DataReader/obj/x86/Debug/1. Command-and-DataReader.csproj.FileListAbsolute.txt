@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\7. ADO.NET\ADO.NET-Demos\Command-and-DataReader\bin\Debug\_2._7.Data_Access_with_ADO.NET.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\7. ADO.NET\ADO.NET-Demos\Command-and-DataReader\bin\Debug\_2._7.Data_Access_with_ADO.NET.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\7. ADO.NET\ADO.NET-Demos\Command-and-DataReader\obj\x86\Debug\1. Command-and-DataReader.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\7. ADO.NET\ADO.NET-Demos\Command-and-DataReader\obj\x86\Debug\_2._7.Data_Access_with_ADO.NET.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\1. Data Base\7. ADO.NET\ADO.NET-Demos\Command-and-DataReader\obj\x86\Debug\_2._7.Data_Access_with_ADO.NET.pdb

@@ -4,3 +4,6 @@ D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesP
 D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\SchoolTask\bin\Debug\SchoolTask.exe
 D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\SchoolTask\bin\Debug\SchoolTask.pdb
 D:\chunk1ty\C#\C# trening\01.Teleric\3. OOP\ObjectOrientedProgrammingPrinciplesPartI\SchoolTask\obj\Debug\SchoolTask.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\3. OOP\18.ObjectOrientedProgrammingPrinciplesPartI\SchoolTask\bin\Debug\SchoolTask.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\3. OOP\18.ObjectOrientedProgrammingPrinciplesPartI\SchoolTask\obj\Debug\SchoolTask.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\3. OOP\18.ObjectOrientedProgrammingPrinciplesPartI\SchoolTask\obj\Debug\SchoolTask.pdb
