@@ -1,3 +1,0 @@
-administrator|Iliana|parola
-moderator|Petar|parolka
-regularuser|Dani|parolaa
