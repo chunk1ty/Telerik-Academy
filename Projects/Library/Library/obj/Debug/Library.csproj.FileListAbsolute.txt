@@ -1,0 +1,18 @@
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\bin\Debug\WpfApplication1.exe.config
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\bin\Debug\WpfApplication1.exe
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\bin\Debug\WpfApplication1.pdb
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\obj\Debug\UserInterface\MainWindow.baml
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\obj\Debug\UserInterface\UserPanel.baml
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\obj\Debug\UserInterface\MainWindow.g.cs
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\obj\Debug\UserInterface\UserPanel.g.cs
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\obj\Debug\App.g.cs
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\obj\Debug\WpfApplication1.g.resources
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\obj\Debug\WpfApplication1.exe
+C:\Users\Andriyan\Desktop\TA-TeamWork-CSharpOOP\trunk\Library\Library\obj\Debug\WpfApplication1.pdb
+D:\Chunk1tySVN\Telerik Academy\Projects\Library\Library\bin\Debug\WpfApplication1.exe.config
+D:\Chunk1tySVN\Telerik Academy\Projects\Library\Library\obj\Debug\WpfApplication1.exe
+D:\Chunk1tySVN\Telerik Academy\Projects\Library\Library\obj\Debug\WpfApplication1.pdb

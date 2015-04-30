@@ -1,0 +1,16 @@
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\ManagementStaffSystem.Data.dll.config
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\ManagementStaffSystem.Data.dll
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\ManagementStaffSystem.Data.pdb
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\ManagmentStaffSystem.Models.dll
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\ManagmentStaffSystem.Models.pdb
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\obj\Debug\ManagementStaffSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\obj\Debug\ManagementStaffSystem.Data.dll
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\obj\Debug\ManagementStaffSystem.Data.pdb
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\PagedList.dll
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\PagedList.Mvc.dll
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\PagedList.xml
+C:\Users\Andriyan Krastev\Desktop\ManagementStaffSystem\ManagementStaffSystem.Data\bin\Debug\PagedList.Mvc.xml
