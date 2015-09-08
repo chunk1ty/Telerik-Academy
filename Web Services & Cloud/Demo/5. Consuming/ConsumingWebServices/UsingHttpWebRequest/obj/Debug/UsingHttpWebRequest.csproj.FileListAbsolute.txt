@@ -1,0 +1,8 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingHttpWebRequest\bin\Debug\UsingHttpWebRequest.exe.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingHttpWebRequest\bin\Debug\UsingHttpWebRequest.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingHttpWebRequest\bin\Debug\UsingHttpWebRequest.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingHttpWebRequest\bin\Debug\Newtonsoft.Json.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingHttpWebRequest\bin\Debug\Newtonsoft.Json.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingHttpWebRequest\obj\Debug\UsingHttpWebRequest.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingHttpWebRequest\obj\Debug\UsingHttpWebRequest.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingHttpWebRequest\obj\Debug\UsingHttpWebRequest.pdb

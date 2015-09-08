@@ -1,6 +1,0 @@
-C:\Users\Andriyan\Desktop\GenerateRandomName\GenerateRandomName\bin\Debug\GenerateRandomName.exe.config
-C:\Users\Andriyan\Desktop\GenerateRandomName\GenerateRandomName\bin\Debug\GenerateRandomName.exe
-C:\Users\Andriyan\Desktop\GenerateRandomName\GenerateRandomName\bin\Debug\GenerateRandomName.pdb
-C:\Users\Andriyan\Desktop\GenerateRandomName\GenerateRandomName\obj\Debug\GenerateRandomName.csprojResolveAssemblyReference.cache
-C:\Users\Andriyan\Desktop\GenerateRandomName\GenerateRandomName\obj\Debug\GenerateRandomName.exe
-C:\Users\Andriyan\Desktop\GenerateRandomName\GenerateRandomName\obj\Debug\GenerateRandomName.pdb

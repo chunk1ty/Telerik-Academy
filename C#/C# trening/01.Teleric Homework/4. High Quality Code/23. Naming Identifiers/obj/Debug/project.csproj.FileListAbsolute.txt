@@ -1,5 +1,0 @@
-D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\23. Naming Identifiers\bin\Debug\Minesweeper.exe
-D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\23. Naming Identifiers\bin\Debug\Minesweeper.pdb
-D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\23. Naming Identifiers\obj\Debug\project.csprojResolveAssemblyReference.cache
-D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\23. Naming Identifiers\obj\Debug\Minesweeper.exe
-D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\23. Naming Identifiers\obj\Debug\Minesweeper.pdb

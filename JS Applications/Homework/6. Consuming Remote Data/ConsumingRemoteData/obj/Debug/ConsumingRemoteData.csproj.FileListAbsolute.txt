@@ -1,0 +1,12 @@
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\6. Consuming Remote Data\ConsumingRemoteData\bin\ConsumingRemoteData.dll.config
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\6. Consuming Remote Data\ConsumingRemoteData\bin\ConsumingRemoteData.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\6. Consuming Remote Data\ConsumingRemoteData\bin\ConsumingRemoteData.pdb
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\6. Consuming Remote Data\ConsumingRemoteData\obj\Debug\ConsumingRemoteData.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\6. Consuming Remote Data\ConsumingRemoteData\obj\Debug\ConsumingRemoteData.dll
+D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\2. Homework\6. JS Applications\6. Consuming Remote Data\ConsumingRemoteData\obj\Debug\ConsumingRemoteData.pdb
+D:\Programming\Telerik\Academy\chunk1ty\JS Applications\Homework\6. Consuming Remote Data\ConsumingRemoteData\bin\ConsumingRemoteData.dll.config
+D:\Programming\Telerik\Academy\chunk1ty\JS Applications\Homework\6. Consuming Remote Data\ConsumingRemoteData\bin\ConsumingRemoteData.dll
+D:\Programming\Telerik\Academy\chunk1ty\JS Applications\Homework\6. Consuming Remote Data\ConsumingRemoteData\bin\ConsumingRemoteData.pdb
+D:\Programming\Telerik\Academy\chunk1ty\JS Applications\Homework\6. Consuming Remote Data\ConsumingRemoteData\obj\Debug\ConsumingRemoteData.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\Academy\chunk1ty\JS Applications\Homework\6. Consuming Remote Data\ConsumingRemoteData\obj\Debug\ConsumingRemoteData.dll
+D:\Programming\Telerik\Academy\chunk1ty\JS Applications\Homework\6. Consuming Remote Data\ConsumingRemoteData\obj\Debug\ConsumingRemoteData.pdb

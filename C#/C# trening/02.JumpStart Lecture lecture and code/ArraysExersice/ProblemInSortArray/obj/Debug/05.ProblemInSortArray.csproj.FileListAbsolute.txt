@@ -1,5 +1,0 @@
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\ProblemInSortArray\bin\Debug\ProblemInSortArray.exe.config
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\ProblemInSortArray\bin\Debug\ProblemInSortArray.exe
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\ProblemInSortArray\bin\Debug\ProblemInSortArray.pdb
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\ProblemInSortArray\obj\Debug\ProblemInSortArray.exe
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\ProblemInSortArray\obj\Debug\ProblemInSortArray.pdb

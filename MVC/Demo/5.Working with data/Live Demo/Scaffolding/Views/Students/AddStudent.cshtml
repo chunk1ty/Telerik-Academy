@@ -1,0 +1,37 @@
+﻿@model Scaffolding.InputModels.StudentInputModel
+@{
+    ViewBag.Title = "AddStudent";
+}
+
+<h2>AddStudent</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    
+    @Html.LabelFor(x => x.FullName)
+    @Html.EditorFor(x => x.FullName)
+    @Html.ValidationMessageFor(x => x.FullName)
+    <br/> 
+    @Html.LabelFor(x => x.Grade)
+    @Html.EditorFor(x => x.Grade)
+    @Html.ValidationMessageFor(x => x.Grade)
+    <br />
+    @Html.LabelFor(x => x.FacultyNumber)
+    @Html.EditorFor(x => x.FacultyNumber)
+    @Html.ValidationMessageFor(x => x.FacultyNumber)
+    <br />
+    @Html.LabelFor(x => x.Address.Country)
+    @Html.EditorFor(x => x.Address.Country)
+    @Html.ValidationMessageFor(x => x.Address.Country)
+    <br />
+    @Html.LabelFor(x => x.Address.Town)
+    @Html.EditorFor(x => x.Address.Town)
+    @Html.ValidationMessageFor(x => x.Address.Town)
+    <br />
+    @Html.LabelFor(x => x.Email)
+    @Html.EditorFor(x => x.Email)
+    @Html.ValidationMessageFor(x => x.Email)
+    <br />
+    <input type="submit" value="Add Student" />
+}

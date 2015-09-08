@@ -1,6 +1,0 @@
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\NumberLetterCounts\bin\Debug\NumberLetterCounts.exe.config
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\NumberLetterCounts\bin\Debug\NumberLetterCounts.exe
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\NumberLetterCounts\bin\Debug\NumberLetterCounts.pdb
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\NumberLetterCounts\obj\Debug\17.NumberLetterCounts.csprojResolveAssemblyReference.cache
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\NumberLetterCounts\obj\Debug\NumberLetterCounts.exe
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\NumberLetterCounts\obj\Debug\NumberLetterCounts.pdb

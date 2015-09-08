@@ -1,0 +1,7 @@
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\Poker.Test\bin\Debug\Poker.Test.dll
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\Poker.Test\bin\Debug\Poker.Test.pdb
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\Poker.Test\bin\Debug\Poker.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\Poker.Test\bin\Debug\Poker.pdb
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\Poker.Test\obj\Debug\Poker.Test.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\Poker.Test\obj\Debug\Poker.Test.dll
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\Poker.Test\obj\Debug\Poker.Test.pdb

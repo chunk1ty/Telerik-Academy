@@ -1,5 +1,0 @@
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\MDiviteN\bin\Debug\MDiviteN.exe.config
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\MDiviteN\bin\Debug\MDiviteN.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\MDiviteN\bin\Debug\MDiviteN.pdb
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\MDiviteN\obj\Debug\MDiviteN.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\MDiviteN\obj\Debug\MDiviteN.pdb

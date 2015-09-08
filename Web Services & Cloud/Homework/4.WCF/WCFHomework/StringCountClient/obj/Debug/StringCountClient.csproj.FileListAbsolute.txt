@@ -1,0 +1,6 @@
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\StringCountClient\bin\Debug\StringCountClient.exe.config
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\StringCountClient\bin\Debug\StringCountClient.exe
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\StringCountClient\bin\Debug\StringCountClient.pdb
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\StringCountClient\obj\Debug\StringCountClient.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\StringCountClient\obj\Debug\StringCountClient.exe
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\StringCountClient\obj\Debug\StringCountClient.pdb

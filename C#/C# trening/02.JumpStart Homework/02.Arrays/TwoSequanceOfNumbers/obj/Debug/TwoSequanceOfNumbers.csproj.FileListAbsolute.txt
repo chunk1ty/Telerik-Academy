@@ -1,5 +1,0 @@
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\TwoSequanceOfNumbers\bin\Debug\TwoSequanceOfNumbers.exe.config
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\TwoSequanceOfNumbers\bin\Debug\TwoSequanceOfNumbers.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\TwoSequanceOfNumbers\bin\Debug\TwoSequanceOfNumbers.pdb
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\TwoSequanceOfNumbers\obj\Debug\TwoSequanceOfNumbers.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\TwoSequanceOfNumbers\obj\Debug\TwoSequanceOfNumbers.pdb

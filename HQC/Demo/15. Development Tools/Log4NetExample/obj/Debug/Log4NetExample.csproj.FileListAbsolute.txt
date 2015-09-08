@@ -1,0 +1,8 @@
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\15. Development Tools\Log4NetExample\bin\Debug\Log4NetExample.exe.config
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\15. Development Tools\Log4NetExample\bin\Debug\Log4NetExample.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\15. Development Tools\Log4NetExample\bin\Debug\Log4NetExample.pdb
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\15. Development Tools\Log4NetExample\bin\Debug\log4net.dll
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\15. Development Tools\Log4NetExample\bin\Debug\log4net.xml
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\15. Development Tools\Log4NetExample\obj\Debug\Log4NetExample.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\15. Development Tools\Log4NetExample\obj\Debug\Log4NetExample.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\15. Development Tools\Log4NetExample\obj\Debug\Log4NetExample.pdb

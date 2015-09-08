@@ -1,0 +1,7 @@
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\48. Sorting and Searching Algorithms\SortingAndSearchingAlgorithms\bin\Debug\SortingAndSearchingAlgorithms.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\48. Sorting and Searching Algorithms\SortingAndSearchingAlgorithms\obj\Debug\SortingAndSearchingAlgorithms.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\48. Sorting and Searching Algorithms\SortingAndSearchingAlgorithms\bin\Debug\SortingAndSearchingAlgorithms.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\48. Sorting and Searching Algorithms\SortingAndSearchingAlgorithms\bin\Debug\SortingAndSearchingAlgorithms.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\48. Sorting and Searching Algorithms\SortingAndSearchingAlgorithms\obj\Debug\SortingAndSearchingAlgorithms.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\5. DSA\48. Sorting and Searching Algorithms\SortingAndSearchingAlgorithms\obj\Debug\SortingAndSearchingAlgorithms.pdb
+D:\Programming\Telerik\Academy\chunk1ty\DSA\Homework\48. Sorting and Searching Algorithms\SortingAndSearchingAlgorithms\bin\Debug\SortingAndSearchingAlgorithms.exe.config

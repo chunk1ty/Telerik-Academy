@@ -1,5 +1,0 @@
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\TestCodeFragmentsTwo\bin\Debug\TestCodeFragmentsTwo.exe.config
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\TestCodeFragmentsTwo\bin\Debug\TestCodeFragmentsTwo.exe
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\TestCodeFragmentsTwo\bin\Debug\TestCodeFragmentsTwo.pdb
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\TestCodeFragmentsTwo\obj\Debug\TestCodeFragmentsTwo.exe
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\TestCodeFragmentsTwo\obj\Debug\TestCodeFragmentsTwo.pdb

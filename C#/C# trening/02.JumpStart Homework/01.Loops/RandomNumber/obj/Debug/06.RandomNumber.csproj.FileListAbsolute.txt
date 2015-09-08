@@ -1,6 +1,0 @@
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\RandomNumber\bin\Debug\RandomNumber.exe.config
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\RandomNumber\bin\Debug\RandomNumber.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\RandomNumber\bin\Debug\RandomNumber.pdb
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\RandomNumber\obj\Debug\06.RandomNumber.csprojResolveAssemblyReference.cache
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\RandomNumber\obj\Debug\RandomNumber.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\RandomNumber\obj\Debug\RandomNumber.pdb

@@ -1,6 +1,0 @@
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LatticePaths\bin\Debug\LatticePaths.exe.config
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LatticePaths\bin\Debug\LatticePaths.exe
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LatticePaths\bin\Debug\LatticePaths.pdb
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LatticePaths\obj\Debug\15.LatticePaths.csprojResolveAssemblyReference.cache
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LatticePaths\obj\Debug\LatticePaths.exe
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LatticePaths\obj\Debug\LatticePaths.pdb

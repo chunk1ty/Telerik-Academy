@@ -1,5 +1,0 @@
-C:\Users\EnikA\Desktop\MyFirstSolution\03.MathManipulation\bin\Debug\03.MathManipulation.exe.config
-C:\Users\EnikA\Desktop\MyFirstSolution\03.MathManipulation\bin\Debug\03.MathManipulation.exe
-C:\Users\EnikA\Desktop\MyFirstSolution\03.MathManipulation\bin\Debug\03.MathManipulation.pdb
-C:\Users\EnikA\Desktop\MyFirstSolution\03.MathManipulation\obj\Debug\03.MathManipulation.exe
-C:\Users\EnikA\Desktop\MyFirstSolution\03.MathManipulation\obj\Debug\03.MathManipulation.pdb

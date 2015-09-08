@@ -1,5 +1,0 @@
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\CheckNumbersNeighbors\bin\Debug\CheckNumbersNeighbors.exe.config
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\CheckNumbersNeighbors\bin\Debug\CheckNumbersNeighbors.exe
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\CheckNumbersNeighbors\bin\Debug\CheckNumbersNeighbors.pdb
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\CheckNumbersNeighbors\obj\Debug\CheckNumbersNeighbors.exe
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\CheckNumbersNeighbors\obj\Debug\CheckNumbersNeighbors.pdb

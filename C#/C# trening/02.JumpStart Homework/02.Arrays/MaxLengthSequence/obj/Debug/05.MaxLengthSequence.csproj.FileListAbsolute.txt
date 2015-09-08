@@ -1,5 +1,0 @@
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MaxLengthSequence\bin\Debug\MaxLengthSequence.exe.config
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MaxLengthSequence\bin\Debug\MaxLengthSequence.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MaxLengthSequence\bin\Debug\MaxLengthSequence.pdb
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MaxLengthSequence\obj\Debug\MaxLengthSequence.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MaxLengthSequence\obj\Debug\MaxLengthSequence.pdb

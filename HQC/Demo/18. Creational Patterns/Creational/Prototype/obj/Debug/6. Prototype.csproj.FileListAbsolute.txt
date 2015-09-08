@@ -1,0 +1,6 @@
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\18. Creational Patterns\Creational\Prototype\bin\Debug\Prototype.exe.config
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\18. Creational Patterns\Creational\Prototype\bin\Debug\Prototype.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\18. Creational Patterns\Creational\Prototype\bin\Debug\Prototype.pdb
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\18. Creational Patterns\Creational\Prototype\obj\Debug\6. Prototype.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\18. Creational Patterns\Creational\Prototype\obj\Debug\Prototype.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\18. Creational Patterns\Creational\Prototype\obj\Debug\Prototype.pdb

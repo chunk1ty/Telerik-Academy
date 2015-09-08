@@ -1,0 +1,2 @@
+//link for creating documentation
+http://www.codeproject.com/Articles/507929/Generate-chm-based-documentation-of-your-project-u

@@ -1,1 +1,0 @@
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LatticePaths\bin\Debug\LatticePaths.exe.config

@@ -1,6 +1,0 @@
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFifthPowers\bin\Debug\DigitFifthPowers.exe.config
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFifthPowers\bin\Debug\DigitFifthPowers.exe
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFifthPowers\bin\Debug\DigitFifthPowers.pdb
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFifthPowers\obj\Debug\DigitFifthPowers.exe
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFifthPowers\obj\Debug\DigitFifthPowers.pdb
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFifthPowers\obj\Debug\30.DigitFifthPowers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+﻿@model IList<Scaffolding.Models.Student>
+
+@using (Html.BeginForm())
+{
+    for (int i = 0; i < 4; i++)
+    {
+        <fieldset>
+            <legend>Person @i</legend>
+
+            @Html.LabelFor(x => Model[i].FullName);
+            @Html.EditorFor(x => Model[i].FullName);
+            <br />
+            @Html.LabelFor(x => Model[i].FacultyNumber);
+            @Html.EditorFor(x => Model[i].FacultyNumber);
+            <br />
+            @Html.LabelFor(x => Model[i].Grade);
+            @Html.EditorFor(x => Model[i].Grade);
+            <br />
+            @Html.LabelFor(x => Model[i].Address.Town);
+            @Html.EditorFor(x => Model[i].Address.Town);
+            <br />
+            @Html.LabelFor(x => Model[i].Address.Country);
+            @Html.EditorFor(x => Model[i].Address.Country);
+            <br />
+        </fieldset>
+    }
+
+    <input type="submit" value="Add students" />
+}
+
+
+

@@ -1,8 +1,0 @@
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator.Test\bin\Debug\ObjectStateValidator.Test.exe.config
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator.Test\obj\Debug\ObjectStateValidator.Test.csprojResolveAssemblyReference.cache
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator.Test\bin\Debug\ObjectStateValidator.Test.exe
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator.Test\bin\Debug\ObjectStateValidator.Test.pdb
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator.Test\bin\Debug\ObjectStateValidator.dll
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator.Test\bin\Debug\ObjectStateValidator.pdb
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator.Test\obj\Debug\ObjectStateValidator.Test.exe
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator.Test\obj\Debug\ObjectStateValidator.Test.pdb

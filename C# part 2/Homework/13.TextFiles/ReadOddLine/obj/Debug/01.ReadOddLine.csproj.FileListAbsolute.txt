@@ -1,0 +1,14 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\ReadOddLine\bin\Debug\ReadOddLine.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\ReadOddLine\bin\Debug\ReadOddLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\ReadOddLine\bin\Debug\ReadOddLine.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\ReadOddLine\obj\Debug\ReadOddLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\TextFiles\ReadOddLine\obj\Debug\ReadOddLine.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReadOddLine\bin\Debug\ReadOddLine.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReadOddLine\obj\Debug\ReadOddLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\ReadOddLine\obj\Debug\ReadOddLine.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\13.TextFiles\ReadOddLine\bin\Debug\ReadOddLine.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\13.TextFiles\ReadOddLine\obj\Debug\ReadOddLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric Homework\2. C# part 2\13.TextFiles\ReadOddLine\obj\Debug\ReadOddLine.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\13.TextFiles\ReadOddLine\bin\Debug\ReadOddLine.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\13.TextFiles\ReadOddLine\obj\Debug\ReadOddLine.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\13.TextFiles\ReadOddLine\obj\Debug\ReadOddLine.pdb

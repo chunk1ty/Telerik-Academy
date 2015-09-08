@@ -1,5 +1,0 @@
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangleB\bin\Debug\PrintTriangleB.exe.config
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangleB\bin\Debug\PrintTriangleB.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangleB\bin\Debug\PrintTriangleB.pdb
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangleB\obj\Debug\PrintTriangleB.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\PrintTriangleB\obj\Debug\PrintTriangleB.pdb

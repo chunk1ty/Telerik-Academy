@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c82b71f4-eb17-42fb-9a98-38142c6aea5a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/StringCountingService/CountSecondStirngOccurrenceInFirst/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="514c82bf-6534-4692-89bd-a0d1e5b29928" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/StringCountingService/CountSecondStirngOccurrenceInFirst/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="0071b225-aa11-4ee6-88a5-79ee0d2f563e" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/StringCountingService/CountSecondStirngOccurrenceInFirst/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="f0d61e1e-f48a-43b4-b5d5-763d6d2f3a2b" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/StringCountingService/CountSecondStirngOccurrenceInFirst/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

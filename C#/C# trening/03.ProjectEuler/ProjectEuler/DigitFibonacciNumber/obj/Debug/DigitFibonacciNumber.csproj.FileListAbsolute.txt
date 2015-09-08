@@ -1,1 +1,0 @@
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFibonacciNumber\bin\Debug\DigitFibonacciNumber.exe.config

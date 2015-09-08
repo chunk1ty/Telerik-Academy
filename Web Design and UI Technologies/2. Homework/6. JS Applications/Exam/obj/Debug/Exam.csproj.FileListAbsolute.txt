@@ -1,6 +1,0 @@
-C:\Users\Andriyan Krastev\Desktop\Exam\bin\Exam.dll.config
-C:\Users\Andriyan Krastev\Desktop\Exam\bin\Exam.dll
-C:\Users\Andriyan Krastev\Desktop\Exam\bin\Exam.pdb
-C:\Users\Andriyan Krastev\Desktop\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
-C:\Users\Andriyan Krastev\Desktop\Exam\obj\Debug\Exam.dll
-C:\Users\Andriyan Krastev\Desktop\Exam\obj\Debug\Exam.pdb

@@ -1,6 +1,0 @@
-C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\BGFlag\bin\Debug\BGFlag.exe.config
-C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\BGFlag\bin\Debug\BGFlag.exe
-C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\BGFlag\bin\Debug\BGFlag.pdb
-C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\BGFlag\obj\Debug\BGFlag.exe
-C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\BGFlag\obj\Debug\BGFlag.pdb
-C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\BGFlag\obj\Debug\03.BGFlag.csprojResolveAssemblyReference.cache

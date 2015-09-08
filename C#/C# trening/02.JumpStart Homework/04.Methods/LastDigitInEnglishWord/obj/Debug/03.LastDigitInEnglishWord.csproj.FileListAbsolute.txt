@@ -1,5 +1,0 @@
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\LastDigitInEnglishWord\bin\Debug\LastDigitInEnglishWord.exe.config
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\LastDigitInEnglishWord\bin\Debug\LastDigitInEnglishWord.exe
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\LastDigitInEnglishWord\bin\Debug\LastDigitInEnglishWord.pdb
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\LastDigitInEnglishWord\obj\Debug\LastDigitInEnglishWord.exe
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\LastDigitInEnglishWord\obj\Debug\LastDigitInEnglishWord.pdb

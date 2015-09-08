@@ -1,6 +1,0 @@
-D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\6. JS Application\4. Promises And Asynchronous programming\PromisesAndAsynchronousProgramming\bin\PromisesAndAsynchronousProgramming.dll.config
-D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\6. JS Application\4. Promises And Asynchronous programming\PromisesAndAsynchronousProgramming\bin\PromisesAndAsynchronousProgramming.dll
-D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\6. JS Application\4. Promises And Asynchronous programming\PromisesAndAsynchronousProgramming\bin\PromisesAndAsynchronousProgramming.pdb
-D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\6. JS Application\4. Promises And Asynchronous programming\PromisesAndAsynchronousProgramming\obj\Debug\PromisesAndAsynchronousProgramming.csprojResolveAssemblyReference.cache
-D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\6. JS Application\4. Promises And Asynchronous programming\PromisesAndAsynchronousProgramming\obj\Debug\PromisesAndAsynchronousProgramming.dll
-D:\Chunk1tySVN\Telerik Academy\Web Design and UI Technologies\1. Lecture\6. JS Application\4. Promises And Asynchronous programming\PromisesAndAsynchronousProgramming\obj\Debug\PromisesAndAsynchronousProgramming.pdb

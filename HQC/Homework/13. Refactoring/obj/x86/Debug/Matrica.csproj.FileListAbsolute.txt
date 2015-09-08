@@ -1,0 +1,5 @@
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\13. Refactoring\bin\Debug\GameFifteen.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\13. Refactoring\bin\Debug\GameFifteen.pdb
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\13. Refactoring\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\13. Refactoring\obj\x86\Debug\GameFifteen.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\13. Refactoring\obj\x86\Debug\GameFifteen.pdb

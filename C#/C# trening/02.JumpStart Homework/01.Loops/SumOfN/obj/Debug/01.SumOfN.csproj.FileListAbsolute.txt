@@ -1,9 +1,0 @@
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\SumOfN\bin\Debug\SumOfN.exe.config
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\SumOfN\bin\Debug\SumOfN.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\SumOfN\bin\Debug\SumOfN.pdb
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\SumOfN\obj\Debug\01.SumOfN.csprojResolveAssemblyReference.cache
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\SumOfN\obj\Debug\SumOfN.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Loops\SumOfN\obj\Debug\SumOfN.pdb
-D:\chunk1ty\C#\c# trening\02.JumpStart\Loops\SumOfN\bin\Debug\SumOfN.exe.config
-D:\chunk1ty\C#\c# trening\02.JumpStart\Loops\SumOfN\obj\Debug\SumOfN.exe
-D:\chunk1ty\C#\c# trening\02.JumpStart\Loops\SumOfN\obj\Debug\SumOfN.pdb

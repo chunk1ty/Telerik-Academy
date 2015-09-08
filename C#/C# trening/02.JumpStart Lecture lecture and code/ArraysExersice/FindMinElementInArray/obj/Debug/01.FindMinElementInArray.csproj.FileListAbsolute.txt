@@ -1,6 +1,0 @@
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\FindMinElementInArray\bin\Debug\FindMinElementInArray.exe.config
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\FindMinElementInArray\bin\Debug\FindMinElementInArray.exe
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\FindMinElementInArray\bin\Debug\FindMinElementInArray.pdb
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\FindMinElementInArray\obj\Debug\01.FindMinElementInArray.csprojResolveAssemblyReference.cache
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\FindMinElementInArray\obj\Debug\FindMinElementInArray.exe
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\FindMinElementInArray\obj\Debug\FindMinElementInArray.pdb

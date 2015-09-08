@@ -1,6 +1,0 @@
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MostCommonNumber\bin\Debug\MostCommonNumber.exe.config
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MostCommonNumber\bin\Debug\MostCommonNumber.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MostCommonNumber\bin\Debug\MostCommonNumber.pdb
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MostCommonNumber\obj\Debug\07.MostCommonNumber.csprojResolveAssemblyReference.cache
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MostCommonNumber\obj\Debug\MostCommonNumber.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MostCommonNumber\obj\Debug\MostCommonNumber.pdb

@@ -1,0 +1,8 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingWebClient\bin\Debug\UsingWebClient.exe.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingWebClient\bin\Debug\UsingWebClient.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingWebClient\bin\Debug\UsingWebClient.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingWebClient\bin\Debug\Newtonsoft.Json.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingWebClient\bin\Debug\Newtonsoft.Json.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingWebClient\obj\Debug\UsingWebClient.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingWebClient\obj\Debug\UsingWebClient.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\UsingWebClient\obj\Debug\UsingWebClient.pdb

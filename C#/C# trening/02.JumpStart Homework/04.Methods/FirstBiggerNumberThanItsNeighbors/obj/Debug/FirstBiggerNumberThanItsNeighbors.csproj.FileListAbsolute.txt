@@ -1,1 +1,0 @@
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\FirstBiggerNumberThanItsNeighbors\bin\Debug\FirstBiggerNumberThanItsNeighbors.exe.config

@@ -1,0 +1,11 @@
+Shop-app
+1) bower.init -> evlogi 2015 SPA workshop 3:02
+2) bower install jquery --save -> zapisva go v dependencies v bower.json
+3) npm init
+4) npm install babel-core
+5) server -> npm install -g http-server
+
+Forum
+1) iojs app.js
+
+1:30

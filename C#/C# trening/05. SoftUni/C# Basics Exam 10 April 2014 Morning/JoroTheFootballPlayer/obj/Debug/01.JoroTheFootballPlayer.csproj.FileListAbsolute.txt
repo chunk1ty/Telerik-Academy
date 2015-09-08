@@ -1,5 +1,0 @@
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe.config
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.pdb
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.exe
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.pdb

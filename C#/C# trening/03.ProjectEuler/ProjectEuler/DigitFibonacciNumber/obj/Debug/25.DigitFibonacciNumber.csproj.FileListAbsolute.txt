@@ -1,5 +1,0 @@
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFibonacciNumber\bin\Debug\DigitFibonacciNumber.exe.config
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFibonacciNumber\bin\Debug\DigitFibonacciNumber.exe
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFibonacciNumber\bin\Debug\DigitFibonacciNumber.pdb
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFibonacciNumber\obj\Debug\DigitFibonacciNumber.exe
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFibonacciNumber\obj\Debug\DigitFibonacciNumber.pdb

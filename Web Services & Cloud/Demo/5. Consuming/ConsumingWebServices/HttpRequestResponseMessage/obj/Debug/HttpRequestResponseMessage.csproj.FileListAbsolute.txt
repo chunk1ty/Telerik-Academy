@@ -1,0 +1,8 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\HttpRequestResponseMessage\bin\Debug\HttpRequestResponseMessage.exe.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\HttpRequestResponseMessage\bin\Debug\HttpRequestResponseMessage.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\HttpRequestResponseMessage\bin\Debug\HttpRequestResponseMessage.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\HttpRequestResponseMessage\bin\Debug\Newtonsoft.Json.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\HttpRequestResponseMessage\bin\Debug\Newtonsoft.Json.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\HttpRequestResponseMessage\obj\Debug\HttpRequestResponseMessage.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\HttpRequestResponseMessage\obj\Debug\HttpRequestResponseMessage.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\HttpRequestResponseMessage\obj\Debug\HttpRequestResponseMessage.pdb

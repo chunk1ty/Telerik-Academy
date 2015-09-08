@@ -1,6 +1,0 @@
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 11 April 2014 Evening\CSharpExam11April2014Evening\Illuminati\bin\Debug\Illuminati.exe.config
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 11 April 2014 Evening\CSharpExam11April2014Evening\Illuminati\bin\Debug\Illuminati.exe
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 11 April 2014 Evening\CSharpExam11April2014Evening\Illuminati\bin\Debug\Illuminati.pdb
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 11 April 2014 Evening\CSharpExam11April2014Evening\Illuminati\obj\Debug\02.IlluminatiTask.csprojResolveAssemblyReference.cache
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 11 April 2014 Evening\CSharpExam11April2014Evening\Illuminati\obj\Debug\Illuminati.exe
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 11 April 2014 Evening\CSharpExam11April2014Evening\Illuminati\obj\Debug\Illuminati.pdb

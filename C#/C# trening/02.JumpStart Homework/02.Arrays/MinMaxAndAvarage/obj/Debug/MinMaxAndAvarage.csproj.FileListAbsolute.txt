@@ -1,1 +1,0 @@
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MinMaxAndAvarage\bin\Debug\MinMaxAndAvarage.exe.config

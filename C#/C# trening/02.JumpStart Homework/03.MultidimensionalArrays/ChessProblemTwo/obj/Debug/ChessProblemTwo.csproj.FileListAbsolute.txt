@@ -1,5 +1,0 @@
-C:\chunk1ty\C#\MultidimensionalArraysHomework\ChessProblemTwo\bin\Debug\ChessProblemTwo.exe.config
-C:\chunk1ty\C#\MultidimensionalArraysHomework\ChessProblemTwo\bin\Debug\ChessProblemTwo.exe
-C:\chunk1ty\C#\MultidimensionalArraysHomework\ChessProblemTwo\bin\Debug\ChessProblemTwo.pdb
-C:\chunk1ty\C#\MultidimensionalArraysHomework\ChessProblemTwo\obj\Debug\ChessProblemTwo.exe
-C:\chunk1ty\C#\MultidimensionalArraysHomework\ChessProblemTwo\obj\Debug\ChessProblemTwo.pdb

@@ -1,5 +1,0 @@
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\Next\bin\Debug\Next.exe.config
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\Next\bin\Debug\Next.exe
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\Next\bin\Debug\Next.pdb
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\Next\obj\Debug\Next.exe
-C:\chunk1ty\C#\c# trening\02.JumpStart\ArraysExersice\Next\obj\Debug\Next.pdb

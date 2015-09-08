@@ -1,0 +1,16 @@
+﻿@model IEnumerable<string>
+
+@{
+    ViewBag.Title = "title";
+}
+
+@using (Html.BeginForm())
+{
+    <input type="text" name="values" value="" />
+    <input type="text" name="values" value="" />
+    <input type="text" name="values" value="" />
+    <input type="text" name="values" value="" />
+    <input type="text" name="values" value=""/>
+
+    <input type="submit" value="Send values" />
+}

@@ -1,6 +1,0 @@
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LongestCollatzSequence\bin\Debug\LongestCollatzSequence.exe.config
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LongestCollatzSequence\bin\Debug\LongestCollatzSequence.exe
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LongestCollatzSequence\bin\Debug\LongestCollatzSequence.pdb
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LongestCollatzSequence\obj\Debug\14.LongestCollatzSequence.csprojResolveAssemblyReference.cache
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LongestCollatzSequence\obj\Debug\LongestCollatzSequence.exe
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\LongestCollatzSequence\obj\Debug\LongestCollatzSequence.pdb

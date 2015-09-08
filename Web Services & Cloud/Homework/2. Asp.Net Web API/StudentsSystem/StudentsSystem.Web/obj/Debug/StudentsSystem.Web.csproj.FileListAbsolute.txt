@@ -1,0 +1,80 @@
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Web.dll.config
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Web.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Web.pdb
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\Antlr3.Runtime.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\EntityFramework.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\EntityFramework.SqlServer.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\Newtonsoft.Json.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Data.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Models.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Net.Http.Formatting.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.Helpers.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.Http.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.Http.WebHost.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.Mvc.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.Optimization.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.Razor.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.WebPages.Deployment.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.WebPages.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.WebPages.Razor.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\WebGrease.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Data.pdb
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Models.pdb
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\EntityFramework.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\EntityFramework.SqlServer.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\Newtonsoft.Json.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Net.Http.Formatting.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.Helpers.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.Http.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.Http.WebHost.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.Mvc.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.Optimization.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.Razor.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.WebPages.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.WebPages.Deployment.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\System.Web.WebPages.Razor.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\bin\Antlr3.Runtime.pdb
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\obj\Debug\StudentsSystem.Web.csprojResolveAssemblyReference.cache
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\obj\Debug\StudentsSystem.Web.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Web\obj\Debug\StudentsSystem.Web.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Web.dll.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Web.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Web.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\Antlr3.Runtime.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\EntityFramework.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\EntityFramework.SqlServer.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\Newtonsoft.Json.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Data.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Models.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Net.Http.Formatting.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.Helpers.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.Http.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.Http.WebHost.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.Mvc.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.Optimization.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.Razor.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.WebPages.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.WebPages.Razor.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\WebGrease.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Data.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\StudentsSystem.Models.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\EntityFramework.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\EntityFramework.SqlServer.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\Newtonsoft.Json.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Net.Http.Formatting.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.Helpers.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.Http.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.Http.WebHost.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.Mvc.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.Optimization.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.Razor.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.WebPages.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\System.Web.WebPages.Razor.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\bin\Antlr3.Runtime.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\obj\Debug\StudentsSystem.Web.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\obj\Debug\StudentsSystem.Web.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Web\obj\Debug\StudentsSystem.Web.pdb

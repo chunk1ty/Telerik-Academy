@@ -1,3 +1,0 @@
-string name = "Andriyan Krastev";
-string family = name.Substring(name.IndexOf(' ')+1);
-Console.WriteLine(family);

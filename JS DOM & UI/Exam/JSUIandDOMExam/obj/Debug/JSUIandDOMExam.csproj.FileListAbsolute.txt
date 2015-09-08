@@ -1,0 +1,12 @@
+C:\Users\Andriyan Krastev\Desktop\JSUIandDOMExam\bin\JSUIandDOMExam.dll.config
+C:\Users\Andriyan Krastev\Desktop\JSUIandDOMExam\bin\JSUIandDOMExam.dll
+C:\Users\Andriyan Krastev\Desktop\JSUIandDOMExam\bin\JSUIandDOMExam.pdb
+C:\Users\Andriyan Krastev\Desktop\JSUIandDOMExam\obj\Debug\JSUIandDOMExam.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\JSUIandDOMExam\obj\Debug\JSUIandDOMExam.dll
+C:\Users\Andriyan Krastev\Desktop\JSUIandDOMExam\obj\Debug\JSUIandDOMExam.pdb
+D:\Programming\Telerik\Academy\chunk1ty\JS DOM & UI\Exam\JSUIandDOMExam\bin\JSUIandDOMExam.dll.config
+D:\Programming\Telerik\Academy\chunk1ty\JS DOM & UI\Exam\JSUIandDOMExam\bin\JSUIandDOMExam.dll
+D:\Programming\Telerik\Academy\chunk1ty\JS DOM & UI\Exam\JSUIandDOMExam\bin\JSUIandDOMExam.pdb
+D:\Programming\Telerik\Academy\chunk1ty\JS DOM & UI\Exam\JSUIandDOMExam\obj\Debug\JSUIandDOMExam.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\Academy\chunk1ty\JS DOM & UI\Exam\JSUIandDOMExam\obj\Debug\JSUIandDOMExam.dll
+D:\Programming\Telerik\Academy\chunk1ty\JS DOM & UI\Exam\JSUIandDOMExam\obj\Debug\JSUIandDOMExam.pdb

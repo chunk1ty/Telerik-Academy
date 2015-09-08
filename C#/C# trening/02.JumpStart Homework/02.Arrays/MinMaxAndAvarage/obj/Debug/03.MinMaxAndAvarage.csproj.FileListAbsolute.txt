@@ -1,5 +1,0 @@
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MinMaxAndAvarage\bin\Debug\MinMaxAndAvarage.exe.config
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MinMaxAndAvarage\bin\Debug\MinMaxAndAvarage.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MinMaxAndAvarage\bin\Debug\MinMaxAndAvarage.pdb
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MinMaxAndAvarage\obj\Debug\MinMaxAndAvarage.exe
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MinMaxAndAvarage\obj\Debug\MinMaxAndAvarage.pdb

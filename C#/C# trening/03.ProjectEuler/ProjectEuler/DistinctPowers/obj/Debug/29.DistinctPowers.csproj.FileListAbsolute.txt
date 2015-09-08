@@ -1,6 +1,0 @@
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DistinctPowers\bin\Debug\DistinctPowers.exe.config
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DistinctPowers\bin\Debug\DistinctPowers.exe
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DistinctPowers\bin\Debug\DistinctPowers.pdb
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DistinctPowers\obj\Debug\29.DistinctPowers.csprojResolveAssemblyReference.cache
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DistinctPowers\obj\Debug\DistinctPowers.exe
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DistinctPowers\obj\Debug\DistinctPowers.pdb

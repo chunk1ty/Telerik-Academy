@@ -1,1 +1,0 @@
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\DigitFactorials\bin\Debug\DigitFactorials.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\DayOfWeekService\bin\DayOfWeekService.dll.config
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\DayOfWeekService\bin\DayOfWeekService.dll
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\DayOfWeekService\bin\DayOfWeekService.pdb
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\DayOfWeekService\obj\Debug\DayOfWeekService.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\DayOfWeekService\obj\Debug\DayOfWeekService.dll
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\DayOfWeekService\obj\Debug\DayOfWeekService.pdb

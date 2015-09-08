@@ -1,0 +1,8 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\JSON.NET.Serialization\bin\Debug\JSON.NET.Serialization.exe.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\JSON.NET.Serialization\bin\Debug\JSON.NET.Serialization.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\JSON.NET.Serialization\bin\Debug\JSON.NET.Serialization.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\JSON.NET.Serialization\bin\Debug\Newtonsoft.Json.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\JSON.NET.Serialization\bin\Debug\Newtonsoft.Json.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\JSON.NET.Serialization\obj\Debug\JSON.NET.Serialization.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\JSON.NET.Serialization\obj\Debug\JSON.NET.Serialization.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\JSON.NET.Serialization\obj\Debug\JSON.NET.Serialization.pdb

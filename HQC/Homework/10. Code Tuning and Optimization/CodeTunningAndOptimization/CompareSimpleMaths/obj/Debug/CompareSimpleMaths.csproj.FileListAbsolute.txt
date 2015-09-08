@@ -1,0 +1,6 @@
+C:\Users\Andriyan\Desktop\CodeTunningAndOptimization\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.exe.config
+C:\Users\Andriyan\Desktop\CodeTunningAndOptimization\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.exe
+C:\Users\Andriyan\Desktop\CodeTunningAndOptimization\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.pdb
+C:\Users\Andriyan\Desktop\CodeTunningAndOptimization\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan\Desktop\CodeTunningAndOptimization\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.exe
+C:\Users\Andriyan\Desktop\CodeTunningAndOptimization\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.pdb

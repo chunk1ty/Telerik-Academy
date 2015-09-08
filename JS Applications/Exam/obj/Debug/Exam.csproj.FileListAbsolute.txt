@@ -1,0 +1,12 @@
+C:\Users\Andriyan Krastev\Desktop\Exam\bin\Exam.dll.config
+C:\Users\Andriyan Krastev\Desktop\Exam\bin\Exam.dll
+C:\Users\Andriyan Krastev\Desktop\Exam\bin\Exam.pdb
+C:\Users\Andriyan Krastev\Desktop\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\Exam\obj\Debug\Exam.dll
+C:\Users\Andriyan Krastev\Desktop\Exam\obj\Debug\Exam.pdb
+D:\Programming\Telerik\Academy\chunk1ty\JS Applications\Exam\bin\Exam.dll.config
+D:\Programming\Telerik\Academy\chunk1ty\JS Applications\Exam\bin\Exam.dll
+D:\Programming\Telerik\Academy\chunk1ty\JS Applications\Exam\bin\Exam.pdb
+D:\Programming\Telerik\Academy\chunk1ty\JS Applications\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\Academy\chunk1ty\JS Applications\Exam\obj\Debug\Exam.dll
+D:\Programming\Telerik\Academy\chunk1ty\JS Applications\Exam\obj\Debug\Exam.pdb

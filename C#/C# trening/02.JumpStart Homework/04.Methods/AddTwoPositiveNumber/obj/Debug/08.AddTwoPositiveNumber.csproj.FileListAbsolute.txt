@@ -1,5 +1,0 @@
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\AddTwoPositiveNumber\bin\Debug\AddTwoPositiveNumber.exe.config
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\AddTwoPositiveNumber\bin\Debug\AddTwoPositiveNumber.exe
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\AddTwoPositiveNumber\bin\Debug\AddTwoPositiveNumber.pdb
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\AddTwoPositiveNumber\obj\Debug\AddTwoPositiveNumber.exe
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\AddTwoPositiveNumber\obj\Debug\AddTwoPositiveNumber.pdb

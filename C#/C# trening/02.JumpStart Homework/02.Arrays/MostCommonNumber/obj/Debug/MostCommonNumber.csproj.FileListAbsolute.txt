@@ -1,1 +1,0 @@
-D:\chunk1ty\C#\c# trening\JumpStart\Arrays\MostCommonNumber\bin\Debug\MostCommonNumber.exe.config

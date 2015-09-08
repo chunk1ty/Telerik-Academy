@@ -1,0 +1,5 @@
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\12. TDD\bin\Debug\Poker.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\12. TDD\bin\Debug\Poker.pdb
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\12. TDD\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\12. TDD\obj\Debug\Poker.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\12. TDD\obj\Debug\Poker.pdb

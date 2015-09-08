@@ -1,0 +1,6 @@
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\DayOfWeekConsoleClient\bin\Debug\DayOfWeekConsoleClient.exe.config
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\DayOfWeekConsoleClient\bin\Debug\DayOfWeekConsoleClient.exe
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\DayOfWeekConsoleClient\bin\Debug\DayOfWeekConsoleClient.pdb
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\DayOfWeekConsoleClient\obj\Debug\DayOfWeekConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\DayOfWeekConsoleClient\obj\Debug\DayOfWeekConsoleClient.exe
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\DayOfWeekConsoleClient\obj\Debug\DayOfWeekConsoleClient.pdb

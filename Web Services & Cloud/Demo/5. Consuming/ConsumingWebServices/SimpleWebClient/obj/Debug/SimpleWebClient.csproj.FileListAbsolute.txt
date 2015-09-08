@@ -1,0 +1,5 @@
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\SimpleWebClient\bin\Debug\SimpleWebClient.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\SimpleWebClient\bin\Debug\SimpleWebClient.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\SimpleWebClient\obj\Debug\SimpleWebClient.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\SimpleWebClient\obj\Debug\SimpleWebClient.exe
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\1. Lectures\2. Web Services & Cloud\5. Consuming\ConsumingWebServices\SimpleWebClient\obj\Debug\SimpleWebClient.pdb

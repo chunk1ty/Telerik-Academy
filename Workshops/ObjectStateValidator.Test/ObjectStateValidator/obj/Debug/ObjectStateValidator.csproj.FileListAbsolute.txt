@@ -1,5 +1,0 @@
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator\obj\Debug\ObjectStateValidator.csprojResolveAssemblyReference.cache
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator\bin\Debug\ObjectStateValidator.dll
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator\bin\Debug\ObjectStateValidator.pdb
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator\obj\Debug\ObjectStateValidator.dll
-C:\Users\Andriyan Krastev\Desktop\ObjectStateValidator.Test\ObjectStateValidator\obj\Debug\ObjectStateValidator.pdb

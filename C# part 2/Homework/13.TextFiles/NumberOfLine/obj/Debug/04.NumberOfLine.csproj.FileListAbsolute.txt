@@ -1,0 +1,8 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\NumberOfLine\bin\Debug\NumberOfLine.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\NumberOfLine\bin\Debug\NumberOfLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\NumberOfLine\bin\Debug\NumberOfLine.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\NumberOfLine\obj\Debug\NumberOfLine.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\13.TextFiles\NumberOfLine\obj\Debug\NumberOfLine.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\13.TextFiles\NumberOfLine\bin\Debug\NumberOfLine.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\13.TextFiles\NumberOfLine\obj\Debug\NumberOfLine.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\2. C# part 2\13.TextFiles\NumberOfLine\obj\Debug\NumberOfLine.pdb

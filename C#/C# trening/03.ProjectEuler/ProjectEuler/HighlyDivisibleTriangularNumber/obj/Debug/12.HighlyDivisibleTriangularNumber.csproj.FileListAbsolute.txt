@@ -1,6 +1,0 @@
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\HighlyDivisibleTriangularNumber\obj\Debug\12.HighlyDivisibleTriangularNumber.csprojResolveAssemblyReference.cache
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\HighlyDivisibleTriangularNumber\bin\Debug\HighlyDivisibleTriangularNumber.exe.config
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\HighlyDivisibleTriangularNumber\bin\Debug\HighlyDivisibleTriangularNumber.exe
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\HighlyDivisibleTriangularNumber\bin\Debug\HighlyDivisibleTriangularNumber.pdb
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.exe
-C:\chunk1ty\C# trening\03.ProjectEuler\ProjectEuler\HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.pdb

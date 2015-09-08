@@ -1,0 +1,9 @@
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\NineGagNumbers\bin\Debug\NineGagNumbers.exe.config
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\NineGagNumbers\bin\Debug\NineGagNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\NineGagNumbers\bin\Debug\NineGagNumbers.pdb
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\NineGagNumbers\obj\Debug\01.NineGagNumbers.csprojResolveAssemblyReference.cache
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\NineGagNumbers\obj\Debug\NineGagNumbers.exe
+D:\chunk1ty\C#\C# trening\01.Teleric\01.CSharpPart2ExamPreparation\11Feb2013\NineGagNumbers\obj\Debug\NineGagNumbers.pdb
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\0.1. CSharpPart2ExamPreparation\11Feb2013\NineGagNumbers\bin\Debug\NineGagNumbers.exe.config
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\0.1. CSharpPart2ExamPreparation\11Feb2013\NineGagNumbers\obj\Debug\NineGagNumbers.exe
+D:\Chunk1tySVN\Telerik Academy\C#\C# trening\01.Teleric Homework\0.1. CSharpPart2ExamPreparation\11Feb2013\NineGagNumbers\obj\Debug\NineGagNumbers.pdb

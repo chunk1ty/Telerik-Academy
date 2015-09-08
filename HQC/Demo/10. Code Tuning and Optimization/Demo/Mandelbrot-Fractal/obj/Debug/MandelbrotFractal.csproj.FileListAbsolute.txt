@@ -1,0 +1,7 @@
+C:\Users\Andriyan\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Demo\Mandelbrot-Fractal\bin\Debug\MandelbrotDemo.exe
+C:\Users\Andriyan\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Demo\Mandelbrot-Fractal\bin\Debug\MandelbrotDemo.pdb
+C:\Users\Andriyan\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Demo\Mandelbrot-Fractal\obj\Debug\MandelbrotFractal.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Demo\Mandelbrot-Fractal\obj\Debug\Mandelbrot.MandelbrotWindow.resources
+C:\Users\Andriyan\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Demo\Mandelbrot-Fractal\obj\Debug\MandelbrotFractal.csproj.GenerateResource.Cache
+C:\Users\Andriyan\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Demo\Mandelbrot-Fractal\obj\Debug\MandelbrotDemo.exe
+C:\Users\Andriyan\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Demo\Mandelbrot-Fractal\obj\Debug\MandelbrotDemo.pdb

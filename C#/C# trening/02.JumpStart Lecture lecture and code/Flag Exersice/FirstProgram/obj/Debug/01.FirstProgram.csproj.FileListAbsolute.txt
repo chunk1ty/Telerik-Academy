@@ -1,6 +1,0 @@
-C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\FirstProgram\bin\Debug\FirstProgram.exe.config
-C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\FirstProgram\bin\Debug\FirstProgram.exe
-C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\FirstProgram\bin\Debug\FirstProgram.pdb
-C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\FirstProgram\obj\Debug\01.FirstProgram.csprojResolveAssemblyReference.cache
-C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\FirstProgram\obj\Debug\FirstProgram.exe
-C:\chunk1ty\C#\c# trening\JumpStart\DayFirst\FirstProgram\obj\Debug\FirstProgram.pdb

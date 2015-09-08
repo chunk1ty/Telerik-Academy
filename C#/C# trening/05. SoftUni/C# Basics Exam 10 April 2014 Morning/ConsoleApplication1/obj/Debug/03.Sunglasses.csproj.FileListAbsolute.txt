@@ -1,6 +1,0 @@
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\ConsoleApplication1\obj\Debug\03.Sunglasses.csprojResolveAssemblyReference.cache
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\chunk1ty\C#\C# trening\05. SoftUni\C# Basics Exam 10 April 2014 Morning\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\18. Creational Patterns\Creational\Singleton\bin\Debug\Singleton.exe.config
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\18. Creational Patterns\Creational\Singleton\bin\Debug\Singleton.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\18. Creational Patterns\Creational\Singleton\bin\Debug\Singleton.pdb
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\18. Creational Patterns\Creational\Singleton\obj\Debug\1. Singleton.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\18. Creational Patterns\Creational\Singleton\obj\Debug\Singleton.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\18. Creational Patterns\Creational\Singleton\obj\Debug\Singleton.pdb

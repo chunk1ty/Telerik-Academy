@@ -1,0 +1,12 @@
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\10. Code Tuning and Optimization\bin\Debug\SolarSystem.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\10. Code Tuning and Optimization\bin\Debug\SolarSystem.pdb
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\10. Code Tuning and Optimization\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\10. Code Tuning and Optimization\obj\Debug\MainWindow.g.cs
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\10. Code Tuning and Optimization\obj\Debug\App.g.cs
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\10. Code Tuning and Optimization\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\10. Code Tuning and Optimization\obj\Debug\SolarSystem_MarkupCompile.cache
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\10. Code Tuning and Optimization\obj\Debug\SolarSystem_MarkupCompile.lref
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\10. Code Tuning and Optimization\obj\Debug\MainWindow.baml
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\10. Code Tuning and Optimization\obj\Debug\SolarSystem.g.resources
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\10. Code Tuning and Optimization\obj\Debug\SolarSystem.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\10. Code Tuning and Optimization\obj\Debug\SolarSystem.pdb

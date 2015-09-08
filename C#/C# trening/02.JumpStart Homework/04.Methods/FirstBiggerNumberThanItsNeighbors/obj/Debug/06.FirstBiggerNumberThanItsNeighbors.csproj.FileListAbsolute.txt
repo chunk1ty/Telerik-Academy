@@ -1,5 +1,0 @@
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\FirstBiggerNumberThanItsNeighbors\bin\Debug\FirstBiggerNumberThanItsNeighbors.exe.config
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\FirstBiggerNumberThanItsNeighbors\bin\Debug\FirstBiggerNumberThanItsNeighbors.exe
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\FirstBiggerNumberThanItsNeighbors\bin\Debug\FirstBiggerNumberThanItsNeighbors.pdb
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\FirstBiggerNumberThanItsNeighbors\obj\Debug\FirstBiggerNumberThanItsNeighbors.exe
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\FirstBiggerNumberThanItsNeighbors\obj\Debug\FirstBiggerNumberThanItsNeighbors.pdb

@@ -1,5 +1,0 @@
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\ReciprocalCycles\bin\Debug\ReciprocalCycles.exe.config
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\ReciprocalCycles\bin\Debug\ReciprocalCycles.exe
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\ReciprocalCycles\bin\Debug\ReciprocalCycles.pdb
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\ReciprocalCycles\obj\Debug\ReciprocalCycles.exe
-C:\chunk1ty\C#\c# trening\07.ProjectEuler\ProjectEuler\ReciprocalCycles\obj\Debug\ReciprocalCycles.pdb

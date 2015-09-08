@@ -1,0 +1,5 @@
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\16. SOLID and Other Principles\SOLID and Other Principles\bin\Debug\SOLID and Other Principles.dll
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\16. SOLID and Other Principles\SOLID and Other Principles\bin\Debug\SOLID and Other Principles.pdb
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\16. SOLID and Other Principles\SOLID and Other Principles\obj\Debug\SOLID and Other Principles.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\16. SOLID and Other Principles\SOLID and Other Principles\obj\Debug\SOLID and Other Principles.dll
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Demo\16. SOLID and Other Principles\SOLID and Other Principles\obj\Debug\SOLID and Other Principles.pdb

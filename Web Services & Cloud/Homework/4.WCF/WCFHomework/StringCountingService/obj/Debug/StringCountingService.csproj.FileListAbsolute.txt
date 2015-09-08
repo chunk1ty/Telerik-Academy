@@ -1,0 +1,6 @@
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\StringCountingService\bin\Debug\StringCountingService.dll.config
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\StringCountingService\bin\Debug\StringCountingService.dll
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\StringCountingService\bin\Debug\StringCountingService.pdb
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\StringCountingService\obj\Debug\StringCountingService.csprojResolveAssemblyReference.cache
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\StringCountingService\obj\Debug\StringCountingService.dll
+C:\Users\Andriyan Krastev\Desktop\WCFHomework\StringCountingService\obj\Debug\StringCountingService.pdb

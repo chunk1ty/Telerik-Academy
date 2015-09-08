@@ -1,0 +1,24 @@
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Data\bin\Debug\StudentsSystem.Data.dll.config
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Data\bin\Debug\StudentsSystem.Data.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Data\bin\Debug\StudentsSystem.Data.pdb
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Data\bin\Debug\EntityFramework.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Data\bin\Debug\StudentsSystem.Models.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Data\bin\Debug\StudentsSystem.Models.pdb
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Data\bin\Debug\EntityFramework.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Data\obj\Debug\StudentsSystem.Data.csprojResolveAssemblyReference.cache
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Data\obj\Debug\StudentsSystem.Data.dll
+D:\master\WebServices\WS-2-WebApi-Homework\StudentsSystem\StudentsSystem.Data\obj\Debug\StudentsSystem.Data.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Data\bin\Debug\StudentsSystem.Data.dll.config
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Data\bin\Debug\StudentsSystem.Data.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Data\bin\Debug\StudentsSystem.Data.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Data\bin\Debug\EntityFramework.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Data\bin\Debug\StudentsSystem.Models.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Data\bin\Debug\StudentsSystem.Models.pdb
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Data\bin\Debug\EntityFramework.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Data\obj\Debug\StudentsSystem.Data.csprojResolveAssemblyReference.cache
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Data\obj\Debug\StudentsSystem.Data.dll
+D:\Chunk1tySVN\Telerik Academy\Software Technologies\2. Homework\2. Web Services & Cloud\2. Asp.Net Web API\StudentsSystem\StudentsSystem.Data\obj\Debug\StudentsSystem.Data.pdb

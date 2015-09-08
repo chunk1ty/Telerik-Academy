@@ -1,6 +1,0 @@
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\MinMaxAverageSumMultiply\bin\Debug\MinMaxAverageSumMultiply.exe.config
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\MinMaxAverageSumMultiply\bin\Debug\MinMaxAverageSumMultiply.exe
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\MinMaxAverageSumMultiply\bin\Debug\MinMaxAverageSumMultiply.pdb
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\MinMaxAverageSumMultiply\obj\Debug\09.MinMaxAverageSumMultiply.csprojResolveAssemblyReference.cache
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\MinMaxAverageSumMultiply\obj\Debug\MinMaxAverageSumMultiply.exe
-D:\chunk1ty\C#\C# trening\02.JumpStart Exercise\MethodsJumpStart\MinMaxAverageSumMultiply\obj\Debug\MinMaxAverageSumMultiply.pdb

@@ -1,6 +1,0 @@
-D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\StringExtension\StringExtension\bin\Debug\StringExtension.exe.config
-D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\StringExtension\StringExtension\obj\Debug\StringExtension.csprojResolveAssemblyReference.cache
-D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\StringExtension\StringExtension\bin\Debug\StringExtension.exe
-D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\StringExtension\StringExtension\bin\Debug\StringExtension.pdb
-D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\StringExtension\StringExtension\obj\Debug\StringExtension.exe
-D:\chunk1ty\C#\C# trening\01.Teleric Homework\4. High Quality Code\StringExtension\StringExtension\obj\Debug\StringExtension.pdb

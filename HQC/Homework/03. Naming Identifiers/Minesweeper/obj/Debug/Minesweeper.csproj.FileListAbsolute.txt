@@ -1,0 +1,6 @@
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\03. Naming Identifiers\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\03. Naming Identifiers\Minesweeper\bin\Debug\Minesweeper.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\03. Naming Identifiers\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\03. Naming Identifiers\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\03. Naming Identifiers\Minesweeper\obj\Debug\Minesweeper.exe
+D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\03. Naming Identifiers\Minesweeper\obj\Debug\Minesweeper.pdb
