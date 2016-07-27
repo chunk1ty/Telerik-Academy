@@ -4,3 +4,4 @@ D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\DoubleListImp
 D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\DoubleListImplementation\obj\Debug\DoubleListImplementation.exe
 D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\DoubleListImplementation\obj\Debug\DoubleListImplementation.pdb
 D:\Chunk1tySVN\Telerik Academy\C#\MyImplementationOfDataStructures\DoubleListImplementation\obj\Debug\02.DoubleListImplementation.csprojResolveAssemblyReference.cache
+C:\chunk1ty\Programming\Telerik\Academy\chunk1ty\DSA\MyImplementationOfDataStructures\DoubleListImplementation\bin\Debug\DoubleListImplementation.exe.config

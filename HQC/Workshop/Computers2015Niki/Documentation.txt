@@ -1,0 +1,50 @@
+Design pattern: Simple Factory
+	* In ManufacturerFactory class, method GetManufacturer is simple factory creating different type of IComputersFactory based on given string
+
+Design pattern: Strategy
+	* In Laptop constructor the battery can vary
+	* Cpu can work with any IMotherboard components
+	* In Computer constructor IRam can vary
+
+Design pattern: Template Method
+	* Cpu has method SquareNumber which uses the abstract method GetMaxValue which is implemented in Cpu32, Cpu64 and Cpu128
+
+Design pattern: Abstract factory
+	* Introduced IComputersFactory as a base class for HpComputersFactory and DellComputersFactory which creates different type of computers
+
+Design pattern: Composite
+	* SingleHardDrive and RaidArray are both HardDrive and RaidArray contains other HardDrives
+
+Design pattern: Mediator
+	* Motherboard is mediator for all computer components (e.g. CPU)
+
+Found bottlenecks:
+	* In Cpu.Rand getting random number is in while loop which slows down the operation
+	* SquareNumber uses for loop for squaring the number
+
+Found bugs:
+	* When invalid command name is given the program does not output message "Invalid command!"
+	* When "process" command is exectuted NullReferenceException is thrown
+	* System.Collections.Generic.dll with single class was referenced in out assembly
+	* When printing battery status the "%" sign was missing
+
+Single responsibility principle
+	* All manufaturer are responsible only for creating computers
+	* VideoCard is responsible for printing, HardDrive is responsible for saving data
+	* Laptop, Server, PC are separate classes
+
+Open/closed principle
+	* The ram memory can be interganged by the client without touching the original code
+	* The laptop battery can be interganged by the client without touching the original code 
+
+Liskov substitution principle
+	* All inheritants can be used instead of their parent without problems
+	* All classes are intergangeable without problems
+
+Interface segregation principle
+	* All interfaces are small and well-defined
+
+Dependency inversion principle
+	* Computer ram should be passed in Computer.ctor()
+	* Laptop expects ILaptopBattery which gives us the possibillity of defining own ILaptopBattery
+	* Cpu.AttachTo expects interfaces which is used in SqureNumberShouldOutputCorrectValues
