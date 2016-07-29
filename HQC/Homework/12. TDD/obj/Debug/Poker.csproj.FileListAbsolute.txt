@@ -1,5 +1,7 @@
-D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\12. TDD\bin\Debug\Poker.exe
-D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\12. TDD\bin\Debug\Poker.pdb
-D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\12. TDD\obj\Debug\Poker.csprojResolveAssemblyReference.cache
-D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\12. TDD\obj\Debug\Poker.exe
-D:\Programming\Telerik\Academy\chunk1ty\HQC\Homework\12. TDD\obj\Debug\Poker.pdb
+C:\chunk1ty\Programming\GitRep\Telerik-Academy\Unit-Testing\Topics\02. Test-Driven Development\demos\bin\Debug\Poker.exe
+C:\chunk1ty\Programming\GitRep\Telerik-Academy\Unit-Testing\Topics\02. Test-Driven Development\demos\bin\Debug\Poker.pdb
+C:\chunk1ty\Programming\GitRep\Telerik-Academy\Unit-Testing\Topics\02. Test-Driven Development\demos\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\chunk1ty\Programming\GitRep\Telerik-Academy\Unit-Testing\Topics\02. Test-Driven Development\demos\obj\Debug\Poker.exe
+C:\chunk1ty\Programming\GitRep\Telerik-Academy\Unit-Testing\Topics\02. Test-Driven Development\demos\obj\Debug\Poker.pdb
+C:\chunk1ty\Programming\GitRep\Telerik-Academy\HQC\Homework\12. TDD\obj\Debug\Poker.exe
+C:\chunk1ty\Programming\GitRep\Telerik-Academy\HQC\Homework\12. TDD\obj\Debug\Poker.pdb
