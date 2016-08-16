@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IntergalacticTravel.BusinessOwner" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAA=</HashCode>
+      <FileName>BusinessOwner.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IntergalacticTravel.Lacaille" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lacaille.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergalacticTravel.Luyten" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Luyten.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergalacticTravel.Procyon" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Procyon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergalacticTravel.Resources" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEQAAhBAABI=</HashCode>
+      <FileName>Resources.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="IntergalacticTravel.ResourcesFactory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgAAAAAAEEACAAAABAAEAIBAAAAAAAAAGAAAAAA=</HashCode>
+      <FileName>ResourcesFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="IntergalacticTravel.TeleportStation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgCAAAAAACAICAAAAAACAAAgAAAACEAQ=</HashCode>
+      <FileName>TeleportStation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="IntergalacticTravel.TheOneThatRulesThemAll" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TheOneThatRulesThemAll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergalacticTravel.Unit" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAiAAAAAABAiAAQBIAAEAAACAAAAAgAA=</HashCode>
+      <FileName>Unit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IntergalacticTravel.UnitsFactory" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAgAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnitsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergalacticTravel.Constants.GlobalConstants" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAGAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants\GlobalConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergalacticTravel.Exceptions.InsufficientResourcesException" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\InsufficientResourcesException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergalacticTravel.Exceptions.InvalidTeleportationLocationException" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\InvalidTeleportationLocationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergalacticTravel.Exceptions.InvalidUnitCreationCommandException" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\InvalidUnitCreationCommandException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergalacticTravel.Exceptions.LocationNotFoundException" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\LocationNotFoundException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergalacticTravel.Exceptions.TeleportOutOfRangeException" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\TeleportOutOfRangeException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergalacticTravel.Extensions.IEnumerableExtensions" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Extensions\IEnumerableExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntergalacticTravel.Extensions.ObjectExtensions" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Extensions\ObjectExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IntergalacticTravel.Contracts.IBusinessOwner" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Contracts\IBusinessOwner.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergalacticTravel.Contracts.IGalaxy" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IGalaxy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergalacticTravel.Contracts.IGPSCoordinates" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IGPSCoordinates.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergalacticTravel.Contracts.ILocation" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Contracts\ILocation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergalacticTravel.Contracts.INameable" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\INameable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergalacticTravel.Contracts.IPath" Collapsed="true">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IPath.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergalacticTravel.Contracts.IPlanet" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAACAAAA=</HashCode>
+      <FileName>Contracts\IPlanet.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergalacticTravel.Contracts.IResources" Collapsed="true">
+    <Position X="15.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAABBAABI=</HashCode>
+      <FileName>Contracts\IResources.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergalacticTravel.Contracts.IResourcesFactory" Collapsed="true">
+    <Position X="10" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Contracts\IResourcesFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergalacticTravel.Contracts.ITeleportStation" Collapsed="true">
+    <Position X="11.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAACAAA=</HashCode>
+      <FileName>Contracts\ITeleportStation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntergalacticTravel.Contracts.IUnit" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAAAAABAiAAAAAAAEAAAAAAAAAgAA=</HashCode>
+      <FileName>Contracts\IUnit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
