@@ -13,11 +13,11 @@ namespace SchoolSystem.Framework.Models
 
         private readonly IMarkFactory _markFactory;
 
-        public Teacher(string firstName, string lastName, Subject subject, IMarkFactory schoolFactory)
+        public Teacher(string firstName, string lastName, Subject subject, IMarkFactory markFactory)
             : base(firstName, lastName)
         {
             this.Subject = subject;
-            this._markFactory = schoolFactory;
+            this._markFactory = markFactory;
         }
 
         public Subject Subject { get; set; }

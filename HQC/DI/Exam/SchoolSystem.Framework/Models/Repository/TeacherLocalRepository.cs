@@ -4,11 +4,11 @@ using System.Collections.Generic;
 
 namespace SchoolSystem.Framework.Models.Repository
 {
-    public class TeacherRepository : ITeacherRepository
+    public class TeacherLocalRepository : ITeacherRepository
     {
         private readonly IDictionary<int, ITeacher> _teachers;
 
-        public TeacherRepository()
+        public TeacherLocalRepository()
         {
             this._teachers = new Dictionary<int, ITeacher>();
         }

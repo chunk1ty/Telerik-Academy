@@ -9,6 +9,12 @@ namespace SchoolSystem.Framework.Core.Commands
         private readonly IStudentRepository _studentRepository;
         private readonly ITeacherRepository _teacherRepository;
 
+        public TeacherAddMarkCommand(IStudentRepository studentRepository, ITeacherRepository teacherRepository)
+        {
+            this._studentRepository = studentRepository;
+            this._teacherRepository = teacherRepository;
+        }
+
         public string Execute(IList<string> parameters)
         {
             var teacherId = int.Parse(parameters[0]);

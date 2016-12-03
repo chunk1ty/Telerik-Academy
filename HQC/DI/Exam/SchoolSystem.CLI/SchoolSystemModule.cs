@@ -26,10 +26,12 @@ namespace SchoolSystem.Cli
             Kernel.Bind(x =>
             {
                 x.FromAssembliesInPath(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location))
-                .SelectAllClasses()
-                .Where(type => type != typeof(StudentRepository))
+                .SelectAllClasses()                
                 .BindDefaultInterface();
             });
+
+            Kernel.Bind<IStudentRepository>().To<StudentLocalRepository>().InSingletonScope();
+            Kernel.Bind<ITeacherRepository>().To<TeacherLocalRepository>().InSingletonScope();
 
             Kernel.Bind<Engine>().ToSelf().InSingletonScope();
 
@@ -55,14 +57,11 @@ namespace SchoolSystem.Cli
 
             if (configurationProvider.IsTestEnvironment)
             {
-                // Ninject.Extensions.Interception external package for Interceptor
+                // Ninject.Extensions.Interception and Ninject.Extensions.Interception.DynamicProxt external packages for Interceptor
                 commandFactoryBinding.Intercept().With<StopwatchInterceptor>();
                 studentFactoryBinding.Intercept().With<StopwatchInterceptor>();
                 markFactoryBinding.Intercept().With<StopwatchInterceptor>();
             }
-
-            Kernel.Bind<IStudentRepository>().To<StudentRepository>().InSingletonScope();
-            Kernel.Bind<ITeacherRepository>().To<TeacherRepository>().InSingletonScope();
 
             // ToMethod() -> implement GetCommand method (from ICommand interface)
             Kernel.Bind<ICommand>().ToMethod(context => 

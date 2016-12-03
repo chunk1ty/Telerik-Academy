@@ -15,11 +15,13 @@ namespace SchoolSystem.Cli.Interceptors
             this.stopwatch = new Stopwatch();
         }
 
+        // behavior before and after some behavior
         public void Intercept(IInvocation invocation)
         {
             this.writer.WriteLine($"Calling method {invocation.Request.Method.Name} of type {invocation.Request.Method.DeclaringType.Name}...");
 
             this.stopwatch.Start();
+            // this is the behavior of the wanted behavior
             invocation.Proceed();
             this.stopwatch.Stop();
 
