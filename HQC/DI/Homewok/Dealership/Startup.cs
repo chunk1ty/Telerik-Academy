@@ -1,6 +1,5 @@
 ﻿using Dealership.Engine;
-using System;
-using System.IO;
+using Ninject;
 
 namespace Dealership
 {
@@ -8,7 +7,11 @@ namespace Dealership
     {
         public static void Main()
         {
-            DealershipEngine.Instance.Start();
+            IKernel kernel = new StandardKernel(new NinjectConfigurationModule());
+
+            IEngine engine = kernel.Get<IEngine>();
+
+            engine.Start();
         }
     }
 }

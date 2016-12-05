@@ -34,27 +34,17 @@ namespace Dealership.Engine
         private const string RemovedCommentDoesNotExist = "Cannot remove comment! The comment does not exist!";
 
         private const string CommentDoesNotExist = "The comment does not exist!";
-        private const string VehicleDoesNotExist = "The vehicle does not exist!";
-
-        private static readonly IEngine SingleInstance = new DealershipEngine();
+        private const string VehicleDoesNotExist = "The vehicle does not exist!";        
 
         private IDealershipFactory factory;
         private ICollection<IUser> users;
         private IUser loggedUser;
 
-        private DealershipEngine()
+        public DealershipEngine(IDealershipFactory factory)
         {
-            this.factory = new DealershipFactory();
+            this.factory = factory;
             this.users = new List<IUser>();
             this.loggedUser = null;
-        }
-
-        public static IEngine Instance
-        {
-            get
-            {
-                return SingleInstance;
-            }
         }
 
         public void Start()
@@ -66,7 +56,7 @@ namespace Dealership.Engine
 
         public void Reset()
         {
-            this.factory = new DealershipFactory();
+            //this.factory = new DealershipFactory();
             this.users = new List<IUser>();
             this.loggedUser = null;
             var commands = new List<ICommand>();
@@ -217,7 +207,7 @@ namespace Dealership.Engine
                 return string.Format(UserAlreadyExist, username);
             }
 
-            var user = this.factory.CreateUser(username, firstName, lastName, password, role.ToString());
+            var user = this.factory.CreateUser(username, firstName, lastName, password, role);
             this.loggedUser = user;
             this.users.Add(user);
 
