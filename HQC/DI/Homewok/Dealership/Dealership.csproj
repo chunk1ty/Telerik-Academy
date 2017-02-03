@@ -72,9 +72,13 @@
     <Compile Include="Contracts\IUser.cs" />
     <Compile Include="Contracts\IVehicle.cs" />
     <Compile Include="Engine\Command.cs" />
+    <Compile Include="Engine\CommandHandler.cs" />
     <Compile Include="Engine\DealershipEngine.cs" />
     <Compile Include="Engine\ICommand.cs" />
     <Compile Include="Engine\IEngine.cs" />
+    <Compile Include="Engine\RegisterUserCommandHandler.cs" />
+    <Compile Include="Engine\UserNotLoggedCommandHandler.cs" />
+    <Compile Include="Engine\UserProvider.cs" />
     <Compile Include="Factories\IDealershipFactory.cs" />
     <Compile Include="Models\Car.cs" />
     <Compile Include="Models\Comment.cs" />
