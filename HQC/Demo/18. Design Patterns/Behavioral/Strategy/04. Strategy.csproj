@@ -42,10 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConsoleLogger.cs" />
-    <Compile Include="DoSomethingImportant.cs" />
-    <Compile Include="FileLogger.cs" />
-    <Compile Include="ILogger.cs" />
+    <Compile Include="ConsoleLoggerStrategy.cs" />
+    <Compile Include="Context.cs" />
+    <Compile Include="FileLoggerStrategy.cs" />
+    <Compile Include="ILoggerStrategy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
   </ItemGroup>
