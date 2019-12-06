@@ -42,13 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Products\EyePhone.cs" />
+    <Compile Include="Products\XiaomiMi.cs" />
     <Compile Include="Products\Gsm.cs" />
     <Compile Include="Manufacturers\Manufacturer.cs" />
-    <Compile Include="Manufacturers\PearComputers.cs" />
+    <Compile Include="Manufacturers\XiaomiFactory.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Manufacturers\SamunComputers.cs" />
-    <Compile Include="Products\SamunGalaxy.cs" />
+    <Compile Include="Manufacturers\SamsungFactory.cs" />
+    <Compile Include="Products\SamsungGalaxy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

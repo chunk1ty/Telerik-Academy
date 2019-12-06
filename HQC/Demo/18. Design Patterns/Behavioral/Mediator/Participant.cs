@@ -7,33 +7,23 @@
     /// </summary>
     public abstract class Participant
     {
-        private readonly string name;
-        private AbstractChatRoom chatRoom;
-
         protected Participant(string name)
         {
-            this.name = name;
+            this.Name = name;
         }
 
-        public string Name
-        {
-            get { return this.name; }
-        }
+        public string Name { get; }
 
-        public AbstractChatRoom ChatRoom
-        {
-            get { return this.chatRoom; }
-            set { this.chatRoom = value; }
-        }
+        public AbstractChatRoom ChatRoom { get; set; }
 
         public void Send(string to, string message)
         {
-            this.chatRoom.Send(this.name, to, message);
+            ChatRoom.Send(this.Name, to, message);
         }
 
         public void SendToAll(string message)
         {
-            this.chatRoom.SendToAll(this.name, message);
+            ChatRoom.SendToAll(this.Name, message);
         }
 
         public virtual void Receive(string from, string message)

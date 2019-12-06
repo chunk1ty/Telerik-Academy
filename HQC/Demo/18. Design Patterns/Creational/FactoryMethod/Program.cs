@@ -1,31 +1,29 @@
-﻿namespace FactoryMethod
+﻿using System;
+using System.Configuration;
+
+using FactoryMethod.Manufacturers;
+
+namespace FactoryMethod
 {
-    using System;
-    using System.Configuration;
-    using System.Reflection;
-
-    using FactoryMethod.Manufacturers;
-
     public static class Program
     {
         public static void Main()
         {
-            WorkWithPhone(new PearComputers());
-            Console.WriteLine(new string('-', 60));
+            var factory = ConfigurationManager.AppSettings["ManufacturerFactory"];
 
-            WorkWithPhone(new SamunComputers());
-            Console.WriteLine(new string('-', 60));
+            Manufacturer manufacturer;
+            switch (factory)
+            {
+                case "Xiaomi":
+                    manufacturer = new XiaomiFactory();
+                    break;
+                case "Samsung":
+                    manufacturer = new SamsungFactory();
+                    break;
+                default:
+                    throw new Exception("Factory not found");
+            }
 
-            var factoryClassName = ConfigurationManager.AppSettings["ManufacturerFactory"];
-            var manufacturer =
-                Assembly.GetExecutingAssembly()
-                .CreateInstance(factoryClassName) as Manufacturer;
-            WorkWithPhone(manufacturer);
-            Console.WriteLine(new string('-', 60));
-        }
-
-        private static void WorkWithPhone(Manufacturer manufacturer)
-        {
             var phone = manufacturer.ManufactureGsm();
             Console.WriteLine(phone.ToString());
             phone.Start();

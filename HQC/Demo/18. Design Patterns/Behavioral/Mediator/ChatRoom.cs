@@ -7,14 +7,13 @@
     /// </summary>
     public class ChatRoom : AbstractChatRoom
     {
-        private readonly Dictionary<string, Participant> participants =
-            new Dictionary<string, Participant>();
+        private readonly Dictionary<string, Participant> participants = new Dictionary<string, Participant>();
 
         public override void Register(Participant participant)
         {
-            if (!this.participants.ContainsValue(participant))
+            if (!participants.ContainsValue(participant))
             {
-                this.participants[participant.Name] = participant;
+                participants[participant.Name] = participant;
             }
 
             participant.ChatRoom = this;
@@ -22,7 +21,7 @@
 
         public override void Send(string from, string to, string message)
         {
-            var participant = this.participants[to];
+            var participant = participants[to];
 
             if (participant != null)
             {
@@ -32,7 +31,7 @@
 
         public override void SendToAll(string @from, string message)
         {
-            foreach (var participant in this.participants)
+            foreach (var participant in participants)
             {
                 if (participant.Key != @from)
                 {

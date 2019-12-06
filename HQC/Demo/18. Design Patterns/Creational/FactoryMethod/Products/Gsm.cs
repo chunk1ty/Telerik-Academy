@@ -1,7 +1,10 @@
-﻿namespace FactoryMethod.Products
-{
-    using System.Text;
+﻿using System.Text;
 
+namespace FactoryMethod.Products
+{
+    /// <summary>
+    /// The product interface declares the operations that all concrete products must implement.
+    /// </summary>
     public abstract class Gsm
     {
         public int BatteryLife { get; set; }
