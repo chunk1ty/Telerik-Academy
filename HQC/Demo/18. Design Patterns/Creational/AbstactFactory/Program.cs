@@ -1,24 +1,27 @@
-﻿namespace AbstractFactory
+﻿using System;
+using AbstractFactory.Factories;
+
+namespace AbstractFactory
 {
-    using System;
-
-    using AbstractFactory.Factories;
-
     public static class Program
     {
         public static void Main()
         {
-            var pizzaPlace = new AlfreddosPlace(); // new PizzaExtraordinaire();
-            var yamYam = new OnlineDeliveryCompany(pizzaPlace);
+            //VictorianFurnitureFactory victorianFurnitureFactory = new VictorianFurnitureFactory();
+            //FurnitureClient client = new FurnitureClient(victorianFurnitureFactory);
 
-            var cheesePizza = yamYam.DeliverCheesePizza();
-            Console.WriteLine(cheesePizza.ToString());
+            ModernFurnitureFactory modernFurnitureFactory = new ModernFurnitureFactory();
+            FurnitureClient client = new FurnitureClient(modernFurnitureFactory);
 
-            var calzone = yamYam.DeliverCalzone();
-            Console.WriteLine(calzone.ToString());
+            var table = client.CreteCoffeeTable();
+            Console.WriteLine(table.Name);
 
-            var pepperoniPizza = yamYam.DeliverPepperoniPizza();
-            Console.WriteLine(pepperoniPizza.ToString());
+            var chair = client.CreateChair();
+            Console.WriteLine(chair.Legs);
+
+            var sofa = client.CreateSofa();
+            sofa.SitOn();
         }
     }
 }
+

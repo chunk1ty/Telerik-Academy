@@ -47,14 +47,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Factories\AbstractPizzaFactory.cs" />
-    <Compile Include="Factories\AlfreddosPlace.cs" />
-    <Compile Include="Pizzas\Calzone.cs" />
-    <Compile Include="Pizzas\CheesePizza.cs" />
-    <Compile Include="OnlineDeliveryCompany.cs" />
-    <Compile Include="Pizzas\PepperoniPizza.cs" />
-    <Compile Include="Pizzas\Pizza.cs" />
-    <Compile Include="Factories\PizzaExtraordinaire.cs" />
+    <Compile Include="Factories\IFurnitureFactory.cs" />
+    <Compile Include="Factories\ModernFurnitureFactory.cs" />
+    <Compile Include="Factories\VictorianFurnitureFactory.cs" />
+    <Compile Include="FurnitureClient.cs" />
+    <Compile Include="Products\Chairs\IChair.cs" />
+    <Compile Include="Products\Chairs\ModernChair.cs" />
+    <Compile Include="Products\Chairs\VictorianChair.cs" />
+    <Compile Include="Products\CoffeeTables\ICoffeeTable.cs" />
+    <Compile Include="Products\CoffeeTables\ModernCoffeeTable.cs" />
+    <Compile Include="Products\CoffeeTables\VictorianCoffeeTable.cs" />
+    <Compile Include="Products\Sofas\ISofa.cs" />
+    <Compile Include="Products\Sofas\ModernSofa.cs" />
+    <Compile Include="Products\Sofas\VictorianSofa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
