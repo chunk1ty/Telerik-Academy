@@ -1,4 +1,6 @@
-﻿namespace Singleton
+﻿using System.Threading.Tasks;
+
+namespace Singleton
 {
     public static class Program
     {
@@ -11,10 +13,10 @@
             var log2 = Logger.Instance;
             log2.SaveToLog("An event from log2... Mind = Blown!");
 
-            log.PrintLog();
+            //log.PrintLog();
 
-            // Parallel.For(0, 6, x => { Logger.Instance.SaveToLog(x.ToString()); });
-            // Logger.Instance.PrintLog();
+            Parallel.For(0, 6, x => { Logger.Instance.SaveToLog(x.ToString()); });
+            Logger.Instance.PrintLog();
         }
     }
 }
