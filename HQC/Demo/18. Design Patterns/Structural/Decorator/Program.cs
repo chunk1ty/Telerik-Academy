@@ -1,4 +1,7 @@
-﻿namespace Decorator
+﻿using Decorator.ConcreteComponent;
+using Decorator.Decorators;
+
+namespace Decorator
 {
     using System;
 
