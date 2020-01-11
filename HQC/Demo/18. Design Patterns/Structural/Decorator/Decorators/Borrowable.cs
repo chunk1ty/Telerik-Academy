@@ -1,10 +1,10 @@
-﻿namespace Decorator
-{
-    using System;
-    using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
+namespace Decorator.Decorators
+{
     /// <summary>
-    /// The 'ConcreteDecorator' class
+    /// The 'ConcreteDecorator' class - adds responsibilities to the component
     /// </summary>
     internal class Borrowable : Decorator
     {
@@ -17,14 +17,14 @@
 
         public void BorrowItem(string name)
         {
-            this.borrowers.Add(name);
-            this.LibraryItem.CopiesCount--;
+            borrowers.Add(name);
+            LibraryItem.CopiesCount--;
         }
 
         public void ReturnItem(string name)
         {
-            this.borrowers.Remove(name);
-            this.LibraryItem.CopiesCount++;
+            borrowers.Remove(name);
+            LibraryItem.CopiesCount++;
         }
 
         public override void Display()

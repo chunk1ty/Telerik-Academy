@@ -41,18 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Book.cs" />
-    <Compile Include="Borrowable.cs" />
-    <Compile Include="Buyable.cs" />
+    <Compile Include="ConcreteComponent\Book.cs" />
+    <Compile Include="ConcreteComponent\Video.cs" />
     <Compile Include="Decorator.cs" />
+    <Compile Include="Decorators\Borrowable.cs" />
+    <Compile Include="Decorators\Buyable.cs" />
     <Compile Include="LibraryItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Video.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

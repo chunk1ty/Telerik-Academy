@@ -1,9 +1,9 @@
-﻿namespace Decorator
-{
-    using System;
+﻿using System;
 
+namespace Decorator.ConcreteComponent
+{
     /// <summary>
-    /// The 'ConcreteComponent' class
+    /// The 'ConcreteComponent' class - defines an object to which additional responsibilities can be attached.
     /// </summary>
     internal class Video : LibraryItem
     {

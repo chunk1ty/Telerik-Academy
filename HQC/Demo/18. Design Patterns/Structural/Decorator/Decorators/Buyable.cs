@@ -1,7 +1,10 @@
-﻿namespace Decorator
-{
-    using System;
+﻿using System;
 
+namespace Decorator.Decorators
+{
+    /// <summary>
+    /// The 'ConcreteDecorator' class - adds responsibilities to the component
+    /// </summary>
     internal class Buyable : Decorator
     {
         private readonly int price;
