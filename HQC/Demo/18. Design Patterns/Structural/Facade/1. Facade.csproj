@@ -41,12 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Database.cs" />
-    <Compile Include="HomeTheaterPro.cs" />
-    <Compile Include="InteriorController.cs" />
-    <Compile Include="Player.cs" />
-    <Compile Include="IPlayer.cs" />
-    <Compile Include="MediaEntity.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
